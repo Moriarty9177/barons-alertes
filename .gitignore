@@ -1,0 +1,7 @@
+config-privee.json
+etat.json
+*.tmp
+.venv/
+__pycache__/
+*.pyc
+.env
