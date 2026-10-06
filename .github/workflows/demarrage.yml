@@ -1,0 +1,41 @@
+name: Premier demarrage des alertes
+
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/demarrage.yml']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: barons-surveillance
+  cancel-in-progress: false
+
+jobs:
+  demarrage:
+    if: github.event.repository.private == false
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Charger le programme
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+        with:
+          persist-credentials: false
+      - name: Preparer Python
+        uses: actions/setup-python@a26af69be951a213d495a4c3e4e4022e16d87065 # v5
+        with:
+          python-version: '3.13'
+      - name: Installer les dependances
+        run: python -m pip install -r requirements.txt
+      - name: Tester la notification Android
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: python cloud_runner.py --mode tester_notification
+      - name: Lire le catalogue et initialiser la surveillance
+        env:
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+          GITHUB_TOKEN: ${{ github.token }}
+          PYTHONUNBUFFERED: '1'
+        run: python cloud_runner.py --mode surveiller

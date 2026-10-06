@@ -8,8 +8,8 @@ Cette version fonctionne sur **GitHub Actions**, indépendamment de l'ordinateur
 
 1. Créer un dépôt public dédié, avec une branche principale `main`, puis y déposer les fichiers de ce projet, y compris `.github/workflows/`.
 2. Dans le dépôt, ouvrir **Settings → Secrets and variables → Actions → New repository secret**. Nom : **`NTFY_TOPIC`**. Valeur : le sujet `barons-…` de l'abonnement ntfy déjà utilisé sur Android. Il se trouve aussi dans `config-privee.json` de l'installation Windows, au champ `ntfy_topic`. Copier uniquement cette valeur dans le formulaire GitHub, sans guillemets.
-3. Dans **Actions → Alertes Pokemon → Run workflow**, choisir `tester_notification`, puis vérifier la réception sur le téléphone.
-4. Relancer ce workflow avec le mode `surveiller`. Vérifier que le journal indique le nombre de fiches et de pages lues, et la création de la base distante. Les premières fiches ne déclenchent pas toutes une alerte.
+3. Le dépôt du fichier de démarrage déclenche **Premier demarrage des alertes** : il envoie un test sur Android puis effectue un premier passage. Vérifier la réception du message et le journal de cette tâche.
+4. Vérifier que ce premier passage indique le nombre de fiches et de pages lues, et la création de la base distante. Les premières fiches ne déclenchent pas toutes une alerte. Si le secret a été ajouté après ce dépôt, relancer **Premier demarrage des alertes** depuis **Actions → Run workflow**, ou utiliser **Alertes Pokemon → Run workflow** avec `tester_notification` puis `surveiller`.
 5. Une fois ce passage distant réussi et le test mobile reçu, arrêter la surveillance Windows avec **Ctrl+C**. Le PC peut alors être éteint. Faire tourner les deux versions en même temps peut produire deux alertes pour un événement.
 
 **Ne publier ni `config-privee.json`, ni un sujet ntfy, ni un jeton GitHub dans les fichiers.** Le jeton utilisé pendant l'exécution est fourni automatiquement par GitHub ; il ne faut pas créer de jeton personnel. ntfy reste configuré sur Android, avec le même sujet et le serveur `https://ntfy.sh`.
