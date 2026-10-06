@@ -1,8 +1,750 @@
 {
-  "initialized": false,
+  "initialized": true,
   "scope": "pokemon_category_without_singles_v3",
-  "products": {},
+  "products": {
+    "206990": {
+      "id": "206990",
+      "title": "Pokémon - Duopack - ME04 & ME05 - Chaos Ascendant et Nuit Noire + 3 cartes promos - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-duopack-me04-me05-chaos-ascendant-et-nuit-noire-3-cartes-promos-en-francais/",
+      "price": 13.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "204661": {
+      "id": "204661",
+      "title": "Pokémon - Pack - 1 Pokébox 30e ans Nymphali ex + 1 Bundle Nuit Noire + 1 Tripack Nuit Noire - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pack-1-pokebox-30e-ans-nymphali-ex-1-bundle-nuit-noire-1-tripack-nuit-noire-en-francais/",
+      "price": 101.99,
+      "availability": "precommande",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "204623": {
+      "id": "204623",
+      "title": "Pokémon - Pack - 1 Deck 30e ans Mentali + 1 Deck Mewtwo ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-produits/pokemon-pack-1-deck-30e-ans-mentali-1-deck-mewtwo-ex-en-francais/",
+      "price": 84.99,
+      "availability": "precommande",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "204622": {
+      "id": "204622",
+      "title": "Pokémon - Pack - 1 Deck 30e ans Noctali + 1 Deck Mewtwo ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-produits/pokemon-pack-1-deck-30e-ans-noctali-1-deck-mewtwo-ex-en-francais/",
+      "price": 84.99,
+      "availability": "precommande",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "204001": {
+      "id": "204001",
+      "title": "Pokémon - Pack - Coffret Méga-Amphinobi + Coffret Premiers Partenaires Série 3 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-produits/pokemon-pack-coffret-mega-amphinobi-coffret-premiers-partenaires-serie-3-en-francais/",
+      "price": 84.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "204000": {
+      "id": "204000",
+      "title": "Pokémon - Pack - Coffret Méga-Zygarde + Coffret Premiers Partenaires Série 3 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-produits/pokemon-pack-coffret-mega-zygarde-coffret-premiers-partenaires-serie-3-en-francais/",
+      "price": 89.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "202177": {
+      "id": "202177",
+      "title": "Pokémon - Pack - 1 Coffret Méga-Amphinobi + 1 Pokébox Méga Mélodelfe + 1 Coffret Nymphali 30e Anniversaire - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-mega-amphinobi-1-pokebox-mega-melodelfe-1-coffret-nymphali-30e-anniversaire-en-francais/",
+      "price": 124.99,
+      "availability": "commandable",
+      "item_category": "Pokebox Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "202038": {
+      "id": "202038",
+      "title": "Pokémon - Portfolio - Gardevoir - Chaos Ascendant - ME04 - Portfolio",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/accessoires-pokemon/pokemon-portfolio-gardevoir-chaos-ascendant-me04-portfolio/",
+      "price": 19.99,
+      "availability": "commandable",
+      "item_category": "Accessoires Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "197090": {
+      "id": "197090",
+      "title": "Pokémon - Display - Black Bolt - SV11B - Boite de 20 boosters en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-black-bolt-sv11b-boite-de-20-boosters-en-japonais/",
+      "price": 229.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "197089": {
+      "id": "197089",
+      "title": "Pokémon - Display - White Flare - SV11W - Boite de 20 boosters en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-white-flare-sv11w-boite-de-20-boosters-en-japonais/",
+      "price": 189.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "197088": {
+      "id": "197088",
+      "title": "Pokémon - Display - Mega Brave - M1L - Boite de 30 boosters en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-mega-brave-m1l-boite-de-30-boosters-en-japonais/",
+      "price": 119.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "197083": {
+      "id": "197083",
+      "title": "Pokémon - Blister - Nuit Noire - ME05 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-blister-nuit-noire-me05-en-francais/",
+      "price": 7.99,
+      "availability": "commandable",
+      "item_category": "Booster Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "193329": {
+      "id": "193329",
+      "title": "Pokemon - Sleeves - Pikachu - 65 Protèges Cartes",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokemon-sleeves-pikachu-65-proteges-cartes/",
+      "price": 10.99,
+      "availability": "commandable",
+      "item_category": "Autres TCG",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "193330": {
+      "id": "193330",
+      "title": "Pokémon - Portfolio Miaouss - 4 pochettes - Équilibre Parfait - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/accessoires-pokemon/pokemon-portfolio-miaouss-4-pochettes-equilibre-parfait-en-francais/",
+      "price": 11.99,
+      "availability": "commandable",
+      "item_category": "Accessoires Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "193319": {
+      "id": "193319",
+      "title": "Pokémon - Pokébox - Méga Zeraora ex - 2026 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pokebox-mega-zeraora-ex-2026-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Pokebox Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "193318": {
+      "id": "193318",
+      "title": "Pokémon - Pokébox - Méga Darkrai ex - 2026 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pokebox-mega-darkrai-ex-2026-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Pokebox Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "193317": {
+      "id": "193317",
+      "title": "Pokémon - Pokébox - Méga Dracolosse ex - 2026 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pokebox-mega-dracolosse-ex-2026-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Pokebox Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "193332": {
+      "id": "193332",
+      "title": "Pokémon - Portfolio Ectoplasma - 9 pochettes - Nuit Noire - ME05 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-portfolio-ectoplasma-9-pochettes-nuit-noire-me05-en-francais/",
+      "price": 19.99,
+      "availability": "commandable",
+      "item_category": "Accessoires Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "191590": {
+      "id": "191590",
+      "title": "Pokémon - Deck - Préconstruits - Let's Play - Evoli - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-preconstruits-lets-play-evoli-en-francais/",
+      "price": 34.99,
+      "availability": "commandable",
+      "item_category": "Deck de Combat Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "191273": {
+      "id": "191273",
+      "title": "Pokémon – Deck – Kangourex-ex – en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-kangourex-ex-en-francais/",
+      "price": 14.99,
+      "availability": "commandable",
+      "item_category": "Deck de Combat Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "190191": {
+      "id": "190191",
+      "title": "Pokémon - Duopack - Chaos Ascendant & Nuit Noire - ME04 & ME05 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-duopack-chaos-ascendant-nuit-noire-me04-me05-en-francais/",
+      "price": 11.99,
+      "availability": "commandable",
+      "item_category": "Duo-Pack Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "190404": {
+      "id": "190404",
+      "title": "Pokémon - Deck - Championnat du Monde 2025 - Jose Cruz Galindo - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-championnat-du-monde-2025-jose-cruz-galindo-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Deck de Combat Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "190403": {
+      "id": "190403",
+      "title": "Pokémon - Deck - Championnat du Monde 2025 - Yuya Okita Ire - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-championnat-du-monde-2025-yuya-okita-ire-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Deck de Combat Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "190402": {
+      "id": "190402",
+      "title": "Pokémon - Deck - Championnat du Monde 2025 - Liao Fu Guan - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-championnat-du-monde-2025-liao-fu-guan-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Deck de Combat Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "190399": {
+      "id": "190399",
+      "title": "Pokémon - Deck - Championnat du Monde 2025 - Riley McKay - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-championnat-du-monde-2025-riley-mckay-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Deck de Combat Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "178041": {
+      "id": "178041",
+      "title": "Pokémon - Deck Combat Deluxe - Miraidon Ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-deluxe-miraidon-ex-en-francais-2/",
+      "price": 22.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "175919": {
+      "id": "175919",
+      "title": "Pokémon - Display - Chaos Ascendant - ME04 - Boite de 36 boosters en anglais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-chaos-ascendant-me04-boite-de-36-boosters-en-anglais/",
+      "price": 209.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "175924": {
+      "id": "175924",
+      "title": "Pokémon - Blister - Chaos Ascendant - ME04 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-blister-chaos-ascendant-me04-en-francais/",
+      "price": 7.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "175945": {
+      "id": "175945",
+      "title": "Pokémon - Deck de Combat de Ligue - Méga Lucario EX - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-de-combat-de-ligue-mega-lucario-ex-en-francais/",
+      "price": 36.99,
+      "availability": "commandable",
+      "item_category": "Deck de Combat Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "174573": {
+      "id": "174573",
+      "title": "Pokémon - Tripack (carte promo aléatoire) - Nuit Noire - ME05 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tripack-pokemon/pokemon-tripack-carte-promo-aleatoire-nuit-noire-me05-en-francais/",
+      "price": 21.99,
+      "availability": "commandable",
+      "item_category": "Tripack Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "174574": {
+      "id": "174574",
+      "title": "Pokémon - Bundle - Nuit Noire - ME05 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-nuit-noire-me05-en-francais/",
+      "price": 38.99,
+      "availability": "commandable",
+      "item_category": "Bundle Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "174594": {
+      "id": "174594",
+      "title": "Pokémon - Coffret - Collection Premium Méga-Amphinobi ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-collection-premium-mega-amphinobi-ex-en-francais/",
+      "price": 44.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "173844": {
+      "id": "173844",
+      "title": "Pokémon - Pack - 1 Pokébox Méga-Ectoplasma + 1 Pokébox Méga-Mélodelfe - en francais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-pokebox-mega-ectoplasma-1-pokebox-mega-melodelfe-en-francais/",
+      "price": 56.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "170995": {
+      "id": "170995",
+      "title": "Pokémon - Pokébox - Méga Ectoplasma ex - 2026 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pokebox-mega-ectoplasma-ex-2026-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "170992": {
+      "id": "170992",
+      "title": "Pokémon - Pokébox - Méga Mélodelfe ex - 2026 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pokebox-mega-melodelfe-ex-2026-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Autres TCG",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "171001": {
+      "id": "171001",
+      "title": "Pokémon - Mini-Tin (aléatoire) - 2026 - ME03 / ME04 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-mini-tin-aleatoire-2026-me03-me04-en-francais/",
+      "price": 13.99,
+      "availability": "precommande",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "171006": {
+      "id": "171006",
+      "title": "Pokémon - Display Mini-Tin - 2026 - ME03 / ME04 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-mini-tin-2026-me03-me04-en-francais/",
+      "price": 129.99,
+      "availability": "a_verifier",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "168649": {
+      "id": "168649",
+      "title": "Pokémon - Display - 151 - SV2A - Boîte de 20 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-151-sv2a-boite-de-20-boosters-en-coreen/",
+      "price": 239.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "168650": {
+      "id": "168650",
+      "title": "Pokémon - Display - Violet Ex - SV1V - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-violet-ex-sv1v-boite-de-30-boosters-en-coreen/",
+      "price": 64.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "168648": {
+      "id": "168648",
+      "title": "Pokémon - Display - Futur Flash - SV4M - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-futur-flash-sv4m-boite-de-30-boosters-en-coreen/",
+      "price": 79.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "168647": {
+      "id": "168647",
+      "title": "Pokémon - Display - Wild Force - SV5K - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-wild-force-sv5k-boite-de-30-boosters-en-coreen/",
+      "price": 89.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "168646": {
+      "id": "168646",
+      "title": "Pokémon - Display - Night Wanderer - SV6A - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-night-wanderer-sv6a-boite-de-30-boosters-en-coreen/",
+      "price": 69.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "168643": {
+      "id": "168643",
+      "title": "Pokémon - Display - Mega Symphonia - M1S - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-mega-symphonia-m1s-boite-de-30-boosters-en-coreen/",
+      "price": 79.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "168633": {
+      "id": "168633",
+      "title": "Pokémon - Display - Gemstone Pack Vol.4 Horizon - CBB4C - Boite de 18 Boosters en chinois",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-gemstone-pack-vol-4-horizon-cbb4c-boite-de-18-boosters-en-chinois/",
+      "price": 49.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "168638": {
+      "id": "168638",
+      "title": "Pokémon - Display - Mega Inferno X - M2 - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-mega-inferno-x-m2-boite-de-30-boosters-en-coreen/",
+      "price": 109.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "168641": {
+      "id": "168641",
+      "title": "Pokémon - Display - Mega Brave Dream Ex - M2A - Boîte de 10 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-mega-brave-dream-ex-m2a-boite-de-10-boosters-en-coreen/",
+      "price": 99.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "168645": {
+      "id": "168645",
+      "title": "Pokémon - Display - Terastal Festival - SV8A - Boîte de 10 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-terastal-festival-sv8a-boite-de-10-boosters-en-coreen/",
+      "price": 179.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "54917": {
+      "id": "54917",
+      "title": "Pokemon - Deck Combat de Ligue : Gardevoir ex - FR",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-de-ligue-gardevoir-ex-fr/",
+      "price": 0,
+      "availability": "a_verifier",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "167491": {
+      "id": "167491",
+      "title": "Pokémon - CASE - Équilibre Parfait - ME03 - Carton 25 Bundle en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-case-equilibre-parfait-me03-carton-25-bundle-en-francais/",
+      "price": 899.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "167333": {
+      "id": "167333",
+      "title": "Pokémon - CASE - Équilibre Parfait - ME03 - Carton 6 Display en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-case-equilibre-parfait-me03-carton-6-display-en-francais/",
+      "price": 1179.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "165728": {
+      "id": "165728",
+      "title": "Pokémon - Booster - Equilibre Parfait - ME03 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-equilibre-parfait-me03-en-francais/",
+      "price": 6.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "162354": {
+      "id": "162354",
+      "title": "Pokémon - Coffret Collection Premium - Méga-Zygarde Ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-collection-premium-mega-zygarde-ex-en-francais/",
+      "price": 52.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "153069": {
+      "id": "153069",
+      "title": "Pokémon - Display - Chaos Ascendant - ME04 - Boite de 36 boosters en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-chaos-ascendant-me04-boite-de-36-boosters-en-francais/",
+      "price": 209.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "155407": {
+      "id": "155407",
+      "title": "Pokémon - Display - Star Birth - S9 - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-star-birth-s9-boite-de-30-boosters-en-coreen/",
+      "price": 84.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "155398": {
+      "id": "155398",
+      "title": "Pokémon - Display - Supercharged Breaker - SV8 - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-supercharged-breaker-sv8-boite-de-30-boosters-en-coreen/",
+      "price": 119.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "155392": {
+      "id": "155392",
+      "title": "Pokémon - Display - Battle Partner - SV9 - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-battle-partner-sv9-boite-de-30-boosters-en-coreen/",
+      "price": 64.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "155390": {
+      "id": "155390",
+      "title": "Pokémon - Display - White Flare - SV11W - Boîte de 20 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-white-flare-sv11w-boite-de-20-boosters-en-coreen/",
+      "price": 109.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "155391": {
+      "id": "155391",
+      "title": "Pokémon - Display - The Glory Of The Team Rocket -SV10 - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-the-glory-of-the-team-rocket-sv10-boite-de-30-boosters-en-coreen/",
+      "price": 129.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "152534": {
+      "id": "152534",
+      "title": "Pokémon - Coffret - Special Set MEGA-Gallame ex - Munikis Zero - en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-special-set-mega-gallame-ex-munikis-zero-en-japonais/",
+      "price": 44.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "148684": {
+      "id": "148684",
+      "title": "Pokémon - Display - Glory of Team Rocket - SV10 - Boite de 30 boosters en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-glory-of-team-rocket-sv10-boite-de-30-boosters-en-japonais/",
+      "price": 149.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "147185": {
+      "id": "147185",
+      "title": "Pokémon - Bundle - Equilibre parfait - ME03 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-bundle-equilibre-parfait-me03-en-francais/",
+      "price": 34.99,
+      "availability": "commandable",
+      "item_category": "Bundle Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "143621": {
+      "id": "143621",
+      "title": "Pokémon - Display - Equilibre Parfait - ME03 - Boite de 36 boosters en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-equilibre-parfait-me03-boite-de-36-boosters-en-francais/",
+      "price": 199.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "143629": {
+      "id": "143629",
+      "title": "Pokémon - Display - Terastal Festival ex - SV8A - Boite de 10 boosters en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-terastal-festival-ex-sv8a-boite-de-10-boosters-en-japonais/",
+      "price": 139.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "73630": {
+      "id": "73630",
+      "title": "Pokémon - Deck Combat Deluxe - Koraidon Ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-deluxe-koraidon-ex-en-francais/",
+      "price": 22.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "166985": {
+      "id": "166985",
+      "title": "Pokémon - CASE - Chaos Ascendant - ME04 - Carton 6 Display en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/case-display-pokemon/pokemon-case-chaos-ascendant-me04-carton-6-display-en-francais/",
+      "price": 1239.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "124047": {
+      "id": "124047",
+      "title": "Pokémon - Display - Mega Dream Ex - M2A - Boite de 10 boosters en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-mega-dream-ex-m2a-boite-de-10-boosters-en-japonais/",
+      "price": 129.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "106248": {
+      "id": "106248",
+      "title": "Pokémon - Deck Combat de Ligue Mewtwo ex de la Team Rocket - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-de-ligue-mewtwo-ex-de-la-team-rocket-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "93525": {
+      "id": "93525",
+      "title": "Pokémon - Deck Combat Ex - Miraidon - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-ex-miraidon-en-francais/",
+      "price": 12.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "74672": {
+      "id": "74672",
+      "title": "Pokémon - Display - Aventures Ensemble - EV09 - Boîte de Boosters en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-ev09-boite-de-36-boosters-en-francais/",
+      "price": 214.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "72569": {
+      "id": "72569",
+      "title": "Pokémon - Display - VSTAR Universe - s12a - boîte de 10 boosters en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-vstar-universe-s12a-boite-de-10-boosters-en-japonais/",
+      "price": 209.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "51171": {
+      "id": "51171",
+      "title": "Pokemon ETB EV06 - Mascarade Crépusculaire - Coffret Dresseur d'Elite FR",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-ev06-mascarade-crepusculaire-coffret-dresseur-delite-fr/",
+      "price": 84.99,
+      "availability": "precommande",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "37307": {
+      "id": "37307",
+      "title": "Pokémon - Display - Flammes Obsidiennes - EV03 - Boîte de 36 Boosters en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/flammes-obsidiennes-ev03/",
+      "price": 229.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "35752": {
+      "id": "35752",
+      "title": "Pokémon - Display - Évolutions à Paldea - EV02 - Boîte de 36 Boosters en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-boite-de-boosters-francais-display-36-boosters-ev02-ecarlate-et-violet-evolutions-a-paldea/",
+      "price": 279.99,
+      "availability": "precommande",
+      "item_category": "Display Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    },
+    "26572": {
+      "id": "26572",
+      "title": "Display Pokémon : Académie de combat 2022",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/acc-2022/",
+      "price": 23.99,
+      "availability": "commandable",
+      "item_category": "Coffrets Pokémon",
+      "first_seen_at": "2026-10-06T21:40:28+00:00",
+      "last_seen_at": "2026-10-06T21:40:28+00:00"
+    }
+  },
   "pending": [],
   "sent": [],
-  "consecutive_failures": 0
+  "consecutive_failures": 0,
+  "last_success_at": "2026-10-06T21:40:28+00:00"
 }
