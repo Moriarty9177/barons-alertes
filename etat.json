@@ -862,20 +862,6 @@
   },
   "pending": [
     {
-      "id": "204621",
-      "title": "Pokémon - Pack - 1 ETB 30e ans + 1 Coffret Méga-Amphinobi ex + 1 Bundle ME05 + 1 Deck Mewtwo ex + 1 Duopack ME04/ME05 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-produits/pokemon-pack-1-etb-30e-ans-1-coffret-mega-amphinobi-ex-1-bundle-me05-1-deck-mewtwo-ex-1-duopack-me04-me05-en-francais/",
-      "price": 255.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-07T09:39:53+00:00",
-      "event_id": "c14f2b3eddcbb749",
-      "published_at": "2026-09-30T14:55:37+00:00",
-      "modified_at": "2026-10-07T09:29:40+00:00",
-      "release_date": null
-    },
-    {
       "id": "202173",
       "title": "Pokémon - Pack - 1 ETB 30e Anniversaire + 1 Display ME03 Equilibre Parfait - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-etb-30e-anniversaire-1-display-me03-equilibre-parfait-en-francais/",
@@ -987,6 +973,20 @@
       "event_id": "7e5b953b6261d4b4",
       "published_at": "2026-02-23T11:13:53+00:00",
       "modified_at": "2026-10-07T09:01:10+00:00",
+      "release_date": null
+    },
+    {
+      "id": "204621",
+      "title": "Pokémon - Pack - 1 ETB 30e ans + 1 Coffret Méga-Amphinobi ex + 1 Bundle ME05 + 1 Deck Mewtwo ex + 1 Duopack ME04/ME05 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-produits/pokemon-pack-1-etb-30e-ans-1-coffret-mega-amphinobi-ex-1-bundle-me05-1-deck-mewtwo-ex-1-duopack-me04-me05-en-francais/",
+      "price": 255.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-07T09:39:53+00:00",
+      "event_id": "c14f2b3eddcbb749",
+      "published_at": "2026-09-30T14:55:37+00:00",
+      "modified_at": "2026-10-07T09:29:40+00:00",
       "release_date": null
     }
   ],
