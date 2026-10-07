@@ -836,20 +836,6 @@
   },
   "pending": [
     {
-      "id": "202853",
-      "title": "Pokémon - Deck - 30e Anniversaire - Noctali - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-30e-anniversaire-noctali-en-francais/",
-      "price": 54.99,
-      "availability": "precommande",
-      "item_category": "Deck de Combat Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "046b1dabad159f8b",
-      "published_at": "2026-09-24T08:31:44+00:00",
-      "modified_at": "2026-10-07T09:01:02+00:00",
-      "release_date": "30 Octobre 2026"
-    },
-    {
       "id": "202180",
       "title": "Pokémon - Pack - 1 Coffret Méga-Amphinobi + 1 Mini-Tin ME03/ME04 + 1 Coffret Amphinobi 30e Anniversaire - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-mega-amphinobi-1-mini-tin-me03-me04-1-coffret-amphinobi-30e-anniversaire-en-francais/",
@@ -933,6 +919,20 @@
       "event_id": "d5a8c608bb47e0d3",
       "published_at": "2026-09-24T08:32:13+00:00",
       "modified_at": "2026-10-07T09:01:05+00:00",
+      "release_date": "30 Octobre 2026"
+    },
+    {
+      "id": "202853",
+      "title": "Pokémon - Deck - 30e Anniversaire - Noctali - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-30e-anniversaire-noctali-en-francais/",
+      "price": 54.99,
+      "availability": "precommande",
+      "item_category": "Deck de Combat Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-07T09:18:44+00:00",
+      "event_id": "046b1dabad159f8b",
+      "published_at": "2026-09-24T08:31:44+00:00",
+      "modified_at": "2026-10-07T09:01:02+00:00",
       "release_date": "30 Octobre 2026"
     }
   ],
