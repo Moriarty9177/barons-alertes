@@ -67,6 +67,42 @@ class WatchTests(unittest.TestCase):
     def test_pagination_span_not_link(self):
         self.assertEqual(self.pages, [URL + 'page/2/'])
 
+    def test_marketing_pagination_is_read_without_tracking_parameters(self):
+        tree = m.html.fromstring(self.text)
+        for element in tree.xpath('//*[' + m.cls('woocommerce-pagination') + ']//*[@href]'):
+            element.set('href', element.get('href') + '?utm_source=google&utm_medium=cpc'
+                        '&utm_campaign=test&gad_source=1&gad_campaignid=123&gclid=example')
+        text = m.html.tostring(tree, encoding='unicode')
+        products, pages = m.parse_catalog(text, URL)
+        self.assertEqual(products, self.products)
+        self.assertEqual(pages, [URL + 'page/2/'])
+        requested = []
+        with patch.object(m, 'CATEGORIES', [m.parse.urlsplit(URL).path]), \
+                patch.object(m.time, 'sleep'):
+            def fetch_cycle(url):
+                requested.append(url)
+                return text if url == URL else self.text.replace(URL + 'page/2/', URL)
+            m.collect({}, fetch=fetch_cycle)
+        self.assertEqual(requested, [URL, URL + 'page/2/'])
+
+    def test_marketing_product_link_is_canonical_but_actions_remain_rejected(self):
+        self.assertEqual(m.catalog_url(PRODUCT + '?utm_source=google&gclid=example'), PRODUCT)
+        tree = m.html.fromstring(self.text)
+        element = tree.xpath('//*[@data-gtm4wp_product_data]')[0]
+        data = json.loads(element.get('data-gtm4wp_product_data'))
+        data['productlink'] += '?utm_source=google&gclid=example'
+        element.set('data-gtm4wp_product_data', json.dumps(data))
+        products, _ = m.parse_catalog(m.html.tostring(tree, encoding='unicode'), URL)
+        self.assertEqual(products, self.products)
+        for link in [PRODUCT + '?utm_source=google&add-to-cart=123',
+                     PRODUCT + '?orderby=price', 'https://evil.test/p/?utm_source=google',
+                     m.ORIGIN + '/mon-compte/?utm_source=google',
+                     PRODUCT + '?utm_source=google#fragment']:
+            with self.subTest(link=link), self.assertRaises(m.WatchError):
+                m.catalog_url(link)
+        with self.assertRaises(m.WatchError):
+            m.public_url(PRODUCT + '?utm_source=google')
+
     def test_publication_not_release_date(self):
         detail = m.parse_details((FIXTURES / 'fiche-reduite.html').read_text(), PRODUCT)
         self.assertEqual(detail['published_at'], '2026-09-30T16:02:16+00:00')

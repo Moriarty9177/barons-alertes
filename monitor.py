@@ -89,6 +89,16 @@ def public_url(url):
     return url
 
 
+def catalog_url(url):
+    """Retire les marqueurs publicitaires des liens, jamais les paramètres d'action."""
+    parts = parse.urlsplit(url)
+    for key, _ in parse.parse_qsl(parts.query, keep_blank_values=True):
+        if not (key.startswith('utm_') or key in {'gclid', 'gad_source', 'gad_campaignid'}):
+            raise WatchError('Paramètre de catalogue inattendu : lecture annulée.')
+    # public_url vérifie encore le domaine, le chemin et l'absence de fragment.
+    return public_url(parse.urlunsplit(parts._replace(query='')))
+
+
 class SameOriginRedirect(request.HTTPRedirectHandler):
     def redirect_request(self, req, fp, code, msg, headers, newurl):
         # Aucune redirection vers une connexion, un panier ou un autre domaine.
@@ -154,7 +164,7 @@ def parse_catalog(text, url):
             if not title.strip():
                 raise WatchError('Nom produit absent : cycle annulé.')
             product_id = str(data.get('id') or data.get('internal_id') or '')
-            link = public_url(str(data.get('productlink', '')))
+            link = catalog_url(str(data.get('productlink', '')))
             status = data.get('stockstatus')
             if not product_id or status not in ('instock', 'outofstock', 'onbackorder'):
                 raise WatchError('Identifiant ou disponibilité produit non reconnus.')
@@ -177,8 +187,7 @@ def parse_catalog(text, url):
             records[product_id] = product
     next_pages = set()
     for href in tree.xpath('//*[' + cls('woocommerce-pagination') + ']//*[@href]/@href'):
-        candidate = parse.urljoin(url, href)
-        public_url(candidate)
+        candidate = catalog_url(parse.urljoin(url, href))
         if re.fullmatch(re.escape(parse.urlsplit(url).path.split('/page/')[0].rstrip('/'))
                         + r'/page/\d+/', parse.urlsplit(candidate).path):
             next_pages.add(candidate)

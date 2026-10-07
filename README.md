@@ -20,7 +20,7 @@ Si l'écriture de l'historique est refusée, vérifier les permissions du workfl
 
 Un passage est programmé toutes les **cinq minutes**, aux minutes 02, 07, 12, etc. GitHub peut retarder ou ne pas exécuter un passage lorsque sa plateforme est chargée. Ce système ne garantit donc pas un délai de cinq minutes ni d'être le premier acheteur.
 
-**Cadence trop faible ?** Le [guide de déclenchement externe gratuit](DECLENCHEMENT-EXTERNE.md) prépare une demande toutes les cinq minutes via cron-job.org. Le programme, le secret ntfy et l'historique restent sur GitHub. Le service externe nécessite une activation sur ton compte ; sa préparation dans ce dépôt ne l'active pas automatiquement. Une modification de `cloud_runner.py` ou du workflow de surveillance sur `main` déclenche aussi une vérification immédiate de la version publiée.
+**Cadence trop faible ?** Le [guide de déclenchement externe gratuit](DECLENCHEMENT-EXTERNE.md) prépare une demande toutes les cinq minutes via cron-job.org. Le programme, le secret ntfy et l'historique restent sur GitHub. Le service externe nécessite une activation sur ton compte ; sa préparation dans ce dépôt ne l'active pas automatiquement. Une modification de `monitor.py`, de `cloud_runner.py` ou du workflow de surveillance sur `main` déclenche aussi une vérification immédiate de la version publiée.
 
 - Une nouvelle référence déclenche une alerte, même encore indisponible.
 - Une référence suivie passant d'indisponible à commandable ou précommandable déclenche une alerte.
@@ -38,7 +38,7 @@ Une observation et ses alertes en attente sont enregistrées avant l'envoi. Apr�
 
 Ne supprimer ni la branche `monitor-state` ni son fichier. Un historique corrompu, disparu dans une branche existante ou modifié entre deux écritures n'est pas remplacé silencieusement. L'historique a une limite de taille : un dépassement provoque un arrêt plutôt qu'une perte silencieuse de références.
 
-Le programme ne se connecte pas à un compte de la boutique, ne réserve rien et ne commande rien. Un refus HTTP 401, 403, 429 ou une protection demandant une vérification met la surveillance en pause. Trois passages incomplets consécutifs mettent aussi en pause, avec le compteur conservé entre les tâches. Une notification d'arrêt est tentée si ntfy est accessible.
+Le programme ne se connecte pas à un compte de la boutique, ne réserve rien et ne commande rien. Les paramètres publicitaires `utm_*`, `gclid`, `gad_source` et `gad_campaignid` des liens du catalogue sont supprimés avant lecture. Les autres paramètres et les liens hors des chemins publics autorisés restent refusés. Un refus HTTP 401, 403, 429 ou une protection demandant une vérification met la surveillance en pause. Trois passages incomplets consécutifs mettent aussi en pause, avec le compteur conservé entre les tâches. Une notification d'arrêt est tentée si ntfy est accessible.
 
 Les passages suivants affichent **EN PAUSE** et ne sollicitent plus le site. Après résolution et vérification du site, lancer manuellement le mode **`reprendre`** dans **Actions → Alertes Pokemon → Run workflow**. Ne pas utiliser ce mode pour insister face à un refus persistant.
 
@@ -48,7 +48,7 @@ Pour arrêter volontairement les alertes : ouvrir **Actions → Alertes Pokemon 
 
 ## Validation
 
-Les **35 tests automatisés** couvrent le catalogue et ses dates, l'exclusion des cartes à l'unité, les autres langues, les transitions de disponibilité, les requêtes ntfy, la persistance distante, les échecs d'envoi, les conflits d'écriture, les données corrompues, l'exclusion des secrets, les pauses entre passages et les résumés des vérifications.
+Les **37 tests automatisés** couvrent le catalogue et ses dates, l'exclusion des cartes à l'unité, les autres langues, les transitions de disponibilité, les requêtes ntfy, la persistance distante, les échecs d'envoi, les conflits d'écriture, les données corrompues, l'exclusion des secrets, les pauses entre passages, les résumés des vérifications et la suppression des marqueurs publicitaires des liens.
 
 ```bash
 python -m pip install -r requirements.txt
