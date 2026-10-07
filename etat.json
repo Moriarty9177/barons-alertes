@@ -841,7 +841,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-07T09:39:53+00:00",
-      "last_seen_at": "2026-10-07T09:39:53+00:00"
+      "last_seen_at": "2026-10-07T09:39:53+00:00",
+      "published_at": "2026-09-30T14:55:37+00:00",
+      "modified_at": "2026-10-07T09:29:40+00:00",
+      "release_date": null
     },
     "202173": {
       "id": "202173",
@@ -851,7 +854,10 @@
       "availability": "commandable",
       "item_category": "Coffret Dresseur d'Élite Pokémon",
       "first_seen_at": "2026-10-07T09:39:53+00:00",
-      "last_seen_at": "2026-10-07T09:39:53+00:00"
+      "last_seen_at": "2026-10-07T09:39:53+00:00",
+      "published_at": "2026-09-22T07:36:41+00:00",
+      "modified_at": "2026-10-07T09:28:37+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -864,7 +870,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-07T09:39:53+00:00",
-      "event_id": "c14f2b3eddcbb749"
+      "event_id": "c14f2b3eddcbb749",
+      "published_at": "2026-09-30T14:55:37+00:00",
+      "modified_at": "2026-10-07T09:29:40+00:00",
+      "release_date": null
     },
     {
       "id": "202173",
@@ -875,7 +884,10 @@
       "item_category": "Coffret Dresseur d'Élite Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-07T09:39:53+00:00",
-      "event_id": "af80f766b0aa2c63"
+      "event_id": "af80f766b0aa2c63",
+      "published_at": "2026-09-22T07:36:41+00:00",
+      "modified_at": "2026-10-07T09:28:37+00:00",
+      "release_date": null
     }
   ],
   "sent": [
