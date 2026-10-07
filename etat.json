@@ -836,20 +836,6 @@
   },
   "pending": [
     {
-      "id": "202854",
-      "title": "Pokémon - Deck - 30e Anniversaire - Mentali - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-30e-anniverssaire-mentali-en-francais/",
-      "price": 54.99,
-      "availability": "precommande",
-      "item_category": "Deck de Combat Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "d5a8c608bb47e0d3",
-      "published_at": "2026-09-24T08:32:13+00:00",
-      "modified_at": "2026-10-07T09:01:05+00:00",
-      "release_date": "30 Octobre 2026"
-    },
-    {
       "id": "202853",
       "title": "Pokémon - Deck - 30e Anniversaire - Noctali - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-30e-anniversaire-noctali-en-francais/",
@@ -934,6 +920,20 @@
       "published_at": "2026-09-30T15:32:43+00:00",
       "modified_at": "2026-10-07T09:01:41+00:00",
       "release_date": null
+    },
+    {
+      "id": "202854",
+      "title": "Pokémon - Deck - 30e Anniversaire - Mentali - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-30e-anniverssaire-mentali-en-francais/",
+      "price": 54.99,
+      "availability": "precommande",
+      "item_category": "Deck de Combat Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-07T09:18:44+00:00",
+      "event_id": "d5a8c608bb47e0d3",
+      "published_at": "2026-09-24T08:32:13+00:00",
+      "modified_at": "2026-10-07T09:01:05+00:00",
+      "release_date": "30 Octobre 2026"
     }
   ],
   "consecutive_failures": 1,
