@@ -836,20 +836,6 @@
   },
   "pending": [
     {
-      "id": "204638",
-      "title": "Pokémon - Pack - 1 Duopack 30e ans + 2 Mini Tins ME03/ME04 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-produits/pokemon-pack-1-duopack-30e-ans-2-mini-tins-me03-me04-en-francais/",
-      "price": 53.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "3028403bfe74bdc4",
-      "published_at": "2026-09-30T15:32:43+00:00",
-      "modified_at": "2026-10-07T09:01:41+00:00",
-      "release_date": null
-    },
-    {
       "id": "202854",
       "title": "Pokémon - Deck - 30e Anniversaire - Mentali - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-30e-anniverssaire-mentali-en-francais/",
@@ -934,6 +920,20 @@
       "published_at": "2026-09-30T16:01:07+00:00",
       "modified_at": "2026-10-07T09:01:44+00:00",
       "release_date": "16 Octobre 2026"
+    },
+    {
+      "id": "204638",
+      "title": "Pokémon - Pack - 1 Duopack 30e ans + 2 Mini Tins ME03/ME04 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-produits/pokemon-pack-1-duopack-30e-ans-2-mini-tins-me03-me04-en-francais/",
+      "price": 53.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-07T09:18:44+00:00",
+      "event_id": "3028403bfe74bdc4",
+      "published_at": "2026-09-30T15:32:43+00:00",
+      "modified_at": "2026-10-07T09:01:41+00:00",
+      "release_date": null
     }
   ],
   "consecutive_failures": 1,
