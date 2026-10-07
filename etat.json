@@ -912,22 +912,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "193902",
-      "title": "Pokémon – Coffret – Poster – 30e Anniversaire – en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-poster-30e-anniversaire-en-francais/",
-      "price": 42.99,
-      "availability": "commandable",
-      "item_category": "Coffrets Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-07T11:10:33+00:00",
-      "event_id": "68914836d110bbf7",
-      "published_at": "2026-08-25T13:55:47+00:00",
-      "modified_at": "2026-10-07T11:07:02+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -1095,6 +1080,20 @@
       "event_id": "d46d4a4ea7228fee",
       "published_at": "2026-09-22T08:25:14+00:00",
       "modified_at": "2026-10-07T11:06:55+00:00",
+      "release_date": null
+    },
+    {
+      "id": "193902",
+      "title": "Pokémon – Coffret – Poster – 30e Anniversaire – en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-poster-30e-anniversaire-en-francais/",
+      "price": 42.99,
+      "availability": "commandable",
+      "item_category": "Coffrets Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-07T11:10:33+00:00",
+      "event_id": "68914836d110bbf7",
+      "published_at": "2026-08-25T13:55:47+00:00",
+      "modified_at": "2026-10-07T11:07:02+00:00",
       "release_date": null
     }
   ],
