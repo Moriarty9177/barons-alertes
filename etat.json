@@ -860,22 +860,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "202173",
-      "title": "Pokémon - Pack - 1 ETB 30e Anniversaire + 1 Display ME03 Equilibre Parfait - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-etb-30e-anniversaire-1-display-me03-equilibre-parfait-en-francais/",
-      "price": 349.99,
-      "availability": "commandable",
-      "item_category": "Coffret Dresseur d'Élite Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-07T09:39:53+00:00",
-      "event_id": "af80f766b0aa2c63",
-      "published_at": "2026-09-22T07:36:41+00:00",
-      "modified_at": "2026-10-07T09:28:37+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -987,6 +972,20 @@
       "event_id": "c14f2b3eddcbb749",
       "published_at": "2026-09-30T14:55:37+00:00",
       "modified_at": "2026-10-07T09:29:40+00:00",
+      "release_date": null
+    },
+    {
+      "id": "202173",
+      "title": "Pokémon - Pack - 1 ETB 30e Anniversaire + 1 Display ME03 Equilibre Parfait - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-etb-30e-anniversaire-1-display-me03-equilibre-parfait-en-francais/",
+      "price": 349.99,
+      "availability": "commandable",
+      "item_category": "Coffret Dresseur d'Élite Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-07T09:39:53+00:00",
+      "event_id": "af80f766b0aa2c63",
+      "published_at": "2026-09-22T07:36:41+00:00",
+      "modified_at": "2026-10-07T09:28:37+00:00",
       "release_date": null
     }
   ],
