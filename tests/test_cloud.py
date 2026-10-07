@@ -4,6 +4,7 @@ import io
 import json
 from pathlib import Path
 import sys
+import tempfile
 import unittest
 from unittest.mock import Mock, patch
 
@@ -33,6 +34,9 @@ class MemoryStore:
 
 class CloudTests(unittest.TestCase):
     def setUp(self):
+        environment = patch.dict(c.os.environ, {'GITHUB_STEP_SUMMARY': ''})
+        environment.start()
+        self.addCleanup(environment.stop)
         printer = patch('builtins.print')
         printer.start()
         self.addCleanup(printer.stop)
@@ -176,6 +180,53 @@ class CloudTests(unittest.TestCase):
                 store.load()
         self.assertIn('403', str(caught.exception))
         self.assertNotIn('fake-token', str(caught.exception))
+
+
+class SummaryTests(unittest.TestCase):
+    def test_baseline_summary_confirms_read_without_implying_product_alert(self):
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / 'summary.md'
+            with patch.dict(c.os.environ, {'GITHUB_STEP_SUMMARY': str(path)}), \
+                    patch.object(m, 'collect', return_value=({'123': PRODUCT}, 1)), \
+                    patch.object(m, 'notify') as sender, patch('builtins.print'):
+                self.assertEqual(c.one_cycle(CONFIG, MemoryStore()), 'ok')
+            content = path.read_text(encoding='utf-8')
+        sender.assert_not_called()
+        self.assertIn('Catalogue vérifié', content)
+        self.assertIn('Fiches suivies : **1** sur **1** pages', content)
+        self.assertIn('Nouveaux événements : **0**', content)
+        self.assertIn('(Paris)', content)
+        self.assertNotIn(CONFIG['ntfy_topic'], content)
+
+    def test_pause_and_failed_collection_never_claim_a_successful_read(self):
+        with tempfile.TemporaryDirectory() as folder:
+            path = Path(folder) / 'summary.md'
+            with patch.dict(c.os.environ, {'GITHUB_STEP_SUMMARY': str(path)}), \
+                    patch('builtins.print'), patch.object(m, 'collect') as reader:
+                store = MemoryStore({'initialized': True, 'products': {},
+                                     'paused_reason': 'refus', 'pending': []})
+                self.assertEqual(c.one_cycle(CONFIG, store), 'paused')
+                reader.assert_not_called()
+                content = path.read_text(encoding='utf-8')
+                self.assertIn('EN PAUSE', content)
+                self.assertNotIn('Catalogue vérifié', content)
+                path.write_text('', encoding='utf-8')
+                reader.side_effect = m.WatchError('panne')
+                self.assertEqual(c.one_cycle(CONFIG, MemoryStore()), 'error')
+            content = path.read_text(encoding='utf-8')
+        self.assertIn('PASSAGE INCOMPLET', content)
+        self.assertNotIn('Catalogue vérifié', content)
+        self.assertNotIn('Nouveaux événements : **0**', content)
+
+    def test_summary_write_failure_does_not_fail_cycle_or_modify_history(self):
+        with tempfile.TemporaryDirectory() as folder:
+            with patch.dict(c.os.environ, {'GITHUB_STEP_SUMMARY': folder}), \
+                    patch.object(m, 'collect', return_value=({'123': PRODUCT}, 1)), \
+                    patch.object(m, 'notify') as sender, patch('builtins.print'):
+                store = MemoryStore()
+                self.assertEqual(c.one_cycle(CONFIG, store), 'ok')
+        sender.assert_not_called()
+        self.assertEqual(store.state['products']['123']['id'], '123')
 
 
 if __name__ == '__main__':

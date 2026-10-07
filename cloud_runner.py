@@ -141,12 +141,42 @@ def drain_pending(state, config, store):
         time.sleep(1)
 
 
+def write_summary(status, observed=None, records=None, pages=None, events=None, pending=None):
+    """Résultat lisible dans Actions, sans configuration ni détail d'exception."""
+    path = os.environ.get('GITHUB_STEP_SUMMARY')
+    if not path:
+        return
+    messages = {
+        'ok': 'Catalogue vérifié ; traitement des alertes terminé.',
+        'paused': 'EN PAUSE : aucune lecture du catalogue pendant ce passage.',
+        'error': 'PASSAGE INCOMPLET : consulter le journal avant de conclure à une absence de nouveautés.',
+        'stopped': 'ARRÊT : ce passage ne confirme pas le bon fonctionnement de la surveillance.',
+        'test': 'Test accepté par ntfy ; réception sur le téléphone à confirmer. Le catalogue n’a pas été vérifié.',
+    }
+    lines = ['## Surveillance Pokémon', '', messages[status], '']
+    if observed:
+        lines.append('Lecture du catalogue : **' + m.paris(observed) + ' (Paris)**.')
+    if records is not None:
+        lines.append(f'Fiches suivies : **{records}** sur **{pages}** pages.')
+        lines.append(f'Nouveaux événements : **{events}**.')
+    if pending is not None:
+        lines.append(f'Alertes restant en attente : **{pending}**.')
+    lines.extend(['', 'Ce résumé décrit ce passage uniquement. Il ne confirme pas la cadence des suivants.', ''])
+    try:
+        with open(path, 'a', encoding='utf-8') as stream:
+            stream.write('\n'.join(lines))
+    except OSError:
+        # Le résultat visuel ne doit pas perturber la sauvegarde ni l'envoi.
+        print('Résumé GitHub indisponible ; consulter le journal de ce passage.', flush=True)
+
+
 def one_cycle(config, store, resume=False):
     m.validate_notifications(config)
     state = store.load()
     if state.get('paused_reason') and not resume:
         print('EN PAUSE :', state['paused_reason'], flush=True)
         print('Aucune lecture du site. Après vérification, lance le mode reprendre.', flush=True)
+        write_summary('paused', pending=len(state.get('pending', [])))
         return 'paused'
     if resume:
         state.pop('paused_reason', None)
@@ -180,6 +210,8 @@ def one_cycle(config, store, resume=False):
             state['consecutive_failures'] = 0
             state.pop('last_failure_at', None)
             store.save(state)
+        write_summary('ok', observed=observed, records=len(records), pages=pages,
+                      events=len(events), pending=len(state.get('pending', [])))
         return 'ok'
     except StateError:
         # Une écriture peut avoir abouti malgré un délai réseau ; pas de réessai aveugle.
@@ -200,6 +232,7 @@ def one_cycle(config, store, resume=False):
                          + '\nVérifie le site et les journaux avant une reprise manuelle.')
             except m.WatchError:
                 pass
+        write_summary('error', pending=len(state.get('pending', [])))
         return 'error'
 
 
@@ -213,6 +246,7 @@ def main():
         m.validate_notifications(config)
         if args.mode == 'tester_notification':
             m.test_notification(config)
+            write_summary('test')
             return
         store = GitHubState(os.environ.get('GITHUB_REPOSITORY', ''),
                             os.environ.get('GITHUB_TOKEN', ''), os.environ.get('GITHUB_SHA', ''))
@@ -221,6 +255,7 @@ def main():
             raise SystemExit(1)
     except m.WatchError as exc:
         print('ARRÊT :', str(exc), flush=True)
+        write_summary('stopped')
         raise SystemExit(1) from None
 
 

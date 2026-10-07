@@ -1,6 +1,12 @@
 name: Alertes Pokemon
 
 on:
+  # Une modification du lecteur ou du workflow vérifie immédiatement la version publiée.
+  push:
+    branches: [main]
+    paths:
+      - cloud_runner.py
+      - .github/workflows/surveillance.yml
   schedule:
     - cron: '2-57/5 * * * *'
   workflow_dispatch:

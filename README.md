@@ -12,13 +12,15 @@ Cette version fonctionne sur **GitHub Actions**, indépendamment de l'ordinateur
 4. Vérifier que ce premier passage indique le nombre de fiches et de pages lues, et la création de la base distante. Les premières fiches ne déclenchent pas toutes une alerte. Si le secret a été ajouté après ce dépôt, relancer **Premier demarrage des alertes** depuis **Actions → Run workflow**, ou utiliser **Alertes Pokemon → Run workflow** avec `tester_notification` puis `surveiller`.
 5. Une fois ce passage distant réussi et le test mobile reçu, arrêter la surveillance Windows avec **Ctrl+C**. Le PC peut alors être éteint. Faire tourner les deux versions en même temps peut produire deux alertes pour un événement.
 
-**Ne publier ni `config-privee.json`, ni un sujet ntfy, ni un jeton GitHub dans les fichiers.** Le jeton utilisé pendant l'exécution est fourni automatiquement par GitHub ; il ne faut pas créer de jeton personnel. ntfy reste configuré sur Android, avec le même sujet et le serveur `https://ntfy.sh`.
+**Ne publier ni `config-privee.json`, ni un sujet ntfy, ni un jeton GitHub dans les fichiers.** Le jeton utilisé pendant l'exécution est fourni automatiquement par GitHub ; cette mise en service ne nécessite pas de jeton personnel. La variante avec un déclencheur externe, décrite ci-dessous, utilise une autorisation séparée. ntfy reste configuré sur Android, avec le même sujet et le serveur `https://ntfy.sh`.
 
 Si l'écriture de l'historique est refusée, vérifier les permissions du workflow dans les paramètres Actions du dépôt. Le workflow demande seulement `contents: write` pour la branche qui conserve l'état. Les règles d'une organisation ou des protections de branches peuvent limiter ce droit.
 
 ## Cadence et alertes
 
 Un passage est programmé toutes les **cinq minutes**, aux minutes 02, 07, 12, etc. GitHub peut retarder ou ne pas exécuter un passage lorsque sa plateforme est chargée. Ce système ne garantit donc pas un délai de cinq minutes ni d'être le premier acheteur.
+
+**Cadence trop faible ?** Le [guide de déclenchement externe gratuit](DECLENCHEMENT-EXTERNE.md) prépare une demande toutes les cinq minutes via cron-job.org. Le programme, le secret ntfy et l'historique restent sur GitHub. Le service externe nécessite une activation sur ton compte ; sa préparation dans ce dépôt ne l'active pas automatiquement. Une modification de `cloud_runner.py` ou du workflow de surveillance sur `main` déclenche aussi une vérification immédiate de la version publiée.
 
 - Une nouvelle référence déclenche une alerte, même encore indisponible.
 - Une référence suivie passant d'indisponible à commandable ou précommandable déclenche une alerte.
@@ -40,13 +42,13 @@ Le programme ne se connecte pas à un compte de la boutique, ne réserve rien et
 
 Les passages suivants affichent **EN PAUSE** et ne sollicitent plus le site. Après résolution et vérification du site, lancer manuellement le mode **`reprendre`** dans **Actions → Alertes Pokemon → Run workflow**. Ne pas utiliser ce mode pour insister face à un refus persistant.
 
-Un job vert signifie que le programme a terminé son exécution ; consulter son journal pour distinguer une lecture réussie d'un état **EN PAUSE**. Vérifier périodiquement que des passages réussis récents sont présents. GitHub peut désactiver les planifications d'un dépôt public après 60 jours sans activité ; si nécessaire, réactiver le workflow dans Actions.
+Chaque passage affiche un résumé dans Actions : résultat, heure à Paris, nombre de fiches et de pages, nouveaux événements et alertes en attente. Un job vert peut aussi correspondre à **EN PAUSE** ; seul **Catalogue vérifié** confirme un passage terminé avec lecture réussie. Un test ntfy est identifié séparément et ne vérifie pas le catalogue. Ce résumé décrit le passage effectué et ne garantit pas le lancement des suivants. Vérifier périodiquement que des passages réussis récents sont présents. GitHub peut désactiver les planifications d'un dépôt public après 60 jours sans activité ; si nécessaire, réactiver le workflow dans Actions.
 
 Pour arrêter volontairement les alertes : ouvrir **Actions → Alertes Pokemon → menu ⋯ → Disable workflow**. La reprise se fait avec **Enable workflow**. Le mode `reprendre` sert aux pauses décidées par le programme, pas à l'activation du workflow GitHub.
 
 ## Validation
 
-Les **32 tests automatisés** couvrent le catalogue et ses dates, l'exclusion des cartes à l'unité, les autres langues, les transitions de disponibilité, les requêtes ntfy, la persistance distante, les échecs d'envoi, les conflits d'écriture, les données corrompues, l'exclusion des secrets et les pauses entre passages.
+Les **35 tests automatisés** couvrent le catalogue et ses dates, l'exclusion des cartes à l'unité, les autres langues, les transitions de disponibilité, les requêtes ntfy, la persistance distante, les échecs d'envoi, les conflits d'écriture, les données corrompues, l'exclusion des secrets, les pauses entre passages et les résumés des vérifications.
 
 ```bash
 python -m pip install -r requirements.txt
