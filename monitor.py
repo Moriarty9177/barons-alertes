@@ -357,7 +357,7 @@ def test_notification(config):
 
 
 def alert_text(event):
-    labels = {'nouvelle_fiche': 'NOUVELLE FICHE POKÉMON',
+    labels = {'nouvelle_fiche': 'PREMIÈRE DÉTECTION D’UNE FICHE POKÉMON',
               'commandes_ouvertes': 'COMMANDES OUVERTES'}
     status = {'precommande': 'Précommande accessible', 'commandable': 'Commandable',
               'indisponible': 'Encore indisponible', 'a_verifier': 'Disponibilité à vérifier'}
@@ -366,6 +366,8 @@ def alert_text(event):
     return ('LE COIN DES BARONS — ' + labels[event['cause']] + '\n\n'
             + event['title'][:900] + '\n' + amount + ' — ' + status[event['availability']]
             + '\nDétecté : ' + paris(event['observed_at']) + ' (Paris)'
+            + ('\nFiche vue pour la première fois par le programme ; elle peut être plus ancienne.'
+               if event['cause'] == 'nouvelle_fiche' else '')
             + '\nPublication déclarée : ' + paris(event.get('published_at'))
             + ('\nSortie annoncée : ' + event['release_date'] if event.get('release_date') else '')
             + '\n\n' + event['url'] + '\n\nÉtat observé sur le site, à confirmer en ouvrant la fiche.')
