@@ -750,7 +750,10 @@
       "availability": "precommande",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-07T09:18:44+00:00",
-      "last_seen_at": "2026-10-07T09:18:44+00:00"
+      "last_seen_at": "2026-10-07T09:18:44+00:00",
+      "published_at": "2026-09-30T16:01:07+00:00",
+      "modified_at": "2026-10-07T09:01:44+00:00",
+      "release_date": "16 Octobre 2026"
     },
     "204638": {
       "id": "204638",
@@ -760,7 +763,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-07T09:18:44+00:00",
-      "last_seen_at": "2026-10-07T09:18:44+00:00"
+      "last_seen_at": "2026-10-07T09:18:44+00:00",
+      "published_at": "2026-09-30T15:32:43+00:00",
+      "modified_at": "2026-10-07T09:01:41+00:00",
+      "release_date": null
     },
     "202854": {
       "id": "202854",
@@ -770,7 +776,10 @@
       "availability": "precommande",
       "item_category": "Deck de Combat Pokémon",
       "first_seen_at": "2026-10-07T09:18:44+00:00",
-      "last_seen_at": "2026-10-07T09:18:44+00:00"
+      "last_seen_at": "2026-10-07T09:18:44+00:00",
+      "published_at": "2026-09-24T08:32:13+00:00",
+      "modified_at": "2026-10-07T09:01:05+00:00",
+      "release_date": "30 Octobre 2026"
     },
     "202853": {
       "id": "202853",
@@ -780,7 +789,10 @@
       "availability": "precommande",
       "item_category": "Deck de Combat Pokémon",
       "first_seen_at": "2026-10-07T09:18:44+00:00",
-      "last_seen_at": "2026-10-07T09:18:44+00:00"
+      "last_seen_at": "2026-10-07T09:18:44+00:00",
+      "published_at": "2026-09-24T08:31:44+00:00",
+      "modified_at": "2026-10-07T09:01:02+00:00",
+      "release_date": "30 Octobre 2026"
     },
     "202180": {
       "id": "202180",
@@ -790,7 +802,10 @@
       "availability": "commandable",
       "item_category": "Mini-Tin Pokémon",
       "first_seen_at": "2026-10-07T09:18:44+00:00",
-      "last_seen_at": "2026-10-07T09:18:44+00:00"
+      "last_seen_at": "2026-10-07T09:18:44+00:00",
+      "published_at": "2026-09-22T08:25:28+00:00",
+      "modified_at": "2026-10-07T09:00:55+00:00",
+      "release_date": null
     },
     "202178": {
       "id": "202178",
@@ -800,7 +815,10 @@
       "availability": "commandable",
       "item_category": "Duo-Pack Pokémon",
       "first_seen_at": "2026-10-07T09:18:44+00:00",
-      "last_seen_at": "2026-10-07T09:18:44+00:00"
+      "last_seen_at": "2026-10-07T09:18:44+00:00",
+      "published_at": "2026-09-22T08:24:42+00:00",
+      "modified_at": "2026-10-07T09:00:52+00:00",
+      "release_date": null
     },
     "147373": {
       "id": "147373",
@@ -810,7 +828,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-07T09:18:44+00:00",
-      "last_seen_at": "2026-10-07T09:18:44+00:00"
+      "last_seen_at": "2026-10-07T09:18:44+00:00",
+      "published_at": "2026-02-23T11:13:53+00:00",
+      "modified_at": "2026-10-07T09:01:10+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -823,7 +844,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "d6d132c59c658e0a"
+      "event_id": "d6d132c59c658e0a",
+      "published_at": "2026-09-30T16:01:07+00:00",
+      "modified_at": "2026-10-07T09:01:44+00:00",
+      "release_date": "16 Octobre 2026"
     },
     {
       "id": "204638",
@@ -834,7 +858,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "3028403bfe74bdc4"
+      "event_id": "3028403bfe74bdc4",
+      "published_at": "2026-09-30T15:32:43+00:00",
+      "modified_at": "2026-10-07T09:01:41+00:00",
+      "release_date": null
     },
     {
       "id": "202854",
@@ -845,7 +872,10 @@
       "item_category": "Deck de Combat Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "d5a8c608bb47e0d3"
+      "event_id": "d5a8c608bb47e0d3",
+      "published_at": "2026-09-24T08:32:13+00:00",
+      "modified_at": "2026-10-07T09:01:05+00:00",
+      "release_date": "30 Octobre 2026"
     },
     {
       "id": "202853",
@@ -856,7 +886,10 @@
       "item_category": "Deck de Combat Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "046b1dabad159f8b"
+      "event_id": "046b1dabad159f8b",
+      "published_at": "2026-09-24T08:31:44+00:00",
+      "modified_at": "2026-10-07T09:01:02+00:00",
+      "release_date": "30 Octobre 2026"
     },
     {
       "id": "202180",
@@ -867,7 +900,10 @@
       "item_category": "Mini-Tin Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "fdd74e34abacfe11"
+      "event_id": "fdd74e34abacfe11",
+      "published_at": "2026-09-22T08:25:28+00:00",
+      "modified_at": "2026-10-07T09:00:55+00:00",
+      "release_date": null
     },
     {
       "id": "202178",
@@ -878,7 +914,10 @@
       "item_category": "Duo-Pack Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "32c98051d1592eb5"
+      "event_id": "32c98051d1592eb5",
+      "published_at": "2026-09-22T08:24:42+00:00",
+      "modified_at": "2026-10-07T09:00:52+00:00",
+      "release_date": null
     },
     {
       "id": "147373",
@@ -889,7 +928,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "7e5b953b6261d4b4"
+      "event_id": "7e5b953b6261d4b4",
+      "published_at": "2026-02-23T11:13:53+00:00",
+      "modified_at": "2026-10-07T09:01:10+00:00",
+      "release_date": null
     }
   ],
   "sent": [],
