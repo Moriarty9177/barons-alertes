@@ -836,20 +836,6 @@
   },
   "pending": [
     {
-      "id": "202180",
-      "title": "Pokémon - Pack - 1 Coffret Méga-Amphinobi + 1 Mini-Tin ME03/ME04 + 1 Coffret Amphinobi 30e Anniversaire - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-mega-amphinobi-1-mini-tin-me03-me04-1-coffret-amphinobi-30e-anniversaire-en-francais/",
-      "price": 109.99,
-      "availability": "commandable",
-      "item_category": "Mini-Tin Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "fdd74e34abacfe11",
-      "published_at": "2026-09-22T08:25:28+00:00",
-      "modified_at": "2026-10-07T09:00:55+00:00",
-      "release_date": null
-    },
-    {
       "id": "202178",
       "title": "Pokémon - Pack - 1 Duopack ME04/ME05 + 1 Duopack Mystherbe/Ortide/Rafflésia + 1 Coffret Nymphali 30e Anniversaire - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-duopack-me04-me05-1-duopack-mystherbe-ortide-rafflesia-1-coffret-nymphali-30e-anniversaire-en-francais/",
@@ -934,6 +920,20 @@
       "published_at": "2026-09-24T08:31:44+00:00",
       "modified_at": "2026-10-07T09:01:02+00:00",
       "release_date": "30 Octobre 2026"
+    },
+    {
+      "id": "202180",
+      "title": "Pokémon - Pack - 1 Coffret Méga-Amphinobi + 1 Mini-Tin ME03/ME04 + 1 Coffret Amphinobi 30e Anniversaire - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-mega-amphinobi-1-mini-tin-me03-me04-1-coffret-amphinobi-30e-anniversaire-en-francais/",
+      "price": 109.99,
+      "availability": "commandable",
+      "item_category": "Mini-Tin Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-07T09:18:44+00:00",
+      "event_id": "fdd74e34abacfe11",
+      "published_at": "2026-09-22T08:25:28+00:00",
+      "modified_at": "2026-10-07T09:00:55+00:00",
+      "release_date": null
     }
   ],
   "consecutive_failures": 1,
