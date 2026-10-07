@@ -834,22 +834,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "147373",
-      "title": "Pokémon - Duopack - Mystherbe/Ortide/Rafflésia - Mars 2026 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-duopack-mystherbe-ortide-rafflesia-mars-2026-en-francais/",
-      "price": 13.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-07T09:18:44+00:00",
-      "event_id": "7e5b953b6261d4b4",
-      "published_at": "2026-02-23T11:13:53+00:00",
-      "modified_at": "2026-10-07T09:01:10+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -933,6 +918,20 @@
       "event_id": "32c98051d1592eb5",
       "published_at": "2026-09-22T08:24:42+00:00",
       "modified_at": "2026-10-07T09:00:52+00:00",
+      "release_date": null
+    },
+    {
+      "id": "147373",
+      "title": "Pokémon - Duopack - Mystherbe/Ortide/Rafflésia - Mars 2026 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-duopack-mystherbe-ortide-rafflesia-mars-2026-en-francais/",
+      "price": 13.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-07T09:18:44+00:00",
+      "event_id": "7e5b953b6261d4b4",
+      "published_at": "2026-02-23T11:13:53+00:00",
+      "modified_at": "2026-10-07T09:01:10+00:00",
       "release_date": null
     }
   ],
