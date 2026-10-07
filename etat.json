@@ -914,20 +914,6 @@
   },
   "pending": [
     {
-      "id": "202179",
-      "title": "Pokémon - Pack - 1 Bundle Nuit Noire ME05 + 1 Deck Combat Mewtwo ex Team Rocket + 1 Coffret Poster 30e Anniversaire - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-bundle-nuit-noire-me05-1-deck-combat-mewtwo-ex-team-rocket-1-coffret-poster-30e-anniversaire-en-francais/",
-      "price": 112.99,
-      "availability": "commandable",
-      "item_category": "Bundle Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-07T11:10:33+00:00",
-      "event_id": "d46d4a4ea7228fee",
-      "published_at": "2026-09-22T08:25:14+00:00",
-      "modified_at": "2026-10-07T11:06:55+00:00",
-      "release_date": null
-    },
-    {
       "id": "193902",
       "title": "Pokémon – Coffret – Poster – 30e Anniversaire – en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-poster-30e-anniversaire-en-francais/",
@@ -1095,6 +1081,20 @@
       "event_id": "e2b2e5f75b40ca6b",
       "published_at": "2026-09-22T08:25:41+00:00",
       "modified_at": "2026-10-07T11:06:58+00:00",
+      "release_date": null
+    },
+    {
+      "id": "202179",
+      "title": "Pokémon - Pack - 1 Bundle Nuit Noire ME05 + 1 Deck Combat Mewtwo ex Team Rocket + 1 Coffret Poster 30e Anniversaire - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-bundle-nuit-noire-me05-1-deck-combat-mewtwo-ex-team-rocket-1-coffret-poster-30e-anniversaire-en-francais/",
+      "price": 112.99,
+      "availability": "commandable",
+      "item_category": "Bundle Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-07T11:10:33+00:00",
+      "event_id": "d46d4a4ea7228fee",
+      "published_at": "2026-09-22T08:25:14+00:00",
+      "modified_at": "2026-10-07T11:06:55+00:00",
       "release_date": null
     }
   ],
