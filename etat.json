@@ -992,20 +992,6 @@
   },
   "pending": [
     {
-      "id": "202620",
-      "title": "Pokémon - Bundle - Règne Delta - ME06 : 6 Boosters - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-regne-delta-me06-6-boosters-en-francais/",
-      "price": 44.99,
-      "availability": "commandable",
-      "item_category": "Bundle Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-08T12:20:34+00:00",
-      "event_id": "c271fa661532733b",
-      "published_at": "2026-10-08T10:39:25+00:00",
-      "modified_at": "2026-10-08T12:20:17+00:00",
-      "release_date": null
-    },
-    {
       "id": "202619",
       "title": "Pokémon - Display - Règne Delta - ME06 - Boîte de 36 Boosters - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-regne-delta-me06-boite-de-36-boosters-en-francais/",
@@ -1257,6 +1243,20 @@
       "event_id": "4248bcfa72f9e546",
       "published_at": "2026-10-07T10:44:15+00:00",
       "modified_at": "2026-10-07T14:05:59+00:00",
+      "release_date": null
+    },
+    {
+      "id": "202620",
+      "title": "Pokémon - Bundle - Règne Delta - ME06 : 6 Boosters - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-regne-delta-me06-6-boosters-en-francais/",
+      "price": 44.99,
+      "availability": "commandable",
+      "item_category": "Bundle Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-08T12:20:34+00:00",
+      "event_id": "c271fa661532733b",
+      "published_at": "2026-10-08T10:39:25+00:00",
+      "modified_at": "2026-10-08T12:20:17+00:00",
       "release_date": null
     }
   ],
