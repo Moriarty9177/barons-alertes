@@ -945,7 +945,10 @@
       "availability": "commandable",
       "item_category": "Bundle Pokémon",
       "first_seen_at": "2026-10-08T12:20:34+00:00",
-      "last_seen_at": "2026-10-08T12:20:34+00:00"
+      "last_seen_at": "2026-10-08T12:20:34+00:00",
+      "published_at": "2026-10-08T10:39:25+00:00",
+      "modified_at": "2026-10-08T12:20:17+00:00",
+      "release_date": null
     },
     "202619": {
       "id": "202619",
@@ -955,7 +958,10 @@
       "availability": "commandable",
       "item_category": "Display Pokémon",
       "first_seen_at": "2026-10-08T12:20:34+00:00",
-      "last_seen_at": "2026-10-08T12:20:34+00:00"
+      "last_seen_at": "2026-10-08T12:20:34+00:00",
+      "published_at": "2026-09-23T14:39:11+00:00",
+      "modified_at": "2026-10-08T12:17:19+00:00",
+      "release_date": null
     },
     "202618": {
       "id": "202618",
@@ -965,7 +971,10 @@
       "availability": "commandable",
       "item_category": "Coffret Dresseur d'Élite Pokémon",
       "first_seen_at": "2026-10-08T12:20:34+00:00",
-      "last_seen_at": "2026-10-08T12:20:34+00:00"
+      "last_seen_at": "2026-10-08T12:20:34+00:00",
+      "published_at": "2026-09-23T14:38:55+00:00",
+      "modified_at": "2026-10-08T12:17:17+00:00",
+      "release_date": null
     },
     "202617": {
       "id": "202617",
@@ -975,7 +984,10 @@
       "availability": "commandable",
       "item_category": "Tripack Pokémon",
       "first_seen_at": "2026-10-08T12:20:34+00:00",
-      "last_seen_at": "2026-10-08T12:20:34+00:00"
+      "last_seen_at": "2026-10-08T12:20:34+00:00",
+      "published_at": "2026-09-23T14:38:19+00:00",
+      "modified_at": "2026-10-08T12:17:22+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -988,7 +1000,10 @@
       "item_category": "Bundle Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-08T12:20:34+00:00",
-      "event_id": "c271fa661532733b"
+      "event_id": "c271fa661532733b",
+      "published_at": "2026-10-08T10:39:25+00:00",
+      "modified_at": "2026-10-08T12:20:17+00:00",
+      "release_date": null
     },
     {
       "id": "202619",
@@ -999,7 +1014,10 @@
       "item_category": "Display Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-08T12:20:34+00:00",
-      "event_id": "5d91a1edda71e6c4"
+      "event_id": "5d91a1edda71e6c4",
+      "published_at": "2026-09-23T14:39:11+00:00",
+      "modified_at": "2026-10-08T12:17:19+00:00",
+      "release_date": null
     },
     {
       "id": "202618",
@@ -1010,7 +1028,10 @@
       "item_category": "Coffret Dresseur d'Élite Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-08T12:20:34+00:00",
-      "event_id": "f979a12dc4b45baa"
+      "event_id": "f979a12dc4b45baa",
+      "published_at": "2026-09-23T14:38:55+00:00",
+      "modified_at": "2026-10-08T12:17:17+00:00",
+      "release_date": null
     },
     {
       "id": "202617",
@@ -1021,7 +1042,10 @@
       "item_category": "Tripack Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-08T12:20:34+00:00",
-      "event_id": "1cf86d9ac439303d"
+      "event_id": "1cf86d9ac439303d",
+      "published_at": "2026-09-23T14:38:19+00:00",
+      "modified_at": "2026-10-08T12:17:22+00:00",
+      "release_date": null
     }
   ],
   "sent": [
