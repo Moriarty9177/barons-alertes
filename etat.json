@@ -1029,22 +1029,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "202612",
-      "title": "Pokémon - Bundle - 30e Anniversaire - 6 Boosters - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-30e-anniversaire-6-boosters-en-francais/",
-      "price": 79.99,
-      "availability": "commandable",
-      "item_category": "Bundle Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-09T09:50:37+00:00",
-      "event_id": "1464ccd19f8e50d8",
-      "published_at": "2026-09-23T14:34:46+00:00",
-      "modified_at": "2026-10-09T09:49:59+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -1338,6 +1323,20 @@
       "event_id": "8571548e0aea94c5",
       "published_at": "2026-10-07T08:02:56+00:00",
       "modified_at": "2026-10-09T09:19:19+00:00",
+      "release_date": null
+    },
+    {
+      "id": "202612",
+      "title": "Pokémon - Bundle - 30e Anniversaire - 6 Boosters - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-30e-anniversaire-6-boosters-en-francais/",
+      "price": 79.99,
+      "availability": "commandable",
+      "item_category": "Bundle Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-09T09:50:37+00:00",
+      "event_id": "1464ccd19f8e50d8",
+      "published_at": "2026-09-23T14:34:46+00:00",
+      "modified_at": "2026-10-09T09:49:59+00:00",
       "release_date": null
     }
   ],
