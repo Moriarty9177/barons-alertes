@@ -1122,20 +1122,6 @@
   },
   "pending": [
     {
-      "id": "162390",
-      "title": "Pokémon - Pack - 1 Display + 1 ETB – Chaos Ascendant - ME04 – en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-display-1-etb-chaos-ascendant-me04-en-francais/",
-      "price": 272.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-09T12:01:06+00:00",
-      "event_id": "8c2ab6485209f729",
-      "published_at": "2026-04-23T08:25:45+00:00",
-      "modified_at": "2026-10-09T11:56:25+00:00",
-      "release_date": null
-    },
-    {
       "id": "14671",
       "title": "Pokémon - Deck de Combat - Victini - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-decks-preconstruits-deck-de-combat-gardevoir-ou-victini/",
@@ -1527,6 +1513,20 @@
       "event_id": "a7c3553024cfc143",
       "published_at": "2026-06-04T15:36:03+00:00",
       "modified_at": "2026-10-09T11:57:50+00:00",
+      "release_date": null
+    },
+    {
+      "id": "162390",
+      "title": "Pokémon - Pack - 1 Display + 1 ETB – Chaos Ascendant - ME04 – en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-display-1-etb-chaos-ascendant-me04-en-francais/",
+      "price": 272.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-09T12:01:06+00:00",
+      "event_id": "8c2ab6485209f729",
+      "published_at": "2026-04-23T08:25:45+00:00",
+      "modified_at": "2026-10-09T11:56:25+00:00",
       "release_date": null
     }
   ],
