@@ -1023,7 +1023,10 @@
       "availability": "commandable",
       "item_category": "Bundle Pokémon",
       "first_seen_at": "2026-10-09T09:50:37+00:00",
-      "last_seen_at": "2026-10-09T09:50:37+00:00"
+      "last_seen_at": "2026-10-09T09:50:37+00:00",
+      "published_at": "2026-09-23T14:34:46+00:00",
+      "modified_at": "2026-10-09T09:49:59+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1036,7 +1039,10 @@
       "item_category": "Bundle Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-09T09:50:37+00:00",
-      "event_id": "1464ccd19f8e50d8"
+      "event_id": "1464ccd19f8e50d8",
+      "published_at": "2026-09-23T14:34:46+00:00",
+      "modified_at": "2026-10-09T09:49:59+00:00",
+      "release_date": null
     }
   ],
   "sent": [
