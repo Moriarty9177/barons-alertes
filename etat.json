@@ -1016,22 +1016,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "207690",
-      "title": "Pokémon - Deck Premium - 30e - Noctali ex & Mentali ex - en japonais",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-premium-30e-noctali-ex-mentali-ex-en-japonais/",
-      "price": 229.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-09T09:20:37+00:00",
-      "event_id": "8571548e0aea94c5",
-      "published_at": "2026-10-07T08:02:56+00:00",
-      "modified_at": "2026-10-09T09:19:19+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -1311,6 +1296,20 @@
       "event_id": "aa94ec9f0df947cd",
       "published_at": "2026-10-07T08:15:12+00:00",
       "modified_at": "2026-10-09T09:19:34+00:00",
+      "release_date": null
+    },
+    {
+      "id": "207690",
+      "title": "Pokémon - Deck Premium - 30e - Noctali ex & Mentali ex - en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-premium-30e-noctali-ex-mentali-ex-en-japonais/",
+      "price": 229.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-09T09:20:37+00:00",
+      "event_id": "8571548e0aea94c5",
+      "published_at": "2026-10-07T08:02:56+00:00",
+      "modified_at": "2026-10-09T09:19:19+00:00",
       "release_date": null
     }
   ],
