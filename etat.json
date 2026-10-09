@@ -1122,20 +1122,6 @@
   },
   "pending": [
     {
-      "id": "14671",
-      "title": "Pokémon - Deck de Combat - Victini - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-decks-preconstruits-deck-de-combat-gardevoir-ou-victini/",
-      "price": 0,
-      "availability": "a_verifier",
-      "item_category": "Deck de Combat Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-09T12:01:06+00:00",
-      "event_id": "8c07342d7d04f4c1",
-      "published_at": "2021-06-16T15:06:21+00:00",
-      "modified_at": "2026-10-09T11:58:37+00:00",
-      "release_date": null
-    },
-    {
       "id": "153071",
       "title": "Pokémon - ETB - Chaos Ascendant - ME04 - Coffret Dresseur d'Elite en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-chaos-ascendant-coffret-dresseur-delite-en-francais/",
@@ -1527,6 +1513,20 @@
       "event_id": "8c2ab6485209f729",
       "published_at": "2026-04-23T08:25:45+00:00",
       "modified_at": "2026-10-09T11:56:25+00:00",
+      "release_date": null
+    },
+    {
+      "id": "14671",
+      "title": "Pokémon - Deck de Combat - Victini - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-decks-preconstruits-deck-de-combat-gardevoir-ou-victini/",
+      "price": 0,
+      "availability": "a_verifier",
+      "item_category": "Deck de Combat Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-09T12:01:06+00:00",
+      "event_id": "8c07342d7d04f4c1",
+      "published_at": "2021-06-16T15:06:21+00:00",
+      "modified_at": "2026-10-09T11:58:37+00:00",
       "release_date": null
     }
   ],
