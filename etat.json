@@ -1122,20 +1122,6 @@
   },
   "pending": [
     {
-      "id": "175915",
-      "title": "Pokémon - Bundle - Chaos Ascendant - ME04 - en anglais",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-chaos-ascendant-me04-en-anglais/",
-      "price": 35.99,
-      "availability": "commandable",
-      "item_category": "Bundle Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-09T12:01:06+00:00",
-      "event_id": "7e3a27da351919b0",
-      "published_at": "2026-06-08T13:35:31+00:00",
-      "modified_at": "2026-10-09T11:57:05+00:00",
-      "release_date": null
-    },
-    {
       "id": "174571",
       "title": "Pokémon - ETB - Nuit Noire - ME05 - Coffret Dresseur d'Elite en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-nuit-noire-me05-coffret-dresseur-delite-en-francais/",
@@ -1527,6 +1513,20 @@
       "event_id": "6ed871ed389758d5",
       "published_at": "2026-08-06T13:10:30+00:00",
       "modified_at": "2026-10-09T12:00:26+00:00",
+      "release_date": null
+    },
+    {
+      "id": "175915",
+      "title": "Pokémon - Bundle - Chaos Ascendant - ME04 - en anglais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-chaos-ascendant-me04-en-anglais/",
+      "price": 35.99,
+      "availability": "commandable",
+      "item_category": "Bundle Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-09T12:01:06+00:00",
+      "event_id": "7e3a27da351919b0",
+      "published_at": "2026-06-08T13:35:31+00:00",
+      "modified_at": "2026-10-09T11:57:05+00:00",
       "release_date": null
     }
   ],
