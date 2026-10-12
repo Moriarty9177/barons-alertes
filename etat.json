@@ -1583,7 +1583,6 @@
       "release_date": null
     }
   ],
-  "consecutive_failures": 1,
-  "last_success_at": "2026-10-12T18:35:24+00:00",
-  "last_failure_at": "2026-10-12T18:30:45+00:00"
+  "consecutive_failures": 0,
+  "last_success_at": "2026-10-12T18:35:24+00:00"
 }
