@@ -1146,22 +1146,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "16749",
-      "title": "Deck de Combat Pokémon : PokéV Corvaillus-V",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-decks-preconstruits-deck-combat-v-corvaillus-v/",
-      "price": 17.9,
-      "availability": "commandable",
-      "item_category": "Deck de Combat Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-12T11:40:35+00:00",
-      "event_id": "ad1211f26feb45e3",
-      "published_at": "2022-03-06T16:19:45+00:00",
-      "modified_at": "2026-10-12T11:35:58+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -1581,6 +1566,20 @@
       "event_id": "ee38284206b6b649",
       "published_at": "2026-09-23T14:28:56+00:00",
       "modified_at": "2026-10-12T09:17:52+00:00",
+      "release_date": null
+    },
+    {
+      "id": "16749",
+      "title": "Deck de Combat Pokémon : PokéV Corvaillus-V",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-decks-preconstruits-deck-combat-v-corvaillus-v/",
+      "price": 17.9,
+      "availability": "commandable",
+      "item_category": "Deck de Combat Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-12T11:40:35+00:00",
+      "event_id": "ad1211f26feb45e3",
+      "published_at": "2022-03-06T16:19:45+00:00",
+      "modified_at": "2026-10-12T11:35:58+00:00",
       "release_date": null
     }
   ],
