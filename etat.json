@@ -1133,22 +1133,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "202611",
-      "title": "Pokémon - Mini-Tin (aléatoire) - 30e Anniversaire - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/mini-tin-pokemon/pokemon-mini-tin-aleatoire-30e-anniversaire-en-francais/",
-      "price": 25.99,
-      "availability": "commandable",
-      "item_category": "Mini-Tin Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-12T09:20:39+00:00",
-      "event_id": "ee38284206b6b649",
-      "published_at": "2026-09-23T14:28:56+00:00",
-      "modified_at": "2026-10-12T09:17:52+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -1554,6 +1539,20 @@
       "event_id": "952ac6b9033798cc",
       "published_at": "2026-03-30T15:23:37+00:00",
       "modified_at": "2026-10-09T11:57:48+00:00",
+      "release_date": null
+    },
+    {
+      "id": "202611",
+      "title": "Pokémon - Mini-Tin (aléatoire) - 30e Anniversaire - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/mini-tin-pokemon/pokemon-mini-tin-aleatoire-30e-anniversaire-en-francais/",
+      "price": 25.99,
+      "availability": "commandable",
+      "item_category": "Mini-Tin Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-12T09:20:39+00:00",
+      "event_id": "ee38284206b6b649",
+      "published_at": "2026-09-23T14:28:56+00:00",
+      "modified_at": "2026-10-12T09:17:52+00:00",
       "release_date": null
     }
   ],
