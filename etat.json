@@ -1127,7 +1127,10 @@
       "availability": "commandable",
       "item_category": "Mini-Tin Pokémon",
       "first_seen_at": "2026-10-12T09:20:39+00:00",
-      "last_seen_at": "2026-10-12T09:20:39+00:00"
+      "last_seen_at": "2026-10-12T09:20:39+00:00",
+      "published_at": "2026-09-23T14:28:56+00:00",
+      "modified_at": "2026-10-12T09:17:52+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1140,7 +1143,10 @@
       "item_category": "Mini-Tin Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-12T09:20:39+00:00",
-      "event_id": "ee38284206b6b649"
+      "event_id": "ee38284206b6b649",
+      "published_at": "2026-09-23T14:28:56+00:00",
+      "modified_at": "2026-10-12T09:17:52+00:00",
+      "release_date": null
     }
   ],
   "sent": [
