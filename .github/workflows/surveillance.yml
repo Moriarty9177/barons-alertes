@@ -6,6 +6,7 @@ on:
     branches: [main]
     paths:
       - monitor.py
+      - investcollect.py
       - cloud_runner.py
       - .github/workflows/surveillance.yml
   schedule:

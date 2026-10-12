@@ -10,6 +10,7 @@ import time
 from urllib import request, error
 
 import monitor as m
+import investcollect as invest
 
 STATE_BRANCH = 'monitor-state'
 STATE_FILE = 'etat.json'
@@ -49,7 +50,8 @@ def public_state(state):
 
 
 class GitHubState:
-    def __init__(self, repository, token, starting_sha, api=None):
+    def __init__(self, repository, token, starting_sha, api=None, *,
+                 branch=STATE_BRANCH, state_file=STATE_FILE, scope=m.SCOPE):
         if not re.fullmatch(r'[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+', repository or ''):
             raise StateError('Dépôt GitHub non indiqué ou invalide.')
         if not token or not re.fullmatch(r'[a-f0-9]{40}', starting_sha or ''):
@@ -57,6 +59,9 @@ class GitHubState:
         self.repository = repository
         self.token = token
         self.starting_sha = starting_sha
+        self.branch = branch
+        self.state_file = state_file
+        self.scope = scope
         self.sha = None
         self.api = api or self._api
 
@@ -84,16 +89,16 @@ class GitHubState:
                              'Aucun nouvel envoi n’est tenté pendant ce passage.') from None
 
     def load(self):
-        entry = self.api('GET', '/contents/' + STATE_FILE + '?ref=' + STATE_BRANCH,
+        entry = self.api('GET', '/contents/' + self.state_file + '?ref=' + self.branch,
                          allow_missing=True)
         if entry is None:
-            branch = self.api('GET', '/git/ref/heads/' + STATE_BRANCH, allow_missing=True)
+            branch = self.api('GET', '/git/ref/heads/' + self.branch, allow_missing=True)
             if branch is not None:
                 raise StateError('La branche d’historique existe mais son fichier manque. '
                                  'Arrêt sans recréer une base silencieusement.')
-            self.api('POST', '/git/refs', {'ref': 'refs/heads/' + STATE_BRANCH,
+            self.api('POST', '/git/refs', {'ref': 'refs/heads/' + self.branch,
                                          'sha': self.starting_sha})
-            initial = {'initialized': False, 'scope': m.SCOPE,
+            initial = {'initialized': False, 'scope': self.scope,
                        'products': {}, 'pending': [], 'sent': [],
                        'consecutive_failures': 0}
             self.save(initial)
@@ -119,10 +124,10 @@ class GitHubState:
         if len(raw) > MAX_STATE_BYTES:
             raise StateError('Historique trop volumineux : arrêt sans tronquer les références.')
         body = {'message': 'Actualiser l’historique Pokémon',
-                'branch': STATE_BRANCH, 'content': base64.b64encode(raw).decode('ascii')}
+                'branch': self.branch, 'content': base64.b64encode(raw).decode('ascii')}
         if self.sha:
             body['sha'] = self.sha  # GitHub refuse un historique modifié entre-temps.
-        result = self.api('PUT', '/contents/' + STATE_FILE, body)
+        result = self.api('PUT', '/contents/' + self.state_file, body)
         content = result.get('content') if isinstance(result, dict) else None
         sha = content.get('sha') if isinstance(content, dict) else None
         if not isinstance(sha, str) or not re.fullmatch(r'[a-f0-9]{40}', sha):
@@ -130,10 +135,10 @@ class GitHubState:
         self.sha = sha
 
 
-def drain_pending(state, config, store):
+def drain_pending(state, config, store, source=m):
     while state.get('pending'):
         event = state['pending'][0]
-        m.notify(config, m.alert_text(event), event['url'])
+        source.notify(config, source.alert_text(event), event['url'])
         state['pending'].pop(0)
         state.setdefault('sent', []).append(event)
         state['sent'] = state['sent'][-200:]
@@ -141,7 +146,8 @@ def drain_pending(state, config, store):
         time.sleep(1)
 
 
-def write_summary(status, observed=None, records=None, pages=None, events=None, pending=None):
+def write_summary(status, observed=None, records=None, pages=None, events=None, pending=None,
+                  site_name=m.NAME):
     """Résultat lisible dans Actions, sans configuration ni détail d'exception."""
     path = os.environ.get('GITHUB_STEP_SUMMARY')
     if not path:
@@ -153,7 +159,7 @@ def write_summary(status, observed=None, records=None, pages=None, events=None, 
         'stopped': 'ARRÊT : ce passage ne confirme pas le bon fonctionnement de la surveillance.',
         'test': 'Test accepté par ntfy ; réception sur le téléphone à confirmer. Le catalogue n’a pas été vérifié.',
     }
-    lines = ['## Surveillance Pokémon', '', messages[status], '']
+    lines = ['## Surveillance Pokémon — ' + site_name, '', messages[status], '']
     if observed:
         lines.append('Lecture du catalogue : **' + m.paris(observed) + ' (Paris)**.')
     if records is not None:
@@ -170,28 +176,30 @@ def write_summary(status, observed=None, records=None, pages=None, events=None, 
         print('Résumé GitHub indisponible ; consulter le journal de ce passage.', flush=True)
 
 
-def one_cycle(config, store, resume=False):
+def one_cycle(config, store, resume=False, source=m):
     m.validate_notifications(config)
     state = store.load()
     if state.get('paused_reason') and not resume:
         print('EN PAUSE :', state['paused_reason'], flush=True)
         print('Aucune lecture du site. Après vérification, lance le mode reprendre.', flush=True)
-        write_summary('paused', pending=len(state.get('pending', [])))
+        write_summary('paused', pending=len(state.get('pending', [])), site_name=source.NAME)
         return 'paused'
     if resume:
         state.pop('paused_reason', None)
         state['consecutive_failures'] = 0
         store.save(state)
     try:
-        records, pages = m.collect({})
+        records, pages = source.collect({})
         observed = m.utc_now()
-        baseline = not state.get('initialized') or state.get('scope') != m.SCOPE
-        events = m.update_state(state, records, observed)
+        baseline = not state.get('initialized') or state.get('scope') != source.SCOPE
+        events = source.update_state(state, records, observed)
         # L'observation et la file d'attente sont durables AVANT toute notification.
         store.save(state)
         for event in events:
             try:
-                event.update(m.parse_details(m.fetch_public(event['url']), event['url']))
+                details = source.parse_details(source.fetch_public(event['url']), event['url'])
+                for field in ('published_at', 'modified_at', 'release_date'):
+                    event[field] = details.get(field) or event.get(field)
                 state['products'][event['id']].update({k: event[k] for k in
                     ('published_at', 'modified_at', 'release_date')})
             except m.AccessStopped:
@@ -201,17 +209,17 @@ def one_cycle(config, store, resume=False):
             time.sleep(1)
         if events:
             store.save(state)
-        print(m.paris(observed), ':', len(records), 'fiches Pokémon sur', pages,
+        print(source.NAME, '—', m.paris(observed), ':', len(records), 'fiches Pokémon sur', pages,
               'pages ;', len(events), 'nouveaux événements.', flush=True)
         if baseline:
             print('Base distante enregistrée sans alerter sur les anciennes fiches.', flush=True)
-        drain_pending(state, config, store)
+        drain_pending(state, config, store, source)
         if state.get('consecutive_failures') or state.get('last_failure_at'):
             state['consecutive_failures'] = 0
             state.pop('last_failure_at', None)
             store.save(state)
         write_summary('ok', observed=observed, records=len(records), pages=pages,
-                      events=len(events), pending=len(state.get('pending', [])))
+                      events=len(events), pending=len(state.get('pending', [])), site_name=source.NAME)
         return 'ok'
     except StateError:
         # Une écriture peut avoir abouti malgré un délai réseau ; pas de réessai aveugle.
@@ -228,11 +236,11 @@ def one_cycle(config, store, resume=False):
         print('Passage incomplet :', str(exc), flush=True)
         if state.get('paused_reason'):
             try:
-                m.notify(config, 'Surveillance GitHub arrêtée : ' + state['paused_reason']
+                source.notify(config, source.NAME + ' — Surveillance GitHub arrêtée : ' + state['paused_reason']
                          + '\nVérifie le site et les journaux avant une reprise manuelle.')
             except m.WatchError:
                 pass
-        write_summary('error', pending=len(state.get('pending', [])))
+        write_summary('error', pending=len(state.get('pending', [])), site_name=source.NAME)
         return 'error'
 
 
@@ -248,10 +256,19 @@ def main():
             m.test_notification(config)
             write_summary('test')
             return
-        store = GitHubState(os.environ.get('GITHUB_REPOSITORY', ''),
-                            os.environ.get('GITHUB_TOKEN', ''), os.environ.get('GITHUB_SHA', ''))
-        status = one_cycle(config, store, resume=args.mode == 'reprendre')
-        if status == 'error':
+        failed = False
+        for source, branch in ((m, STATE_BRANCH), (invest, 'investcollect-state')):
+            try:
+                store = GitHubState(os.environ.get('GITHUB_REPOSITORY', ''),
+                                    os.environ.get('GITHUB_TOKEN', ''), os.environ.get('GITHUB_SHA', ''),
+                                    branch=branch, scope=source.SCOPE)
+                status = one_cycle(config, store, resume=args.mode == 'reprendre', source=source)
+                failed = failed or status in ('error', 'paused')
+            except m.WatchError as exc:
+                print(source.NAME, '— ARRÊT :', str(exc), flush=True)
+                write_summary('stopped', site_name=source.NAME)
+                failed = True
+        if failed:
             raise SystemExit(1)
     except m.WatchError as exc:
         print('ARRÊT :', str(exc), flush=True)

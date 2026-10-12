@@ -17,6 +17,7 @@ from lxml import html
 
 ROOT = Path(__file__).resolve().parent
 ORIGIN = 'https://lecoindesbarons.com'
+NAME = 'Le Coin des Barons'
 CONFIG = ROOT / 'config-privee.json'
 STATE = ROOT / 'etat.json'
 CATEGORIES = ['/les-tcg/cartes-pokemon/']
@@ -100,17 +101,22 @@ def catalog_url(url):
 
 
 class SameOriginRedirect(request.HTTPRedirectHandler):
+    def __init__(self, url_validator=None):
+        super().__init__()
+        self.url_validator = url_validator or public_url
+
     def redirect_request(self, req, fp, code, msg, headers, newurl):
         # Aucune redirection vers une connexion, un panier ou un autre domaine.
-        public_url(newurl)
+        self.url_validator(newurl)
         return super().redirect_request(req, fp, code, msg, headers, newurl)
 
 
-def fetch_public(url):
-    public_url(url)
+def fetch_public(url, *, url_validator=None):
+    validator = url_validator or public_url
+    validator(url)
     req = request.Request(url, headers={'User-Agent': USER_AGENT, 'Accept': 'text/html'})
     try:
-        with request.build_opener(SameOriginRedirect()).open(req, timeout=25) as response:
+        with request.build_opener(SameOriginRedirect(validator)).open(req, timeout=25) as response:
             if 'text/html' not in response.headers.get('Content-Type', '').lower():
                 raise AccessStopped('Réponse inattendue du site : surveillance arrêtée.')
             data = response.read(3_000_001)
@@ -242,10 +248,11 @@ def collect(config, fetch=fetch_public):
     return records, len(visited)
 
 
-def update_state(state, records, observed_at):
+def update_state(state, records, observed_at, *, scope=None):
     # L'élargissement crée une nouvelle base sans annoncer tout l'ancien catalogue.
     # Les identifiants et alertes déjà enregistrés sont conservés.
-    initialized = state.get('initialized', False) and state.get('scope') == SCOPE
+    scope = scope or SCOPE
+    initialized = state.get('initialized', False) and state.get('scope') == scope
     known = state.setdefault('products', {})
     pending = state.setdefault('pending', [])
     pending[:] = [event for event in pending if not is_single_card(event)]
@@ -268,7 +275,7 @@ def update_state(state, records, observed_at):
                       'last_seen_at': observed_at}
     # Une fiche disparue conserve son historique. Elle n'est pas marquée en rupture.
     state['initialized'] = True
-    state['scope'] = SCOPE
+    state['scope'] = scope
     state['last_success_at'] = observed_at
     return events
 
@@ -316,12 +323,12 @@ def validate_notifications(config):
     return provider
 
 
-def ntfy(topic, text, url=None):
+def ntfy(topic, text, url=None, *, title='Le Coin des Barons — Pokémon', url_validator=None):
     validate_notifications({'notification_provider': 'ntfy', 'ntfy_topic': topic})
-    payload = {'topic': topic, 'title': 'Le Coin des Barons — Pokémon',
+    payload = {'topic': topic, 'title': title,
                'message': text, 'priority': 4, 'tags': ['bell']}
     if url:
-        payload['click'] = public_url(url)
+        payload['click'] = (url_validator or public_url)(url)
     if len(text.encode('utf-8')) > 4096:
         raise WatchError('Notification trop longue. Alerte conservée en attente.')
     req = request.Request(NTFY_SERVER + '/',

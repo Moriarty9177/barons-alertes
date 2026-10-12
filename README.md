@@ -1,6 +1,12 @@
-# Alertes Pokémon — Le Coin des Barons
+# Alertes Pokémon — Le Coin des Barons et InvestCollect
 
 Surveille la catégorie Pokémon et sa pagination, **hors cartes à l'unité**, et envoie les nouvelles fiches et réouvertures de commandes sur Android avec ntfy. Toutes les langues et les autres types de produits restent inclus.
+
+Le même passage surveille aussi **InvestCollect / La Ligue du Jeu**, uniquement la catégorie publique [Pokémon / Produits scellés](https://investcollect.com/eshop/produits-scelles.html), sur toutes ses pages. Les cases, displays, ETB, coffrets, boosters et autres produits de cette catégorie sont inclus ; les cartes à l'unité et gradées sont exclues. Aucun filtre de langue n'est appliqué.
+
+Les notifications InvestCollect utilisent **le même abonnement ntfy**, avec le nom du site dans leur titre et un lien vers la fiche. La première lecture complète enregistre une base silencieuse : elle n'annonce pas tout le catalogue ancien. Ensuite, une nouvelle référence détectée ou une référence observée indisponible puis commandable/précommandable déclenche une alerte. Une première détection ne prouve pas une publication récente. La date entre crochets dans un titre est traitée comme une date de sortie annoncée, pas une date de publication.
+
+L'historique InvestCollect est conservé dans `etat.json` sur la branche **`investcollect-state`**, indépendamment de `monitor-state` pour Le Coin des Barons. Une panne ou une pause d'un site n'empêche pas de vérifier l'autre. Un catalogue partiel, une pagination incohérente ou un état inconnu ne sont jamais interprétés comme une rupture. Le déclencheur cron-job.org existant appelle le même workflow et ne nécessite aucune modification.
 
 Cette version fonctionne sur **GitHub Actions**, indépendamment de l'ordinateur personnel. Elle est prévue pour un **dépôt public avec les machines standard gratuites de GitHub**. Le workflow de surveillance ne s'exécute pas dans un dépôt privé, afin de ne pas consommer les minutes limitées d'un compte gratuit.
 
@@ -42,7 +48,7 @@ Le programme ne se connecte pas à un compte de la boutique, ne réserve rien et
 
 Les passages suivants affichent **EN PAUSE** et ne sollicitent plus le site. Après résolution et vérification du site, lancer manuellement le mode **`reprendre`** dans **Actions → Alertes Pokemon → Run workflow**. Ne pas utiliser ce mode pour insister face à un refus persistant.
 
-Chaque passage affiche un résumé dans Actions : résultat, heure à Paris, nombre de fiches et de pages, nouveaux événements et alertes en attente. Un job vert peut aussi correspondre à **EN PAUSE** ; seul **Catalogue vérifié** confirme un passage terminé avec lecture réussie. Un test ntfy est identifié séparément et ne vérifie pas le catalogue. Ce résumé décrit le passage effectué et ne garantit pas le lancement des suivants. Vérifier périodiquement que des passages réussis récents sont présents. GitHub peut désactiver les planifications d'un dépôt public après 60 jours sans activité ; si nécessaire, réactiver le workflow dans Actions.
+Chaque passage affiche un résumé dans Actions : résultat, heure à Paris, nombre de fiches et de pages, nouveaux événements et alertes en attente. Un site **EN PAUSE** produit un job en échec tout en permettant le traitement de l’autre site ; seul **Catalogue vérifié** confirme un passage terminé avec lecture réussie. Un test ntfy est identifié séparément et ne vérifie pas le catalogue. Ce résumé décrit le passage effectué et ne garantit pas le lancement des suivants. Vérifier périodiquement que des passages réussis récents sont présents. GitHub peut désactiver les planifications d'un dépôt public après 60 jours sans activité ; si nécessaire, réactiver le workflow dans Actions.
 
 Pour arrêter volontairement les alertes : ouvrir **Actions → Alertes Pokemon → menu ⋯ → Disable workflow**. La reprise se fait avec **Enable workflow**. Le mode `reprendre` sert aux pauses décidées par le programme, pas à l'activation du workflow GitHub.
 
