@@ -1172,22 +1172,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "209751",
-      "title": "Pokémon - Pack - 1 Coffret Poster 30e ans + 1 Deck Mewtwo ex de la Team Rocket + 1 Portfolio Salamèche avec 1 Booster ME04 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-poster-30e-ans-1-deck-mewtwo-ex-de-la-team-rocket-1-portfolio-salameche-avec-1-booster-me04-en-francais/",
-      "price": 89.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-13T08:01:07+00:00",
-      "event_id": "0dda1b5885455538",
-      "published_at": "2026-10-12T10:17:11+00:00",
-      "modified_at": "2026-10-13T07:55:33+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -1635,6 +1620,20 @@
       "event_id": "891ef5565bf1dc50",
       "published_at": "2026-10-12T10:18:05+00:00",
       "modified_at": "2026-10-13T07:55:28+00:00",
+      "release_date": null
+    },
+    {
+      "id": "209751",
+      "title": "Pokémon - Pack - 1 Coffret Poster 30e ans + 1 Deck Mewtwo ex de la Team Rocket + 1 Portfolio Salamèche avec 1 Booster ME04 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-poster-30e-ans-1-deck-mewtwo-ex-de-la-team-rocket-1-portfolio-salameche-avec-1-booster-me04-en-francais/",
+      "price": 89.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-13T08:01:07+00:00",
+      "event_id": "0dda1b5885455538",
+      "published_at": "2026-10-12T10:17:11+00:00",
+      "modified_at": "2026-10-13T07:55:33+00:00",
       "release_date": null
     }
   ],
