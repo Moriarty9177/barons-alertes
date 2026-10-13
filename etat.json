@@ -352,7 +352,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-10-13T08:45:47+00:00"
+      "last_seen_at": "2026-10-13T08:45:47+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "etb-pokemon-chaos-ascendant-mega-amphinobi-me04-scelle-francais": {
       "id": "etb-pokemon-chaos-ascendant-mega-amphinobi-me04-scelle-francais",
@@ -1224,7 +1226,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-13T08:45:47+00:00",
-      "event_id": "38d33f095f146ce7"
+      "event_id": "38d33f095f146ce7",
+      "published_at": null,
+      "modified_at": null
     }
   ],
   "sent": [],
