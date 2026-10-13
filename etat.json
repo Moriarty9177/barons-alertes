@@ -1215,7 +1215,8 @@
       "last_seen_at": "2026-10-13T08:45:47+00:00"
     }
   },
-  "pending": [
+  "pending": [],
+  "sent": [
     {
       "id": "display-pokemon-chaos-ascendant-me04-scelle-francais",
       "title": "Display - Pokemon - Chaos Ascendant - ME04 - Scellé - Français",
@@ -1231,7 +1232,6 @@
       "modified_at": null
     }
   ],
-  "sent": [],
   "consecutive_failures": 0,
   "last_success_at": "2026-10-13T08:45:47+00:00"
 }
