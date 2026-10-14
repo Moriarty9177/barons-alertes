@@ -1239,20 +1239,6 @@
   },
   "pending": [
     {
-      "id": "176249",
-      "title": "Pokémon - Display - Equilibre Parfait - ME03 - Boite de 36 boosters en français (scellage abîmé)",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-equilibre-parfait-me03-boite-de-36-boosters-en-francais-scellage-abime/",
-      "price": 189.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-14T09:10:36+00:00",
-      "event_id": "ec4b6165c6315fd3",
-      "published_at": "2026-06-11T09:21:45+00:00",
-      "modified_at": "2026-10-14T09:09:46+00:00",
-      "release_date": null
-    },
-    {
       "id": "176254",
       "title": "Pokémon - ETB - Equilibre Parfait - ME03 - Coffret Dresseur d’Elite en français (scellage abîmé)",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-equilibre-parfait-me03-coffret-dresseur-delite-en-francais-scellage-abime/",
@@ -1770,6 +1756,20 @@
       "event_id": "0e086f6d196158e0",
       "published_at": "2026-08-03T14:56:41+00:00",
       "modified_at": "2026-10-14T09:09:55+00:00",
+      "release_date": null
+    },
+    {
+      "id": "176249",
+      "title": "Pokémon - Display - Equilibre Parfait - ME03 - Boite de 36 boosters en français (scellage abîmé)",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-equilibre-parfait-me03-boite-de-36-boosters-en-francais-scellage-abime/",
+      "price": 189.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-14T09:10:36+00:00",
+      "event_id": "ec4b6165c6315fd3",
+      "published_at": "2026-06-11T09:21:45+00:00",
+      "modified_at": "2026-10-14T09:09:46+00:00",
       "release_date": null
     }
   ],
