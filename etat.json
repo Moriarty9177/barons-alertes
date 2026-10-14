@@ -1278,20 +1278,6 @@
   },
   "pending": [
     {
-      "id": "210530",
-      "title": "Pokémon - Pack - 1 ETB Règne Delta (ME06) + 1 Duopack ME04/ME05 + 1 portfolio Gardevoir avec un booster Chaos Ascendant (ME04) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/duo-pack-pokemon/pokemon-pack-1-etb-regne-delta-me06-1-duopack-me04-me05-1-portfolio-gardevoir-avec-un-booster-chaos-ascendant-me04-en-francais/",
-      "price": 134.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-14T14:35:34+00:00",
-      "event_id": "0887ae35b11e508d",
-      "published_at": "2026-10-14T13:44:37+00:00",
-      "modified_at": "2026-10-14T14:34:52+00:00",
-      "release_date": null
-    },
-    {
       "id": "210529",
       "title": "Pokémon - Pack - 1 Bundle Règne Delta (ME06) + 1 portfolio Lucario - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-pack-1-bundle-regne-delta-me06-1-portfolio-lucario-en-francais/",
@@ -1851,6 +1837,20 @@
       "event_id": "fa29630b395735b1",
       "published_at": "2025-08-01T16:41:00+00:00",
       "modified_at": "2026-10-14T09:08:30+00:00",
+      "release_date": null
+    },
+    {
+      "id": "210530",
+      "title": "Pokémon - Pack - 1 ETB Règne Delta (ME06) + 1 Duopack ME04/ME05 + 1 portfolio Gardevoir avec un booster Chaos Ascendant (ME04) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/duo-pack-pokemon/pokemon-pack-1-etb-regne-delta-me06-1-duopack-me04-me05-1-portfolio-gardevoir-avec-un-booster-chaos-ascendant-me04-en-francais/",
+      "price": 134.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-14T14:35:34+00:00",
+      "event_id": "0887ae35b11e508d",
+      "published_at": "2026-10-14T13:44:37+00:00",
+      "modified_at": "2026-10-14T14:34:52+00:00",
       "release_date": null
     }
   ],
