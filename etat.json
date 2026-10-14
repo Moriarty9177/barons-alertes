@@ -1278,20 +1278,6 @@
   },
   "pending": [
     {
-      "id": "210529",
-      "title": "Pokémon - Pack - 1 Bundle Règne Delta (ME06) + 1 portfolio Lucario - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-pack-1-bundle-regne-delta-me06-1-portfolio-lucario-en-francais/",
-      "price": 64.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-14T14:35:34+00:00",
-      "event_id": "a8fcfdebf17ded4e",
-      "published_at": "2026-10-14T13:44:03+00:00",
-      "modified_at": "2026-10-14T14:34:57+00:00",
-      "release_date": null
-    },
-    {
       "id": "210528",
       "title": "Pokémon - Pack - 1 Display Règne Delta (ME06) + 1 Duopack ME04/ME05 + 1 Portfolio Ectoplasma avec un booster Nuit Noire (ME05) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-display-regne-delta-me06-1-duopack-me04-me05-1-portfolio-ectoplasma-avec-un-booster-nuit-noire-me05-en-francais/",
@@ -1851,6 +1837,20 @@
       "event_id": "0887ae35b11e508d",
       "published_at": "2026-10-14T13:44:37+00:00",
       "modified_at": "2026-10-14T14:34:52+00:00",
+      "release_date": null
+    },
+    {
+      "id": "210529",
+      "title": "Pokémon - Pack - 1 Bundle Règne Delta (ME06) + 1 portfolio Lucario - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-pack-1-bundle-regne-delta-me06-1-portfolio-lucario-en-francais/",
+      "price": 64.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-14T14:35:34+00:00",
+      "event_id": "a8fcfdebf17ded4e",
+      "published_at": "2026-10-14T13:44:03+00:00",
+      "modified_at": "2026-10-14T14:34:57+00:00",
       "release_date": null
     }
   ],
