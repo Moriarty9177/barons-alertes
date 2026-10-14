@@ -1239,20 +1239,6 @@
   },
   "pending": [
     {
-      "id": "174565",
-      "title": "Pokémon - Booster - Nuit Noire - ME05 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-nuit-noire-me05-en-francais/",
-      "price": 6.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-14T09:10:36+00:00",
-      "event_id": "cf4f2c592563fb5f",
-      "published_at": "2026-06-04T15:36:07+00:00",
-      "modified_at": "2026-10-14T09:08:40+00:00",
-      "release_date": null
-    },
-    {
       "id": "93735",
       "title": "Pokémon - Booster Blister - Méga Evolution - ME01 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-blister-mega-evolution-m1l-en-francais/",
@@ -1770,6 +1756,20 @@
       "event_id": "08a3a9ca87380ccb",
       "published_at": "2026-06-10T08:43:38+00:00",
       "modified_at": "2026-10-14T09:09:49+00:00",
+      "release_date": null
+    },
+    {
+      "id": "174565",
+      "title": "Pokémon - Booster - Nuit Noire - ME05 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-nuit-noire-me05-en-francais/",
+      "price": 6.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-14T09:10:36+00:00",
+      "event_id": "cf4f2c592563fb5f",
+      "published_at": "2026-06-04T15:36:07+00:00",
+      "modified_at": "2026-10-14T09:08:40+00:00",
       "release_date": null
     }
   ],
