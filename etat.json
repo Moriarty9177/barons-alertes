@@ -1230,22 +1230,7 @@
       "modified_at": null
     }
   },
-  "pending": [
-    {
-      "id": "pokebox-pokemon-nigosier-v-destinees-radieuses-eb04_5-scelle-francais",
-      "title": "Pokébox - Pokemon - Nigosier V - Destinées Radieuses - EB04.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/pokebox-pokemon-nigosier-v-destinees-radieuses-eb04_5-scelle-francais.html",
-      "price": 79.9,
-      "availability": "indisponible",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-14T16:20:45+00:00",
-      "event_id": "a03c66300964f560",
-      "published_at": null,
-      "modified_at": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "display-pokemon-chaos-ascendant-me04-scelle-francais",
@@ -1272,6 +1257,20 @@
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-14T06:45:45+00:00",
       "event_id": "81e5f9685380bf2e",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "pokebox-pokemon-nigosier-v-destinees-radieuses-eb04_5-scelle-francais",
+      "title": "Pokébox - Pokemon - Nigosier V - Destinées Radieuses - EB04.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/pokebox-pokemon-nigosier-v-destinees-radieuses-eb04_5-scelle-francais.html",
+      "price": 79.9,
+      "availability": "indisponible",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-14T16:20:45+00:00",
+      "event_id": "a03c66300964f560",
       "published_at": null,
       "modified_at": null
     }
