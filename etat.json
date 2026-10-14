@@ -1225,7 +1225,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-14T16:20:45+00:00",
-      "last_seen_at": "2026-10-14T16:20:45+00:00"
+      "last_seen_at": "2026-10-14T16:20:45+00:00",
+      "published_at": null,
+      "modified_at": null
     }
   },
   "pending": [
@@ -1239,7 +1241,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-14T16:20:45+00:00",
-      "event_id": "a03c66300964f560"
+      "event_id": "a03c66300964f560",
+      "published_at": null,
+      "modified_at": null
     }
   ],
   "sent": [
