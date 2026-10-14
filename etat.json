@@ -1217,22 +1217,7 @@
       "last_seen_at": "2026-10-14T06:45:45+00:00"
     }
   },
-  "pending": [
-    {
-      "id": "plumier-pokemon-rentree-des-classes-scelle-francais",
-      "title": "Plumier - Pokemon - Rentrée des classes - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/plumier-pokemon-rentree-des-classes-scelle-francais.html",
-      "price": 13.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-14T06:45:45+00:00",
-      "event_id": "81e5f9685380bf2e",
-      "published_at": null,
-      "modified_at": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "display-pokemon-chaos-ascendant-me04-scelle-francais",
@@ -1245,6 +1230,20 @@
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-13T08:45:47+00:00",
       "event_id": "38d33f095f146ce7",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "plumier-pokemon-rentree-des-classes-scelle-francais",
+      "title": "Plumier - Pokemon - Rentrée des classes - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/plumier-pokemon-rentree-des-classes-scelle-francais.html",
+      "price": 13.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "commandes_ouvertes",
+      "observed_at": "2026-10-14T06:45:45+00:00",
+      "event_id": "81e5f9685380bf2e",
       "published_at": null,
       "modified_at": null
     }
