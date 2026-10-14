@@ -1244,7 +1244,10 @@
       "availability": "commandable",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-10-14T14:35:34+00:00",
-      "last_seen_at": "2026-10-14T14:35:34+00:00"
+      "last_seen_at": "2026-10-14T14:35:34+00:00",
+      "published_at": "2026-10-14T13:44:37+00:00",
+      "modified_at": "2026-10-14T14:34:52+00:00",
+      "release_date": null
     },
     "210529": {
       "id": "210529",
@@ -1254,7 +1257,10 @@
       "availability": "commandable",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-10-14T14:35:34+00:00",
-      "last_seen_at": "2026-10-14T14:35:34+00:00"
+      "last_seen_at": "2026-10-14T14:35:34+00:00",
+      "published_at": "2026-10-14T13:44:03+00:00",
+      "modified_at": "2026-10-14T14:34:57+00:00",
+      "release_date": null
     },
     "210528": {
       "id": "210528",
@@ -1264,7 +1270,10 @@
       "availability": "commandable",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-10-14T14:35:34+00:00",
-      "last_seen_at": "2026-10-14T14:35:34+00:00"
+      "last_seen_at": "2026-10-14T14:35:34+00:00",
+      "published_at": "2026-10-14T13:43:22+00:00",
+      "modified_at": "2026-10-14T14:35:02+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1277,7 +1286,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-14T14:35:34+00:00",
-      "event_id": "0887ae35b11e508d"
+      "event_id": "0887ae35b11e508d",
+      "published_at": "2026-10-14T13:44:37+00:00",
+      "modified_at": "2026-10-14T14:34:52+00:00",
+      "release_date": null
     },
     {
       "id": "210529",
@@ -1288,7 +1300,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-14T14:35:34+00:00",
-      "event_id": "a8fcfdebf17ded4e"
+      "event_id": "a8fcfdebf17ded4e",
+      "published_at": "2026-10-14T13:44:03+00:00",
+      "modified_at": "2026-10-14T14:34:57+00:00",
+      "release_date": null
     },
     {
       "id": "210528",
@@ -1299,7 +1314,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-14T14:35:34+00:00",
-      "event_id": "b45d845f84b63a78"
+      "event_id": "b45d845f84b63a78",
+      "published_at": "2026-10-14T13:43:22+00:00",
+      "modified_at": "2026-10-14T14:35:02+00:00",
+      "release_date": null
     }
   ],
   "sent": [
