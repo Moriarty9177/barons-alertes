@@ -1289,22 +1289,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "204637",
-      "title": "Pokémon - Pack - 1 Mini-Tin 30e ans + 2 Mini-Tins ME03/ME04 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-produits/pokemon-pack-1-mini-tin-30e-ans-2-mini-tins-me03-me04-en-francais/",
-      "price": 52.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-15T08:25:27+00:00",
-      "event_id": "6b6a15dda42d3647",
-      "published_at": "2026-09-30T15:31:42+00:00",
-      "modified_at": "2026-10-15T08:22:40+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -1878,6 +1863,20 @@
       "event_id": "b45d845f84b63a78",
       "published_at": "2026-10-14T13:43:22+00:00",
       "modified_at": "2026-10-14T14:35:02+00:00",
+      "release_date": null
+    },
+    {
+      "id": "204637",
+      "title": "Pokémon - Pack - 1 Mini-Tin 30e ans + 2 Mini-Tins ME03/ME04 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-produits/pokemon-pack-1-mini-tin-30e-ans-2-mini-tins-me03-me04-en-francais/",
+      "price": 52.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-15T08:25:27+00:00",
+      "event_id": "6b6a15dda42d3647",
+      "published_at": "2026-09-30T15:31:42+00:00",
+      "modified_at": "2026-10-15T08:22:40+00:00",
       "release_date": null
     }
   ],
