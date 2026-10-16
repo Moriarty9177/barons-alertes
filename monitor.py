@@ -90,14 +90,48 @@ def public_url(url):
     return url
 
 
-def catalog_url(url):
-    """Retire les marqueurs publicitaires des liens, jamais les paramètres d'action."""
+def catalog_url(url, *, canonical=None):
+    """Ne lit que la route publique, avec une preuve canonique si un marqueur est inconnu."""
     parts = parse.urlsplit(url)
+    clean = public_url(parse.urlunsplit(parts._replace(query='')))
+    unknown = []
     for key, _ in parse.parse_qsl(parts.query, keep_blank_values=True):
-        if not (key.startswith('utm_') or key in {'gclid', 'gad_source', 'gad_campaignid'}):
-            raise WatchError('Paramètre de catalogue inattendu : lecture annulée.')
-    # public_url vérifie encore le domaine, le chemin et l'absence de fragment.
-    return public_url(parse.urlunsplit(parts._replace(query='')))
+        name = key.lower()
+        if (name.startswith('utm_') or name in {
+                'gclid', 'dclid', 'gclsrc', 'gad_source', 'gad_campaignid',
+                'srsltid', 'fbclid', 'msclkid', 'gbraid', 'wbraid', '_gl', '_ga'}):
+            continue
+        # Ces paramètres ont une signification commerciale ; aucun repli autorisé.
+        if (name in {'action', 'add-to-cart', 'add_to_cart', 'remove_item', 'undo_item',
+                     'quantity', 'variation_id', 'orderby', 'order', 'min_price',
+                     'max_price', 's', 'p', 'paged', 'page', 'wc-ajax', 'wc_ajax',
+                     'redirect', 'redirect_to', 'preview', 'preview_id'}
+                or name.startswith(('attribute_', 'filter_', '_wpnonce', 'nonce'))):
+            raise WatchError('Paramètre d’action ou de filtre refusé dans le catalogue.')
+        unknown.append(key)
+    if unknown:
+        # Un lien de fiche indépendant, ou la route exacte de pagination attendue,
+        # doit confirmer la destination. Aucune valeur de requête n'est transmise.
+        if canonical is None or public_url(canonical) != clean:
+            names = ', '.join(re.sub(r'[^A-Za-z0-9_.-]', '?', k)[:48] for k in unknown[:4])
+            raise WatchError('Paramètre de catalogue inattendu (' + names + ') : lecture annulée.')
+    return clean
+
+
+def product_catalog_url(card, url, page_url):
+    """Les données de statistiques peuvent contenir un lien décoré différemment du lien visible."""
+    parts = parse.urlsplit(url)
+    clean = public_url(parse.urlunsplit(parts._replace(query='')))
+    canonical = None
+    for href in card.xpath('.//a[@href]/@href'):
+        try:
+            candidate = catalog_url(parse.urljoin(page_url, href))
+        except WatchError:
+            continue
+        if candidate == clean:
+            canonical = candidate
+            break
+    return catalog_url(url, canonical=canonical)
 
 
 class SameOriginRedirect(request.HTTPRedirectHandler):
@@ -170,7 +204,7 @@ def parse_catalog(text, url):
             if not title.strip():
                 raise WatchError('Nom produit absent : cycle annulé.')
             product_id = str(data.get('id') or data.get('internal_id') or '')
-            link = catalog_url(str(data.get('productlink', '')))
+            link = product_catalog_url(card, str(data.get('productlink', '')), url)
             status = data.get('stockstatus')
             if not product_id or status not in ('instock', 'outofstock', 'onbackorder'):
                 raise WatchError('Identifiant ou disponibilité produit non reconnus.')
@@ -193,10 +227,12 @@ def parse_catalog(text, url):
             records[product_id] = product
     next_pages = set()
     for href in tree.xpath('//*[' + cls('woocommerce-pagination') + ']//*[@href]/@href'):
-        candidate = catalog_url(parse.urljoin(url, href))
+        candidate = parse.urljoin(url, href)
+        parts = parse.urlsplit(candidate)
         if re.fullmatch(re.escape(parse.urlsplit(url).path.split('/page/')[0].rstrip('/'))
-                        + r'/page/\d+/', parse.urlsplit(candidate).path):
-            next_pages.add(candidate)
+                        + r'/page/\d+/', parts.path):
+            canonical = public_url(parse.urlunsplit(parts._replace(query='')))
+            next_pages.add(catalog_url(candidate, canonical=canonical))
     return records, sorted(next_pages)
 
 

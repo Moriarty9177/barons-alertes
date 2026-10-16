@@ -109,6 +109,52 @@ class WatchTests(unittest.TestCase):
         self.assertEqual(m.paris(detail['published_at']), '30/09/2026 18:02:16')
         self.assertEqual(detail['release_date'], '16 Octobre 2026')
 
+    def test_extended_tracking_markers_are_removed_without_network_actions(self):
+        for marker in ('srsltid', 'fbclid', 'msclkid', '_gl', '_ga', 'gbraid', 'wbraid'):
+            with self.subTest(marker=marker):
+                self.assertEqual(m.catalog_url(PRODUCT + '?' + marker + '=example'), PRODUCT)
+
+    def test_unknown_statistics_marker_uses_independent_matching_product_anchor(self):
+        tree = m.html.fromstring(self.text)
+        element = tree.xpath('//*[@data-gtm4wp_product_data]')[0]
+        data = json.loads(element.get('data-gtm4wp_product_data'))
+        clean = data['productlink']
+        data['productlink'] += '?new_tracking_marker=private-value'
+        element.set('data-gtm4wp_product_data', json.dumps(data))
+        card = element.getparent()
+        anchor = m.html.Element('a', href=clean)
+        anchor.text = 'Fiche produit'
+        card.append(anchor)
+        products, _ = m.parse_catalog(m.html.tostring(tree, encoding='unicode'), URL)
+        self.assertEqual(products, self.products)
+        anchor.set('href', PRODUCT)
+        with self.assertRaises(m.WatchError) as caught:
+            m.parse_catalog(m.html.tostring(tree, encoding='unicode'), URL)
+        self.assertIn('new_tracking_marker', str(caught.exception))
+        self.assertNotIn('private-value', str(caught.exception))
+
+    def test_unknown_pagination_marker_only_reads_exact_expected_page_route(self):
+        tree = m.html.fromstring(self.text)
+        element = tree.xpath('//*[' + m.cls('woocommerce-pagination') + ']//*[@href]')[0]
+        element.set('href', URL + 'page/2/?new_tracking_marker=example')
+        _, pages = m.parse_catalog(m.html.tostring(tree, encoding='unicode'), URL)
+        self.assertEqual(pages, [URL + 'page/2/'])
+        element.set('href', 'https://evil.test' + m.parse.urlsplit(URL).path + 'page/2/?new_tracking_marker=x')
+        with self.assertRaises(m.WatchError):
+            m.parse_catalog(m.html.tostring(tree, encoding='unicode'), URL)
+
+    def test_canonical_fallback_does_not_accept_actions_filters_or_external_links(self):
+        for query in ('add-to-cart=123', 'orderby=price', 'variation_id=1',
+                      'wc-ajax=add_to_cart', 'redirect_to=https://evil.test', 'attribute_size=XL'):
+            with self.subTest(query=query), self.assertRaises(m.WatchError):
+                m.catalog_url(PRODUCT + '?' + query, canonical=PRODUCT)
+        for url, canonical in ((PRODUCT + '?new_marker=x#fragment', PRODUCT),
+                               (PRODUCT + '?new_marker=x', URL),
+                               ('https://evil.test/p/?new_marker=x', PRODUCT),
+                               (m.ORIGIN + '/mon-compte/?new_marker=x', PRODUCT)):
+            with self.subTest(url=url), self.assertRaises(m.WatchError):
+                m.catalog_url(url, canonical=canonical)
+
     def test_baseline_then_new_and_no_duplicate(self):
         state = {}
         self.assertEqual(m.update_state(state, self.products, '2026-10-06T08:00:00+00:00'), [])
