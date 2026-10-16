@@ -1302,22 +1302,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "211047",
-      "title": "Pokémon - Display- SHRINK (avec film) - 30e - M6a - en japonais",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-shrink-avec-film-30e-m6a-en-japonais/",
-      "price": 224.99,
-      "availability": "precommande",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-16T11:05:28+00:00",
-      "event_id": "1e09e3994646be79",
-      "published_at": "2026-10-16T09:01:54+00:00",
-      "modified_at": "2026-10-16T11:04:07+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -1905,6 +1890,20 @@
       "event_id": "6b6a15dda42d3647",
       "published_at": "2026-09-30T15:31:42+00:00",
       "modified_at": "2026-10-15T08:22:40+00:00",
+      "release_date": null
+    },
+    {
+      "id": "211047",
+      "title": "Pokémon - Display- SHRINK (avec film) - 30e - M6a - en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-shrink-avec-film-30e-m6a-en-japonais/",
+      "price": 224.99,
+      "availability": "precommande",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-16T11:05:28+00:00",
+      "event_id": "1e09e3994646be79",
+      "published_at": "2026-10-16T09:01:54+00:00",
+      "modified_at": "2026-10-16T11:04:07+00:00",
       "release_date": null
     }
   ],
