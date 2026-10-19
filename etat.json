@@ -1236,20 +1236,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais",
-      "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html",
-      "price": 99.9,
-      "availability": "precommande",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": "2026-11-06",
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-19T11:45:41+00:00",
-      "event_id": "923f1d376e4f6163",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "deck-pokemon-combat-30e-anniversaire-noctali-ex-scelle-francais",
       "title": "[06-11-2026] Deck - Pokemon - Combat 30e Anniversaire - Noctali ex - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/deck-pokemon-combat-30e-anniversaire-noctali-ex-scelle-francais.html",
@@ -1304,6 +1290,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-14T16:20:45+00:00",
       "event_id": "a03c66300964f560",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais",
+      "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html",
+      "price": 99.9,
+      "availability": "precommande",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": "2026-11-06",
+      "cause": "commandes_ouvertes",
+      "observed_at": "2026-10-19T11:45:41+00:00",
+      "event_id": "923f1d376e4f6163",
       "published_at": null,
       "modified_at": null
     }
