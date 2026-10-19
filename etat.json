@@ -88,7 +88,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": "2026-11-06",
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-10-19T11:45:41+00:00"
+      "last_seen_at": "2026-10-19T11:45:41+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-figurine-mew-30e-anniversaire-me05_5-scelle-francais": {
       "id": "coffret-pokemon-collection-figurine-mew-30e-anniversaire-me05_5-scelle-francais",
@@ -110,7 +112,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": "2026-11-06",
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-10-19T11:45:41+00:00"
+      "last_seen_at": "2026-10-19T11:45:41+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "deck-pokemon-combat-30e-anniversaire-mentali-ex-scelle-francais": {
       "id": "deck-pokemon-combat-30e-anniversaire-mentali-ex-scelle-francais",
@@ -1241,7 +1245,9 @@
       "release_date": "2026-11-06",
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-19T11:45:41+00:00",
-      "event_id": "923f1d376e4f6163"
+      "event_id": "923f1d376e4f6163",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "deck-pokemon-combat-30e-anniversaire-noctali-ex-scelle-francais",
@@ -1253,7 +1259,9 @@
       "release_date": "2026-11-06",
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-19T11:45:41+00:00",
-      "event_id": "0300ed5d98b3277c"
+      "event_id": "0300ed5d98b3277c",
+      "published_at": null,
+      "modified_at": null
     }
   ],
   "sent": [
