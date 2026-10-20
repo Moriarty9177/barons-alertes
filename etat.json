@@ -1315,22 +1315,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "28068",
-      "title": "Pokémon - Display - Origine Perdue - EB11 - Boîte de 36 boosters en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/coffret-epee-et-bouclier-origine-perdue-fr/",
-      "price": 449.99,
-      "availability": "commandable",
-      "item_category": "Display Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T11:29:23+00:00",
-      "event_id": "c36ca84c6c621c25",
-      "published_at": "2022-07-18T10:40:53+00:00",
-      "modified_at": "2026-10-20T11:26:50+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -1932,6 +1917,20 @@
       "event_id": "1e09e3994646be79",
       "published_at": "2026-10-16T09:01:54+00:00",
       "modified_at": "2026-10-16T11:04:07+00:00",
+      "release_date": null
+    },
+    {
+      "id": "28068",
+      "title": "Pokémon - Display - Origine Perdue - EB11 - Boîte de 36 boosters en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/coffret-epee-et-bouclier-origine-perdue-fr/",
+      "price": 449.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T11:29:23+00:00",
+      "event_id": "c36ca84c6c621c25",
+      "published_at": "2022-07-18T10:40:53+00:00",
+      "modified_at": "2026-10-20T11:26:50+00:00",
       "release_date": null
     }
   ],
