@@ -1499,20 +1499,6 @@
   },
   "pending": [
     {
-      "id": "212258",
-      "title": "Pokémon - Pack - 1 Pokébox Amphinobi 30 ans + 1 Deck Méga Lucario ex - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-pokebox-amphinobi-30-ans-1-deck-mega-lucario-ex-en-francais/",
-      "price": 74.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T15:25:34+00:00",
-      "event_id": "a87972f1e9a199c2",
-      "published_at": "2026-10-20T13:12:23+00:00",
-      "modified_at": "2026-10-20T15:20:36+00:00",
-      "release_date": null
-    },
-    {
       "id": "212257",
       "title": "Pokémon - Pack - 1 ETB 30 ans + 1 Coffret Collection Méga Amphinobi ex + 1 Deck Mewtwo + 1 Portfolio Héros Transcendants - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-etb-30-ans-1-coffret-collection-mega-amphinobi-ex-1-deck-mewtwo-1-portfolio-heros-transcendants-en-francais/",
@@ -2310,6 +2296,20 @@
       "event_id": "426ddcffee060c99",
       "published_at": "2026-10-20T13:14:07+00:00",
       "modified_at": "2026-10-20T15:20:32+00:00",
+      "release_date": null
+    },
+    {
+      "id": "212258",
+      "title": "Pokémon - Pack - 1 Pokébox Amphinobi 30 ans + 1 Deck Méga Lucario ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-pokebox-amphinobi-30-ans-1-deck-mega-lucario-ex-en-francais/",
+      "price": 74.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T15:25:34+00:00",
+      "event_id": "a87972f1e9a199c2",
+      "published_at": "2026-10-20T13:12:23+00:00",
+      "modified_at": "2026-10-20T15:20:36+00:00",
       "release_date": null
     }
   ],
