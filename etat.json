@@ -1434,20 +1434,6 @@
   },
   "pending": [
     {
-      "id": "93732",
-      "title": "Pokémon - Pokebox - Persian - Team Rocket - 2025 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pokebox-persian-team-rocket-2025-en-francais/",
-      "price": 27.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T13:40:36+00:00",
-      "event_id": "73ca3c886eac668c",
-      "published_at": "2025-08-01T16:25:28+00:00",
-      "modified_at": "2026-10-20T13:36:38+00:00",
-      "release_date": null
-    },
-    {
       "id": "84950",
       "title": "Pokémon - Display - Aventures Ensemble - Display with Topper (Promo) - EV09 - Boîte de Boosters en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-avec-carte-promo-ev09-boite-de-boosters-en-francais-reassort-prevu-pour-debut-juillet/",
@@ -2175,6 +2161,20 @@
       "event_id": "ad441e7ff0f216d5",
       "published_at": "2026-06-02T10:04:31+00:00",
       "modified_at": "2026-10-20T13:36:59+00:00",
+      "release_date": null
+    },
+    {
+      "id": "93732",
+      "title": "Pokémon - Pokebox - Persian - Team Rocket - 2025 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pokebox-persian-team-rocket-2025-en-francais/",
+      "price": 27.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T13:40:36+00:00",
+      "event_id": "73ca3c886eac668c",
+      "published_at": "2025-08-01T16:25:28+00:00",
+      "modified_at": "2026-10-20T13:36:38+00:00",
       "release_date": null
     }
   ],
