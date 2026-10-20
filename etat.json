@@ -1434,20 +1434,6 @@
   },
   "pending": [
     {
-      "id": "174592",
-      "title": "Pokémon - Pack - 1 Display + 1 Tripack - Nuit Noire - ME05 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-display-1-tripack-nuit-noire-me05-en-francais/",
-      "price": 239.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T13:40:36+00:00",
-      "event_id": "eb6a904bc2609957",
-      "published_at": "2026-06-04T15:35:37+00:00",
-      "modified_at": "2026-10-20T13:37:14+00:00",
-      "release_date": null
-    },
-    {
       "id": "173879",
       "title": "Pokémon - Pack - 1 Coffret Méga-Zygarde + 1 ETB Equilibre Parfait ME03 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-mega-zygarde-1-etb-equilibre-parfait-me03-en-francais/",
@@ -2175,6 +2161,20 @@
       "event_id": "00e0b77f79dea2de",
       "published_at": "2026-06-04T15:36:05+00:00",
       "modified_at": "2026-10-20T13:36:28+00:00",
+      "release_date": null
+    },
+    {
+      "id": "174592",
+      "title": "Pokémon - Pack - 1 Display + 1 Tripack - Nuit Noire - ME05 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-display-1-tripack-nuit-noire-me05-en-francais/",
+      "price": 239.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T13:40:36+00:00",
+      "event_id": "eb6a904bc2609957",
+      "published_at": "2026-06-04T15:35:37+00:00",
+      "modified_at": "2026-10-20T13:37:14+00:00",
       "release_date": null
     }
   ],
