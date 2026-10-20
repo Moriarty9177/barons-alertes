@@ -1356,20 +1356,6 @@
   },
   "pending": [
     {
-      "id": "59358",
-      "title": "Coffret Pokémon - Super Premium Collection Dracaufeu EX avec figurine - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/coffret-pokemon-super-premium-collection-dracaufeu-ex-avec-figurine-en-francais/",
-      "price": 99.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T13:35:34+00:00",
-      "event_id": "61d42eb9aefd2250",
-      "published_at": "2024-08-05T16:34:12+00:00",
-      "modified_at": "2026-10-20T13:35:21+00:00",
-      "release_date": null
-    },
-    {
       "id": "143625",
       "title": "Pokémon - ETB - Equilibre Parfait - ME03 - Coffret Dresseur d’Elite en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-equilibre-parfait-me03-coffret-dresseur-delite-en-francais/",
@@ -2013,6 +1999,20 @@
       "event_id": "7fce0147d36754bf",
       "published_at": "2026-05-25T07:16:08+00:00",
       "modified_at": "2026-10-20T13:35:23+00:00",
+      "release_date": null
+    },
+    {
+      "id": "59358",
+      "title": "Coffret Pokémon - Super Premium Collection Dracaufeu EX avec figurine - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/coffret-pokemon-super-premium-collection-dracaufeu-ex-avec-figurine-en-francais/",
+      "price": 99.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T13:35:34+00:00",
+      "event_id": "61d42eb9aefd2250",
+      "published_at": "2024-08-05T16:34:12+00:00",
+      "modified_at": "2026-10-20T13:35:21+00:00",
       "release_date": null
     }
   ],
