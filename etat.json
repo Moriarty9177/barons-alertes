@@ -1354,22 +1354,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "143625",
-      "title": "Pokémon - ETB - Equilibre Parfait - ME03 - Coffret Dresseur d’Elite en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-equilibre-parfait-me03-coffret-dresseur-delite-en-francais/",
-      "price": 59.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T13:35:34+00:00",
-      "event_id": "bd205586be9b6aed",
-      "published_at": "2026-01-27T17:02:46+00:00",
-      "modified_at": "2026-10-20T13:35:05+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2013,6 +1998,20 @@
       "event_id": "61d42eb9aefd2250",
       "published_at": "2024-08-05T16:34:12+00:00",
       "modified_at": "2026-10-20T13:35:21+00:00",
+      "release_date": null
+    },
+    {
+      "id": "143625",
+      "title": "Pokémon - ETB - Equilibre Parfait - ME03 - Coffret Dresseur d’Elite en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-equilibre-parfait-me03-coffret-dresseur-delite-en-francais/",
+      "price": 59.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T13:35:34+00:00",
+      "event_id": "bd205586be9b6aed",
+      "published_at": "2026-01-27T17:02:46+00:00",
+      "modified_at": "2026-10-20T13:35:05+00:00",
       "release_date": null
     }
   ],
