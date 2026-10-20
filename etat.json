@@ -1356,20 +1356,6 @@
   },
   "pending": [
     {
-      "id": "170981",
-      "title": "Pokémon - Coffret Collection Illustration - Premiers Partenaires - Serie 2 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-collection-illustration-premiers-partenaires-serie-2-en-francais/",
-      "price": 39.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T13:35:34+00:00",
-      "event_id": "7fce0147d36754bf",
-      "published_at": "2026-05-25T07:16:08+00:00",
-      "modified_at": "2026-10-20T13:35:23+00:00",
-      "release_date": null
-    },
-    {
       "id": "59358",
       "title": "Coffret Pokémon - Super Premium Collection Dracaufeu EX avec figurine - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/coffret-pokemon-super-premium-collection-dracaufeu-ex-avec-figurine-en-francais/",
@@ -2013,6 +1999,20 @@
       "event_id": "c36ca84c6c621c25",
       "published_at": "2022-07-18T10:40:53+00:00",
       "modified_at": "2026-10-20T11:26:50+00:00",
+      "release_date": null
+    },
+    {
+      "id": "170981",
+      "title": "Pokémon - Coffret Collection Illustration - Premiers Partenaires - Serie 2 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-collection-illustration-premiers-partenaires-serie-2-en-francais/",
+      "price": 39.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T13:35:34+00:00",
+      "event_id": "7fce0147d36754bf",
+      "published_at": "2026-05-25T07:16:08+00:00",
+      "modified_at": "2026-10-20T13:35:23+00:00",
       "release_date": null
     }
   ],
