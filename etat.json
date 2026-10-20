@@ -1434,20 +1434,6 @@
   },
   "pending": [
     {
-      "id": "174569",
-      "title": "Pokémon - Display - Nuit Noire - ME05 - Boite de 36 boosters en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-nuit-noire-me05-boite-de-36-boosters-en-francais/",
-      "price": 229.99,
-      "availability": "commandable",
-      "item_category": "Display Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T13:40:36+00:00",
-      "event_id": "00e0b77f79dea2de",
-      "published_at": "2026-06-04T15:36:05+00:00",
-      "modified_at": "2026-10-20T13:36:28+00:00",
-      "release_date": null
-    },
-    {
       "id": "174592",
       "title": "Pokémon - Pack - 1 Display + 1 Tripack - Nuit Noire - ME05 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-display-1-tripack-nuit-noire-me05-en-francais/",
@@ -2175,6 +2161,20 @@
       "event_id": "bd205586be9b6aed",
       "published_at": "2026-01-27T17:02:46+00:00",
       "modified_at": "2026-10-20T13:35:05+00:00",
+      "release_date": null
+    },
+    {
+      "id": "174569",
+      "title": "Pokémon - Display - Nuit Noire - ME05 - Boite de 36 boosters en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-nuit-noire-me05-boite-de-36-boosters-en-francais/",
+      "price": 229.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T13:40:36+00:00",
+      "event_id": "00e0b77f79dea2de",
+      "published_at": "2026-06-04T15:36:05+00:00",
+      "modified_at": "2026-10-20T13:36:28+00:00",
       "release_date": null
     }
   ],
