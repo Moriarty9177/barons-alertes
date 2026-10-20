@@ -1499,20 +1499,6 @@
   },
   "pending": [
     {
-      "id": "212259",
-      "title": "Pokémon - Pack - 1 Coffret Classeur 30 ans + 1 Pokébox Méga Mélodelfe + 1 Portfolio Lucario - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pack-1-coffret-classeur-30-ans-1-pokebox-mega-melodelfe-1-portfolio-lucario-en-francais/",
-      "price": 109.99,
-      "availability": "precommande",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T15:25:34+00:00",
-      "event_id": "426ddcffee060c99",
-      "published_at": "2026-10-20T13:14:07+00:00",
-      "modified_at": "2026-10-20T15:20:32+00:00",
-      "release_date": null
-    },
-    {
       "id": "212258",
       "title": "Pokémon - Pack - 1 Pokébox Amphinobi 30 ans + 1 Deck Méga Lucario ex - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-pokebox-amphinobi-30-ans-1-deck-mega-lucario-ex-en-francais/",
@@ -2310,6 +2296,20 @@
       "event_id": "1c6fa08956e64307",
       "published_at": "2026-10-20T13:15:46+00:00",
       "modified_at": "2026-10-20T15:20:29+00:00",
+      "release_date": null
+    },
+    {
+      "id": "212259",
+      "title": "Pokémon - Pack - 1 Coffret Classeur 30 ans + 1 Pokébox Méga Mélodelfe + 1 Portfolio Lucario - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pack-1-coffret-classeur-30-ans-1-pokebox-mega-melodelfe-1-portfolio-lucario-en-francais/",
+      "price": 109.99,
+      "availability": "precommande",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T15:25:34+00:00",
+      "event_id": "426ddcffee060c99",
+      "published_at": "2026-10-20T13:14:07+00:00",
+      "modified_at": "2026-10-20T15:20:32+00:00",
       "release_date": null
     }
   ],
