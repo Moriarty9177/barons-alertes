@@ -1236,22 +1236,7 @@
       "modified_at": null
     }
   },
-  "pending": [
-    {
-      "id": "booster-pokemon-mascarade-crepusculaire-ev6-scelle-francais",
-      "title": "Booster - Pokemon - Mascarade Crépusculaire - EV6 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-mascarade-crepusculaire-ev6-scelle-francais.html",
-      "price": 7.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-20T08:45:39+00:00",
-      "event_id": "4245a0bb9cb8954c",
-      "published_at": null,
-      "modified_at": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "display-pokemon-chaos-ascendant-me04-scelle-francais",
@@ -1320,6 +1305,20 @@
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-19T11:45:41+00:00",
       "event_id": "0300ed5d98b3277c",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "booster-pokemon-mascarade-crepusculaire-ev6-scelle-francais",
+      "title": "Booster - Pokemon - Mascarade Crépusculaire - EV6 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/booster-pokemon-mascarade-crepusculaire-ev6-scelle-francais.html",
+      "price": 7.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "commandes_ouvertes",
+      "observed_at": "2026-10-20T08:45:39+00:00",
+      "event_id": "4245a0bb9cb8954c",
       "published_at": null,
       "modified_at": null
     }
