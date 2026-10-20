@@ -1458,22 +1458,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "212260",
-      "title": "Pokémon - Pack - 1 Bundle 30 ans + 1 Deck Mewtwo + 1 Portfolio Equilibre Parfait - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-bundle-30-ans-1-deck-mewtwo-1-portfolio-equilibre-parfait-en-francais/",
-      "price": 99.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T15:20:44+00:00",
-      "event_id": "1c6fa08956e64307",
-      "published_at": "2026-10-20T13:15:46+00:00",
-      "modified_at": "2026-10-20T15:20:29+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2229,6 +2214,20 @@
       "event_id": "db9bfe22d177666f",
       "published_at": "2026-08-07T05:26:01+00:00",
       "modified_at": "2026-10-20T15:10:42+00:00",
+      "release_date": null
+    },
+    {
+      "id": "212260",
+      "title": "Pokémon - Pack - 1 Bundle 30 ans + 1 Deck Mewtwo + 1 Portfolio Equilibre Parfait - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-bundle-30-ans-1-deck-mewtwo-1-portfolio-equilibre-parfait-en-francais/",
+      "price": 99.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T15:20:44+00:00",
+      "event_id": "1c6fa08956e64307",
+      "published_at": "2026-10-20T13:15:46+00:00",
+      "modified_at": "2026-10-20T15:20:29+00:00",
       "release_date": null
     }
   ],
