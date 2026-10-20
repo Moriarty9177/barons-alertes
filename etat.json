@@ -1309,7 +1309,10 @@
       "availability": "commandable",
       "item_category": "Display Pokémon",
       "first_seen_at": "2026-10-20T11:29:23+00:00",
-      "last_seen_at": "2026-10-20T11:29:23+00:00"
+      "last_seen_at": "2026-10-20T11:29:23+00:00",
+      "published_at": "2022-07-18T10:40:53+00:00",
+      "modified_at": "2026-10-20T11:26:50+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1322,7 +1325,10 @@
       "item_category": "Display Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-20T11:29:23+00:00",
-      "event_id": "c36ca84c6c621c25"
+      "event_id": "c36ca84c6c621c25",
+      "published_at": "2022-07-18T10:40:53+00:00",
+      "modified_at": "2026-10-20T11:26:50+00:00",
+      "release_date": null
     }
   ],
   "sent": [
