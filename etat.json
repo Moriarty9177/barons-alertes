@@ -1434,20 +1434,6 @@
   },
   "pending": [
     {
-      "id": "173879",
-      "title": "Pokémon - Pack - 1 Coffret Méga-Zygarde + 1 ETB Equilibre Parfait ME03 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-mega-zygarde-1-etb-equilibre-parfait-me03-en-francais/",
-      "price": 99.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T13:40:36+00:00",
-      "event_id": "264fcca56ae9295b",
-      "published_at": "2026-06-02T10:05:10+00:00",
-      "modified_at": "2026-10-20T13:37:02+00:00",
-      "release_date": null
-    },
-    {
       "id": "173886",
       "title": "Pokémon - Pack - 1 ETB Equilibre Parfait ME03 + 1 ETB Chaos Ascendant ME04 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-pack-1-etb-equilibre-parfait-me03-1-etb-chaos-ascendant-me04-en-francais/",
@@ -2175,6 +2161,20 @@
       "event_id": "eb6a904bc2609957",
       "published_at": "2026-06-04T15:35:37+00:00",
       "modified_at": "2026-10-20T13:37:14+00:00",
+      "release_date": null
+    },
+    {
+      "id": "173879",
+      "title": "Pokémon - Pack - 1 Coffret Méga-Zygarde + 1 ETB Equilibre Parfait ME03 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-mega-zygarde-1-etb-equilibre-parfait-me03-en-francais/",
+      "price": 99.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T13:40:36+00:00",
+      "event_id": "264fcca56ae9295b",
+      "published_at": "2026-06-02T10:05:10+00:00",
+      "modified_at": "2026-10-20T13:37:02+00:00",
       "release_date": null
     }
   ],
