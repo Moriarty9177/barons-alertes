@@ -1497,22 +1497,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "212257",
-      "title": "Pokémon - Pack - 1 ETB 30 ans + 1 Coffret Collection Méga Amphinobi ex + 1 Deck Mewtwo + 1 Portfolio Héros Transcendants - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-etb-30-ans-1-coffret-collection-mega-amphinobi-ex-1-deck-mewtwo-1-portfolio-heros-transcendants-en-francais/",
-      "price": 199.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-20T15:25:34+00:00",
-      "event_id": "d55c807c19a1723c",
-      "published_at": "2026-10-20T13:09:31+00:00",
-      "modified_at": "2026-10-20T15:20:40+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2310,6 +2295,20 @@
       "event_id": "a87972f1e9a199c2",
       "published_at": "2026-10-20T13:12:23+00:00",
       "modified_at": "2026-10-20T15:20:36+00:00",
+      "release_date": null
+    },
+    {
+      "id": "212257",
+      "title": "Pokémon - Pack - 1 ETB 30 ans + 1 Coffret Collection Méga Amphinobi ex + 1 Deck Mewtwo + 1 Portfolio Héros Transcendants - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-etb-30-ans-1-coffret-collection-mega-amphinobi-ex-1-deck-mewtwo-1-portfolio-heros-transcendants-en-francais/",
+      "price": 199.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-20T15:25:34+00:00",
+      "event_id": "d55c807c19a1723c",
+      "published_at": "2026-10-20T13:09:31+00:00",
+      "modified_at": "2026-10-20T15:20:40+00:00",
       "release_date": null
     }
   ],
