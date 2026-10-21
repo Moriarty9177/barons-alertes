@@ -55,7 +55,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": "2026-11-06",
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-10-21T09:55:38+00:00"
+      "last_seen_at": "2026-10-21T09:55:38+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-ultra-premium-noctali-ex-30e-anniversaire-me_5-scelle-francais": {
       "id": "coffret-pokemon-collection-ultra-premium-noctali-ex-30e-anniversaire-me_5-scelle-francais",
@@ -1247,7 +1249,9 @@
       "release_date": "2026-11-06",
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-21T09:55:38+00:00",
-      "event_id": "83354789bf57f199"
+      "event_id": "83354789bf57f199",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais",
@@ -1259,7 +1263,9 @@
       "release_date": "2026-11-06",
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-21T09:55:38+00:00",
-      "event_id": "acc3bceaf120e3b7"
+      "event_id": "acc3bceaf120e3b7",
+      "published_at": null,
+      "modified_at": null
     }
   ],
   "sent": [
