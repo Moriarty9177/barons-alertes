@@ -1590,20 +1590,6 @@
   },
   "pending": [
     {
-      "id": "173884",
-      "title": "Pokémon - Pack - 1 Pokébox Méga-Dracaufeu X + 1 Pokébox Méga-Dracaufeu Y - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pack-1-pokebox-mega-dracaufeu-x-1-pokebox-mega-dracaufeu-y-en-francais/",
-      "price": 74.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "0216e4d1a3b673bd",
-      "published_at": "2026-06-02T10:04:27+00:00",
-      "modified_at": "2026-10-21T08:24:21+00:00",
-      "release_date": null
-    },
-    {
       "id": "153070",
       "title": "Pokémon - Tripack - Chaos Ascendant - ME04 - en français (modèle alétoire)",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tripack-pokemon/pokemon-tripack-chaos-ascendant-en-francais-modele-aletoire/",
@@ -2499,6 +2485,20 @@
       "event_id": "d55c807c19a1723c",
       "published_at": "2026-10-20T13:09:31+00:00",
       "modified_at": "2026-10-20T15:20:40+00:00",
+      "release_date": null
+    },
+    {
+      "id": "173884",
+      "title": "Pokémon - Pack - 1 Pokébox Méga-Dracaufeu X + 1 Pokébox Méga-Dracaufeu Y - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pack-1-pokebox-mega-dracaufeu-x-1-pokebox-mega-dracaufeu-y-en-francais/",
+      "price": 74.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-21T08:25:35+00:00",
+      "event_id": "0216e4d1a3b673bd",
+      "published_at": "2026-06-02T10:04:27+00:00",
+      "modified_at": "2026-10-21T08:24:21+00:00",
       "release_date": null
     }
   ],
