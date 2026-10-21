@@ -1590,20 +1590,6 @@
   },
   "pending": [
     {
-      "id": "166984",
-      "title": "Pokémon - CASE - Chaos Ascendant - ME04 - Carton 10 Coffret Dresseur d’Elite en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-case-chaos-ascendant-me04-carton-10-coffret-dresseur-delite-en-francais/",
-      "price": 699.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "d971325be3a75156",
-      "published_at": "2026-01-06T12:38:11+00:00",
-      "modified_at": "2026-10-21T08:23:39+00:00",
-      "release_date": null
-    },
-    {
       "id": "126944",
       "title": "Pokémon - Pokébox - Méga-Dracaufeu Y ex - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pokebox-mega-dracaufeu-y-ex-en-francais/",
@@ -2499,6 +2485,20 @@
       "event_id": "6f4d5f067b72318a",
       "published_at": "2026-03-30T15:27:21+00:00",
       "modified_at": "2026-10-21T08:23:10+00:00",
+      "release_date": null
+    },
+    {
+      "id": "166984",
+      "title": "Pokémon - CASE - Chaos Ascendant - ME04 - Carton 10 Coffret Dresseur d’Elite en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-case-chaos-ascendant-me04-carton-10-coffret-dresseur-delite-en-francais/",
+      "price": 699.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-21T08:25:35+00:00",
+      "event_id": "d971325be3a75156",
+      "published_at": "2026-01-06T12:38:11+00:00",
+      "modified_at": "2026-10-21T08:23:39+00:00",
       "release_date": null
     }
   ],
