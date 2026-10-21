@@ -1590,20 +1590,6 @@
   },
   "pending": [
     {
-      "id": "126946",
-      "title": "Pokémon - Pokébox - Méga-Dracaufeu X ex - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pokebox-mega-dracaufeu-x-ex-en-francais/",
-      "price": 39.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "992ad5e1bd4abb25",
-      "published_at": "2025-12-26T15:44:44+00:00",
-      "modified_at": "2026-10-21T08:22:49+00:00",
-      "release_date": null
-    },
-    {
       "id": "81385",
       "title": "Pokémon - Coffret Classeur EV8.5 - Évolutions Prismatiques en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-classeur-ev8-5-evolutions-prismatiques-en-francais/",
@@ -2499,6 +2485,20 @@
       "event_id": "47c0b0336e26657c",
       "published_at": "2025-12-26T15:52:03+00:00",
       "modified_at": "2026-10-21T08:22:45+00:00",
+      "release_date": null
+    },
+    {
+      "id": "126946",
+      "title": "Pokémon - Pokébox - Méga-Dracaufeu X ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pokebox-mega-dracaufeu-x-ex-en-francais/",
+      "price": 39.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-21T08:25:35+00:00",
+      "event_id": "992ad5e1bd4abb25",
+      "published_at": "2025-12-26T15:44:44+00:00",
+      "modified_at": "2026-10-21T08:22:49+00:00",
       "release_date": null
     }
   ],
