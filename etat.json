@@ -1588,22 +1588,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "81389",
-      "title": "Pokémon - Coffret - Collection Boîte Surprise Évolutions Prismatiques - EV8.5 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-surprise-ev8-5-evolutions-prismatiques-en-francais/",
-      "price": 54.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "8eefd9b44b99adb5",
-      "published_at": "2025-05-31T10:40:33+00:00",
-      "modified_at": "2026-10-21T08:21:43+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2499,6 +2484,20 @@
       "event_id": "a96e740a6371a208",
       "published_at": "2025-05-31T11:32:53+00:00",
       "modified_at": "2026-10-21T08:21:38+00:00",
+      "release_date": null
+    },
+    {
+      "id": "81389",
+      "title": "Pokémon - Coffret - Collection Boîte Surprise Évolutions Prismatiques - EV8.5 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-surprise-ev8-5-evolutions-prismatiques-en-francais/",
+      "price": 54.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-21T08:25:35+00:00",
+      "event_id": "8eefd9b44b99adb5",
+      "published_at": "2025-05-31T10:40:33+00:00",
+      "modified_at": "2026-10-21T08:21:43+00:00",
       "release_date": null
     }
   ],
