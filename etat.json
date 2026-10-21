@@ -1504,7 +1504,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-21T08:25:35+00:00",
-      "last_seen_at": "2026-10-21T08:25:35+00:00"
+      "last_seen_at": "2026-10-21T08:25:35+00:00",
+      "published_at": "2026-06-02T10:04:27+00:00",
+      "modified_at": "2026-10-21T08:24:21+00:00",
+      "release_date": null
     },
     "153070": {
       "id": "153070",
@@ -1514,7 +1517,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-21T08:25:35+00:00",
-      "last_seen_at": "2026-10-21T08:25:35+00:00"
+      "last_seen_at": "2026-10-21T08:25:35+00:00",
+      "published_at": "2026-03-30T15:27:21+00:00",
+      "modified_at": "2026-10-21T08:23:10+00:00",
+      "release_date": null
     },
     "166984": {
       "id": "166984",
@@ -1524,7 +1530,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-21T08:25:35+00:00",
-      "last_seen_at": "2026-10-21T08:25:35+00:00"
+      "last_seen_at": "2026-10-21T08:25:35+00:00",
+      "published_at": "2026-01-06T12:38:11+00:00",
+      "modified_at": "2026-10-21T08:23:39+00:00",
+      "release_date": null
     },
     "126944": {
       "id": "126944",
@@ -1534,7 +1543,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-21T08:25:35+00:00",
-      "last_seen_at": "2026-10-21T08:25:35+00:00"
+      "last_seen_at": "2026-10-21T08:25:35+00:00",
+      "published_at": "2025-12-26T15:52:03+00:00",
+      "modified_at": "2026-10-21T08:22:45+00:00",
+      "release_date": null
     },
     "126946": {
       "id": "126946",
@@ -1544,7 +1556,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-21T08:25:35+00:00",
-      "last_seen_at": "2026-10-21T08:25:35+00:00"
+      "last_seen_at": "2026-10-21T08:25:35+00:00",
+      "published_at": "2025-12-26T15:44:44+00:00",
+      "modified_at": "2026-10-21T08:22:49+00:00",
+      "release_date": null
     },
     "81385": {
       "id": "81385",
@@ -1554,7 +1569,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-21T08:25:35+00:00",
-      "last_seen_at": "2026-10-21T08:25:35+00:00"
+      "last_seen_at": "2026-10-21T08:25:35+00:00",
+      "published_at": "2025-05-31T11:32:53+00:00",
+      "modified_at": "2026-10-21T08:21:38+00:00",
+      "release_date": null
     },
     "81389": {
       "id": "81389",
@@ -1564,7 +1582,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-21T08:25:35+00:00",
-      "last_seen_at": "2026-10-21T08:25:35+00:00"
+      "last_seen_at": "2026-10-21T08:25:35+00:00",
+      "published_at": "2025-05-31T10:40:33+00:00",
+      "modified_at": "2026-10-21T08:21:43+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1577,7 +1598,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "0216e4d1a3b673bd"
+      "event_id": "0216e4d1a3b673bd",
+      "published_at": "2026-06-02T10:04:27+00:00",
+      "modified_at": "2026-10-21T08:24:21+00:00",
+      "release_date": null
     },
     {
       "id": "153070",
@@ -1588,7 +1612,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "6f4d5f067b72318a"
+      "event_id": "6f4d5f067b72318a",
+      "published_at": "2026-03-30T15:27:21+00:00",
+      "modified_at": "2026-10-21T08:23:10+00:00",
+      "release_date": null
     },
     {
       "id": "166984",
@@ -1599,7 +1626,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "d971325be3a75156"
+      "event_id": "d971325be3a75156",
+      "published_at": "2026-01-06T12:38:11+00:00",
+      "modified_at": "2026-10-21T08:23:39+00:00",
+      "release_date": null
     },
     {
       "id": "126944",
@@ -1610,7 +1640,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "47c0b0336e26657c"
+      "event_id": "47c0b0336e26657c",
+      "published_at": "2025-12-26T15:52:03+00:00",
+      "modified_at": "2026-10-21T08:22:45+00:00",
+      "release_date": null
     },
     {
       "id": "126946",
@@ -1621,7 +1654,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "992ad5e1bd4abb25"
+      "event_id": "992ad5e1bd4abb25",
+      "published_at": "2025-12-26T15:44:44+00:00",
+      "modified_at": "2026-10-21T08:22:49+00:00",
+      "release_date": null
     },
     {
       "id": "81385",
@@ -1632,7 +1668,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "a96e740a6371a208"
+      "event_id": "a96e740a6371a208",
+      "published_at": "2025-05-31T11:32:53+00:00",
+      "modified_at": "2026-10-21T08:21:38+00:00",
+      "release_date": null
     },
     {
       "id": "81389",
@@ -1643,7 +1682,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-21T08:25:35+00:00",
-      "event_id": "8eefd9b44b99adb5"
+      "event_id": "8eefd9b44b99adb5",
+      "published_at": "2025-05-31T10:40:33+00:00",
+      "modified_at": "2026-10-21T08:21:43+00:00",
+      "release_date": null
     }
   ],
   "sent": [
