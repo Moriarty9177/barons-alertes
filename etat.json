@@ -1595,7 +1595,10 @@
       "availability": "commandable",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-22T10:01:14+00:00",
-      "last_seen_at": "2026-10-22T10:01:14+00:00"
+      "last_seen_at": "2026-10-22T10:01:14+00:00",
+      "published_at": "2026-10-22T08:38:02+00:00",
+      "modified_at": "2026-10-22T10:01:11+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1608,7 +1611,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-22T10:01:14+00:00",
-      "event_id": "0d1c48b9cf4393ff"
+      "event_id": "0d1c48b9cf4393ff",
+      "published_at": "2026-10-22T08:38:02+00:00",
+      "modified_at": "2026-10-22T10:01:11+00:00",
+      "release_date": null
     }
   ],
   "sent": [
