@@ -1614,22 +1614,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "212987",
-      "title": "Pokémon - Pack - 1 Deck Noctali 30e ans + 1 Deck Mentali 30e ans - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-deck-noctali-30e-ans-1-deck-mentali-30e-ans-en-francais/",
-      "price": 94.99,
-      "availability": "precommande",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-22T13:40:40+00:00",
-      "event_id": "4d671f3926443801",
-      "published_at": "2026-10-22T07:59:37+00:00",
-      "modified_at": "2026-10-22T13:38:24+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2553,6 +2538,20 @@
       "event_id": "0d1c48b9cf4393ff",
       "published_at": "2026-10-22T08:38:02+00:00",
       "modified_at": "2026-10-22T10:01:11+00:00",
+      "release_date": null
+    },
+    {
+      "id": "212987",
+      "title": "Pokémon - Pack - 1 Deck Noctali 30e ans + 1 Deck Mentali 30e ans - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-deck-noctali-30e-ans-1-deck-mentali-30e-ans-en-francais/",
+      "price": 94.99,
+      "availability": "precommande",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-22T13:40:40+00:00",
+      "event_id": "4d671f3926443801",
+      "published_at": "2026-10-22T07:59:37+00:00",
+      "modified_at": "2026-10-22T13:38:24+00:00",
       "release_date": null
     }
   ],
