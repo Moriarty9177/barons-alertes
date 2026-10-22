@@ -1601,22 +1601,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "202615",
-      "title": "Pokémon - Portfolio - 30e Anniversaire - 5 Boosters + A4 9 pochettes - FR",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/anniversaire-pokemon/pokemon-portfolio-30e-anniversaire-5-boosters-a4-9-pochettes-fr/",
-      "price": 69.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-22T10:01:14+00:00",
-      "event_id": "0d1c48b9cf4393ff",
-      "published_at": "2026-10-22T08:38:02+00:00",
-      "modified_at": "2026-10-22T10:01:11+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2526,6 +2511,20 @@
       "event_id": "8eefd9b44b99adb5",
       "published_at": "2025-05-31T10:40:33+00:00",
       "modified_at": "2026-10-21T08:21:43+00:00",
+      "release_date": null
+    },
+    {
+      "id": "202615",
+      "title": "Pokémon - Portfolio - 30e Anniversaire - 5 Boosters + A4 9 pochettes - FR",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/anniversaire-pokemon/pokemon-portfolio-30e-anniversaire-5-boosters-a4-9-pochettes-fr/",
+      "price": 69.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-22T10:01:14+00:00",
+      "event_id": "0d1c48b9cf4393ff",
+      "published_at": "2026-10-22T08:38:02+00:00",
+      "modified_at": "2026-10-22T10:01:11+00:00",
       "release_date": null
     }
   ],
