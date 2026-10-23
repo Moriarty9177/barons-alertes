@@ -1640,22 +1640,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "212989",
-      "title": "Pokémon - Pack - 1 Duopack 30e ans + 1 Portfolio Lucario - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/duo-pack-pokemon/pokemon-pack-1-duopack-30e-ans-1-portfolio-lucario-en-francais/",
-      "price": 34.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-23T12:30:58+00:00",
-      "event_id": "1398451dfb2c083e",
-      "published_at": "2026-10-22T08:00:17+00:00",
-      "modified_at": "2026-10-23T12:27:50+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2607,6 +2592,20 @@
       "event_id": "c0455efd8be31716",
       "published_at": "2026-10-23T11:14:02+00:00",
       "modified_at": "2026-10-23T12:26:13+00:00",
+      "release_date": null
+    },
+    {
+      "id": "212989",
+      "title": "Pokémon - Pack - 1 Duopack 30e ans + 1 Portfolio Lucario - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/duo-pack-pokemon/pokemon-pack-1-duopack-30e-ans-1-portfolio-lucario-en-francais/",
+      "price": 34.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-23T12:30:58+00:00",
+      "event_id": "1398451dfb2c083e",
+      "published_at": "2026-10-22T08:00:17+00:00",
+      "modified_at": "2026-10-23T12:27:50+00:00",
       "release_date": null
     }
   ],
