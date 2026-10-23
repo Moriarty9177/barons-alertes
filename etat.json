@@ -44,7 +44,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": "2026-11-06",
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-10-23T13:31:02+00:00"
+      "last_seen_at": "2026-10-23T13:31:02+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-regne-delta-me06-illustration-otaria-scelle-francais": {
       "id": "tripack-pokemon-regne-delta-me06-illustration-otaria-scelle-francais",
@@ -1251,7 +1253,9 @@
       "release_date": "2026-11-06",
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-23T13:31:02+00:00",
-      "event_id": "a6459e8c66651506"
+      "event_id": "a6459e8c66651506",
+      "published_at": null,
+      "modified_at": null
     }
   ],
   "sent": [
