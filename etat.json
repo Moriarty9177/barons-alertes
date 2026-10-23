@@ -1621,7 +1621,10 @@
       "availability": "precommande",
       "item_category": "Pokémon",
       "first_seen_at": "2026-10-23T12:30:58+00:00",
-      "last_seen_at": "2026-10-23T12:30:58+00:00"
+      "last_seen_at": "2026-10-23T12:30:58+00:00",
+      "published_at": "2026-10-23T11:14:02+00:00",
+      "modified_at": "2026-10-23T12:26:13+00:00",
+      "release_date": null
     },
     "212989": {
       "id": "212989",
@@ -1631,7 +1634,10 @@
       "availability": "commandable",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-10-23T12:30:58+00:00",
-      "last_seen_at": "2026-10-23T12:30:58+00:00"
+      "last_seen_at": "2026-10-23T12:30:58+00:00",
+      "published_at": "2026-10-22T08:00:17+00:00",
+      "modified_at": "2026-10-23T12:27:50+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1644,7 +1650,10 @@
       "item_category": "Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-23T12:30:58+00:00",
-      "event_id": "c0455efd8be31716"
+      "event_id": "c0455efd8be31716",
+      "published_at": "2026-10-23T11:14:02+00:00",
+      "modified_at": "2026-10-23T12:26:13+00:00",
+      "release_date": null
     },
     {
       "id": "212989",
@@ -1655,7 +1664,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-23T12:30:58+00:00",
-      "event_id": "1398451dfb2c083e"
+      "event_id": "1398451dfb2c083e",
+      "published_at": "2026-10-22T08:00:17+00:00",
+      "modified_at": "2026-10-23T12:27:50+00:00",
+      "release_date": null
     }
   ],
   "sent": [
