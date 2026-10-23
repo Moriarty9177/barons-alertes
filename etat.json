@@ -1240,22 +1240,7 @@
       "modified_at": null
     }
   },
-  "pending": [
-    {
-      "id": "etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais",
-      "title": "ETB - Pokemon - Mascarade Crépusculaire - Ogerpon Masque Turquoise - EV6 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais.html",
-      "price": 64.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-23T08:25:36+00:00",
-      "event_id": "54a36824cb8ce140",
-      "published_at": null,
-      "modified_at": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "display-pokemon-chaos-ascendant-me04-scelle-francais",
@@ -1366,6 +1351,20 @@
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-21T09:55:38+00:00",
       "event_id": "acc3bceaf120e3b7",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais",
+      "title": "ETB - Pokemon - Mascarade Crépusculaire - Ogerpon Masque Turquoise - EV6 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais.html",
+      "price": 64.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "commandes_ouvertes",
+      "observed_at": "2026-10-23T08:25:36+00:00",
+      "event_id": "54a36824cb8ce140",
       "published_at": null,
       "modified_at": null
     }
