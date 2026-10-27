@@ -1253,7 +1253,9 @@
       "release_date": "2026-11-06",
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-27T13:25:33+00:00",
-      "event_id": "1befc8d9954e9afd"
+      "event_id": "1befc8d9954e9afd",
+      "published_at": null,
+      "modified_at": null
     }
   ],
   "sent": [
