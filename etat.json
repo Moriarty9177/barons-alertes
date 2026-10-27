@@ -560,7 +560,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-10-27T15:45:44+00:00"
+      "last_seen_at": "2026-10-27T15:45:44+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-valisette-coffre-aux-tresors-mega-evolution-scelle-francais": {
       "id": "coffret-pokemon-valisette-coffre-aux-tresors-mega-evolution-scelle-francais",
@@ -1253,7 +1255,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-27T15:45:44+00:00",
-      "event_id": "27adf1faf77ae82f"
+      "event_id": "27adf1faf77ae82f",
+      "published_at": null,
+      "modified_at": null
     }
   ],
   "sent": [
