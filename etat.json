@@ -1653,22 +1653,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "193901",
-      "title": "Pokémon – Duopack – Évoli – 30e Anniversaire – en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-duopack-evoli-30e-anniversaire-en-francais/",
-      "price": 29.99,
-      "availability": "commandable",
-      "item_category": "Duo-Pack Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-28T14:40:41+00:00",
-      "event_id": "769f504511d2cf4b",
-      "published_at": "2026-08-25T13:55:53+00:00",
-      "modified_at": "2026-10-28T14:39:36+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2634,6 +2619,20 @@
       "event_id": "1398451dfb2c083e",
       "published_at": "2026-10-22T08:00:17+00:00",
       "modified_at": "2026-10-23T12:27:50+00:00",
+      "release_date": null
+    },
+    {
+      "id": "193901",
+      "title": "Pokémon – Duopack – Évoli – 30e Anniversaire – en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-duopack-evoli-30e-anniversaire-en-francais/",
+      "price": 29.99,
+      "availability": "commandable",
+      "item_category": "Duo-Pack Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-28T14:40:41+00:00",
+      "event_id": "769f504511d2cf4b",
+      "published_at": "2026-08-25T13:55:53+00:00",
+      "modified_at": "2026-10-28T14:39:36+00:00",
       "release_date": null
     }
   ],
