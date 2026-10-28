@@ -1660,7 +1660,10 @@
       "availability": "commandable",
       "item_category": "Coffrets Pokémon",
       "first_seen_at": "2026-10-28T15:01:13+00:00",
-      "last_seen_at": "2026-10-28T15:01:13+00:00"
+      "last_seen_at": "2026-10-28T15:01:13+00:00",
+      "published_at": "2026-08-25T13:55:41+00:00",
+      "modified_at": "2026-10-28T15:00:50+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1673,7 +1676,10 @@
       "item_category": "Coffrets Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-28T15:01:13+00:00",
-      "event_id": "864a0aa5cf4cf900"
+      "event_id": "864a0aa5cf4cf900",
+      "published_at": "2026-08-25T13:55:41+00:00",
+      "modified_at": "2026-10-28T15:00:50+00:00",
+      "release_date": null
     }
   ],
   "sent": [
