@@ -1666,22 +1666,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "193904",
-      "title": "Pokémon – Coffret – Amphinobi ex – 30e Anniversaire – en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-amphinobi-ex-30e-anniversaire-en-francais/",
-      "price": 49.99,
-      "availability": "commandable",
-      "item_category": "Coffrets Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-28T15:01:13+00:00",
-      "event_id": "864a0aa5cf4cf900",
-      "published_at": "2026-08-25T13:55:41+00:00",
-      "modified_at": "2026-10-28T15:00:50+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2661,6 +2646,20 @@
       "event_id": "769f504511d2cf4b",
       "published_at": "2026-08-25T13:55:53+00:00",
       "modified_at": "2026-10-28T14:39:36+00:00",
+      "release_date": null
+    },
+    {
+      "id": "193904",
+      "title": "Pokémon – Coffret – Amphinobi ex – 30e Anniversaire – en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-amphinobi-ex-30e-anniversaire-en-francais/",
+      "price": 49.99,
+      "availability": "commandable",
+      "item_category": "Coffrets Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-28T15:01:13+00:00",
+      "event_id": "864a0aa5cf4cf900",
+      "published_at": "2026-08-25T13:55:41+00:00",
+      "modified_at": "2026-10-28T15:00:50+00:00",
       "release_date": null
     }
   ],
