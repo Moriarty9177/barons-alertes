@@ -2744,6 +2744,7 @@
       "release_date": "16 Octobre 2026"
     }
   ],
-  "consecutive_failures": 0,
-  "last_success_at": "2026-10-28T20:45:40+00:00"
+  "consecutive_failures": 1,
+  "last_success_at": "2026-10-28T20:45:40+00:00",
+  "last_failure_at": "2026-10-28T20:50:31+00:00"
 }
