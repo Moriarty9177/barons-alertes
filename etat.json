@@ -1647,7 +1647,10 @@
       "availability": "commandable",
       "item_category": "Duo-Pack Pokémon",
       "first_seen_at": "2026-10-28T14:40:41+00:00",
-      "last_seen_at": "2026-10-28T14:40:41+00:00"
+      "last_seen_at": "2026-10-28T14:40:41+00:00",
+      "published_at": "2026-08-25T13:55:53+00:00",
+      "modified_at": "2026-10-28T14:39:36+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1660,7 +1663,10 @@
       "item_category": "Duo-Pack Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-28T14:40:41+00:00",
-      "event_id": "769f504511d2cf4b"
+      "event_id": "769f504511d2cf4b",
+      "published_at": "2026-08-25T13:55:53+00:00",
+      "modified_at": "2026-10-28T14:39:36+00:00",
+      "release_date": null
     }
   ],
   "sent": [
