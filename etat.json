@@ -1705,22 +1705,7 @@
       "release_date": "16 Octobre 2026"
     }
   },
-  "pending": [
-    {
-      "id": "202614",
-      "title": "Pokémon - Pokébox - 30e Anniversaire - Méga Amphinobi ex - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pokebox-30e-anniversaire-mega-amphinobi-ex-en-francais/",
-      "price": 49.99,
-      "availability": "commandable",
-      "item_category": "Pokebox Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-28T15:10:41+00:00",
-      "event_id": "a2b62ae6cdd980c4",
-      "published_at": "2026-09-23T14:37:42+00:00",
-      "modified_at": "2026-10-28T15:10:02+00:00",
-      "release_date": "16 Octobre 2026"
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2743,6 +2728,20 @@
       "published_at": "2026-10-28T13:37:03+00:00",
       "modified_at": "2026-10-28T15:03:05+00:00",
       "release_date": null
+    },
+    {
+      "id": "202614",
+      "title": "Pokémon - Pokébox - 30e Anniversaire - Méga Amphinobi ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pokebox-pokemon/pokemon-pokebox-30e-anniversaire-mega-amphinobi-ex-en-francais/",
+      "price": 49.99,
+      "availability": "commandable",
+      "item_category": "Pokebox Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-28T15:10:41+00:00",
+      "event_id": "a2b62ae6cdd980c4",
+      "published_at": "2026-09-23T14:37:42+00:00",
+      "modified_at": "2026-10-28T15:10:02+00:00",
+      "release_date": "16 Octobre 2026"
     }
   ],
   "consecutive_failures": 0,
