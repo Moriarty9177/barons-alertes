@@ -105,7 +105,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": "2026-11-06",
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-10-29T08:01:16+00:00"
+      "last_seen_at": "2026-10-29T08:01:16+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "deck-pokemon-combat-30e-anniversaire-noctali-ex-scelle-francais": {
       "id": "deck-pokemon-combat-30e-anniversaire-noctali-ex-scelle-francais",
@@ -1255,7 +1257,9 @@
       "release_date": "2026-11-06",
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-29T08:01:16+00:00",
-      "event_id": "cf086ce358f4115b"
+      "event_id": "cf086ce358f4115b",
+      "published_at": null,
+      "modified_at": null
     }
   ],
   "sent": [
