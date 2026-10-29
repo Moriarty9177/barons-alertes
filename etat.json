@@ -1257,7 +1257,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-29T09:10:40+00:00",
-      "event_id": "4b79fd80dbdbefd3"
+      "event_id": "4b79fd80dbdbefd3",
+      "published_at": null,
+      "modified_at": null
     }
   ],
   "sent": [
