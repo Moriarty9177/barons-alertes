@@ -1250,20 +1250,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-regne-delta-me06-illustration-otaria-scelle-francais",
-      "title": "[06-11-2026] Tripack - Pokemon - Règne Delta - ME06 - Illustration Otaria - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-regne-delta-me06-illustration-otaria-scelle-francais.html",
-      "price": 19.9,
-      "availability": "precommande",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": "2026-11-06",
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-30T09:45:43+00:00",
-      "event_id": "83059a1c94c52463",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "booster-pokemon-faille-paradoxe-ev4-scelle-francais",
       "title": "Booster - Pokemon - Faille Paradoxe - EV4 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/booster-pokemon-faille-paradoxe-ev4-scelle-francais.html",
@@ -1486,6 +1472,20 @@
       "cause": "commandes_ouvertes",
       "observed_at": "2026-10-29T09:10:40+00:00",
       "event_id": "4b79fd80dbdbefd3",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-regne-delta-me06-illustration-otaria-scelle-francais",
+      "title": "[06-11-2026] Tripack - Pokemon - Règne Delta - ME06 - Illustration Otaria - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-regne-delta-me06-illustration-otaria-scelle-francais.html",
+      "price": 19.9,
+      "availability": "precommande",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": "2026-11-06",
+      "cause": "commandes_ouvertes",
+      "observed_at": "2026-10-30T09:45:43+00:00",
+      "event_id": "83059a1c94c52463",
       "published_at": null,
       "modified_at": null
     }
