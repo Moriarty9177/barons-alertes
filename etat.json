@@ -1712,7 +1712,10 @@
       "availability": "commandable",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-10-30T10:15:42+00:00",
-      "last_seen_at": "2026-10-30T10:15:42+00:00"
+      "last_seen_at": "2026-10-30T10:15:42+00:00",
+      "published_at": "2026-10-29T15:44:49+00:00",
+      "modified_at": "2026-10-30T10:11:32+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1725,7 +1728,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-10-30T10:15:42+00:00",
-      "event_id": "3938fcfc52c90dbf"
+      "event_id": "3938fcfc52c90dbf",
+      "published_at": "2026-10-29T15:44:49+00:00",
+      "modified_at": "2026-10-30T10:11:32+00:00",
+      "release_date": null
     }
   ],
   "sent": [
