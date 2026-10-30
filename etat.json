@@ -1718,22 +1718,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "216226",
-      "title": "Pokémon - Pack - 1 ETB 30e ans + 1 Coffret Collection Méga-Amphinobi ex + 1 Deck Mewtwo + 1 Portfolio ME02 Méga-Dracaufeu - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-etb-30e-ans-1-coffret-collection-mega-amphinobi-ex-1-deck-mewtwo-1-portfolio-me02-mega-dracaufeu-en-francais/",
-      "price": 199.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-30T10:15:42+00:00",
-      "event_id": "3938fcfc52c90dbf",
-      "published_at": "2026-10-29T15:44:49+00:00",
-      "modified_at": "2026-10-30T10:11:32+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2770,6 +2755,20 @@
       "published_at": "2026-09-23T14:37:42+00:00",
       "modified_at": "2026-10-28T15:10:02+00:00",
       "release_date": "16 Octobre 2026"
+    },
+    {
+      "id": "216226",
+      "title": "Pokémon - Pack - 1 ETB 30e ans + 1 Coffret Collection Méga-Amphinobi ex + 1 Deck Mewtwo + 1 Portfolio ME02 Méga-Dracaufeu - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-etb-30e-ans-1-coffret-collection-mega-amphinobi-ex-1-deck-mewtwo-1-portfolio-me02-mega-dracaufeu-en-francais/",
+      "price": 199.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-10-30T10:15:42+00:00",
+      "event_id": "3938fcfc52c90dbf",
+      "published_at": "2026-10-29T15:44:49+00:00",
+      "modified_at": "2026-10-30T10:11:32+00:00",
+      "release_date": null
     }
   ],
   "consecutive_failures": 0,
