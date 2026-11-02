@@ -1757,22 +1757,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "216684",
-      "title": "Pokémon - Pack - 1 ETB Règne Delta (ME06) + 1 Deck Combat de Ligue Méga Lucario ex + 1 Portfolio Miaouss 4 pochettes - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-etb-regne-delta-me06-1-deck-combat-de-ligue-mega-lucario-ex-1-portfolio-miaouss-4-pochettes-en-francais/",
-      "price": 129.99,
-      "availability": "precommande",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-02T14:35:29+00:00",
-      "event_id": "377d11afcb6f4f17",
-      "published_at": "2026-10-30T10:11:49+00:00",
-      "modified_at": "2026-11-02T14:31:13+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2850,6 +2835,20 @@
       "event_id": "4808b68572728405",
       "published_at": "2026-10-30T12:04:27+00:00",
       "modified_at": "2026-11-02T14:32:45+00:00",
+      "release_date": null
+    },
+    {
+      "id": "216684",
+      "title": "Pokémon - Pack - 1 ETB Règne Delta (ME06) + 1 Deck Combat de Ligue Méga Lucario ex + 1 Portfolio Miaouss 4 pochettes - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-etb-regne-delta-me06-1-deck-combat-de-ligue-mega-lucario-ex-1-portfolio-miaouss-4-pochettes-en-francais/",
+      "price": 129.99,
+      "availability": "precommande",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-02T14:35:29+00:00",
+      "event_id": "377d11afcb6f4f17",
+      "published_at": "2026-10-30T10:11:49+00:00",
+      "modified_at": "2026-11-02T14:31:13+00:00",
       "release_date": null
     }
   ],
