@@ -1731,22 +1731,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "216685",
-      "title": "Pokémon - Pack - 1 ETB Règne Delta (ME06) + 2 Tripack Règne Delta (ME06) + 1 ETB Mascarade Crépusculaire (EV06) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tripack-pokemon/pokemon-pack-1-etb-regne-delta-me06-2-tripack-regne-delta-me06-1-etb-mascarade-crepusculaire-ev06-en-francais/",
-      "price": 219.99,
-      "availability": "precommande",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-02T14:30:59+00:00",
-      "event_id": "5f19566f5f405074",
-      "published_at": "2026-10-30T10:12:06+00:00",
-      "modified_at": "2026-11-02T14:30:10+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -2796,6 +2781,20 @@
       "event_id": "3938fcfc52c90dbf",
       "published_at": "2026-10-29T15:44:49+00:00",
       "modified_at": "2026-10-30T10:11:32+00:00",
+      "release_date": null
+    },
+    {
+      "id": "216685",
+      "title": "Pokémon - Pack - 1 ETB Règne Delta (ME06) + 2 Tripack Règne Delta (ME06) + 1 ETB Mascarade Crépusculaire (EV06) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tripack-pokemon/pokemon-pack-1-etb-regne-delta-me06-2-tripack-regne-delta-me06-1-etb-mascarade-crepusculaire-ev06-en-francais/",
+      "price": 219.99,
+      "availability": "precommande",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-02T14:30:59+00:00",
+      "event_id": "5f19566f5f405074",
+      "published_at": "2026-10-30T10:12:06+00:00",
+      "modified_at": "2026-11-02T14:30:10+00:00",
       "release_date": null
     }
   ],
