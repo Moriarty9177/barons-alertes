@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-stars-etincelantes-eb09-illustration-phyllali-scelle-francais",
-      "title": "Tripack - Pokemon - Stars Étincelantes - EB09 - Illustration Phyllali - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-stars-etincelantes-eb09-illustration-phyllali-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "920f05db149b91d4",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-build-and-battle-stars-etincelantes-eb9-scelle-francais",
       "title": "Coffret - Pokemon - Build and Battle - Stars Étincelantes - EB09 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-build-and-battle-stars-etincelantes-eb9-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "dc33db84065bd5cf",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-stars-etincelantes-eb09-illustration-phyllali-scelle-francais",
+      "title": "Tripack - Pokemon - Stars Étincelantes - EB09 - Illustration Phyllali - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-stars-etincelantes-eb09-illustration-phyllali-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "920f05db149b91d4",
       "published_at": null,
       "modified_at": null
     }
