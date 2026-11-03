@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-build-and-battle-astres-radieux-eb10-scelle-francais",
-      "title": "Coffret - Pokemon - Build and Battle - Astres Radieux - EB10 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-build-and-battle-astres-radieux-eb10-scelle-francais.html",
-      "price": 119.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "72616b774b8d9ada",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-premium-palkia-originel-vstar-scelle-francais",
       "title": "Coffret - Pokemon - Collection Premium Palkia Originel VSTAR - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-palkia-originel-vstar-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "f29d101597350afc",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-build-and-battle-astres-radieux-eb10-scelle-francais",
+      "title": "Coffret - Pokemon - Build and Battle - Astres Radieux - EB10 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-build-and-battle-astres-radieux-eb10-scelle-francais.html",
+      "price": 119.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "72616b774b8d9ada",
       "published_at": null,
       "modified_at": null
     }
