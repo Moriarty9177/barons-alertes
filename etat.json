@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-deoxys-vstar-vmax-scelle-francais",
-      "title": "Coffret - Pokemon - Déoxys VSTAR & VMAX - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-deoxys-vstar-vmax-scelle-francais.html",
-      "price": 119.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "1d29a51fd01807a8",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-speciale-puissance-paradoxe-ex-scelle-francais",
       "title": "Coffret - Pokemon - Collection Spéciale Puissance Paradoxe ex - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-speciale-puissance-paradoxe-ex-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "4a467b8fcb2a0bf3",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-deoxys-vstar-vmax-scelle-francais",
+      "title": "Coffret - Pokemon - Déoxys VSTAR & VMAX - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-deoxys-vstar-vmax-scelle-francais.html",
+      "price": 119.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "1d29a51fd01807a8",
       "published_at": null,
       "modified_at": null
     }
