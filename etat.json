@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-premium-carchacrok-ex-de-cynthia-scelle-francais1",
-      "title": "Coffret - Pokemon - Collection Premium Carchacrok ex de Cynthia - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-carchacrok-ex-de-cynthia-scelle-francais1.html",
-      "price": 49.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "0233b98aa47a818e",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "case-de-blister-pokemon-aventures-ensemble-ev9-scelle-francais",
       "title": "Case de Blister - Pokemon - Aventures Ensemble - EV09 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-aventures-ensemble-ev9-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "ffa184d6ebdaa6ae",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-premium-carchacrok-ex-de-cynthia-scelle-francais1",
+      "title": "Coffret - Pokemon - Collection Premium Carchacrok ex de Cynthia - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-carchacrok-ex-de-cynthia-scelle-francais1.html",
+      "price": 49.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "0233b98aa47a818e",
       "published_at": null,
       "modified_at": null
     }
