@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-premium-playmat-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Premium Playmat Morpéko V-Union - Zénith Suprême - EB12.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-playmat-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais.html",
-      "price": 149.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "bdc02ff31c635bca",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-tresors-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais",
       "title": "Coffret - Pokemon - Collection Premium Trésors Morpéko V-Union - Zénith Suprême - EB12.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-tresors-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais.html",
@@ -4593,20 +4579,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-tournois-premium-sophora-scelle-francais",
-      "title": "Coffret - Pokemon - Tournois Premium - Sophora - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-tournois-premium-sophora-scelle-francais.html",
-      "price": 79.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-02T23:05:34+00:00",
-      "event_id": "c35586a00c4e27f7",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais",
       "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
@@ -7390,6 +7362,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "ed6f2bd5c5e0cdf5",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-premium-playmat-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Premium Playmat Morpéko V-Union - Zénith Suprême - EB12.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-playmat-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais.html",
+      "price": 149.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "bdc02ff31c635bca",
       "published_at": null,
       "modified_at": null
     }
