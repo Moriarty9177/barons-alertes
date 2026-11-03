@@ -1861,22 +1861,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "45400",
-      "title": "Deck Combat de Ligue - Palkia Vstar Pokémon",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/deck-combat-de-ligue-palkia-vstar-pokemon/",
-      "price": 33.9,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T09:20:35+00:00",
-      "event_id": "1429cac85b89a865",
-      "published_at": "2023-12-15T15:42:23+00:00",
-      "modified_at": "2026-11-03T09:13:02+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3066,6 +3051,20 @@
       "event_id": "8634b0c7a99ebc65",
       "published_at": "2026-06-04T15:35:40+00:00",
       "modified_at": "2026-11-03T09:15:38+00:00",
+      "release_date": null
+    },
+    {
+      "id": "45400",
+      "title": "Deck Combat de Ligue - Palkia Vstar Pokémon",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/deck-combat-de-ligue-palkia-vstar-pokemon/",
+      "price": 33.9,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T09:20:35+00:00",
+      "event_id": "1429cac85b89a865",
+      "published_at": "2023-12-15T15:42:23+00:00",
+      "modified_at": "2026-11-03T09:13:02+00:00",
       "release_date": null
     }
   ],
