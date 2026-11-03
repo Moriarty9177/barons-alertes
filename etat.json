@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tin-cube-pokemon-dracaufeu-victini-flambino-eb8-eb11-scelle-francais",
-      "title": "Tin Cube - Pokemon - Octobre 2022 - EB8 & EB11 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tin-cube-pokemon-dracaufeu-victini-flambino-eb8-eb11-scelle-francais.html",
-      "price": 59.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "54857ce8eeeaaedf",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-electrode-de-hisui-v-scelle-francais",
       "title": "Coffret - Pokemon - Électrode de Hisui V - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-electrode-de-hisui-v-scelle-francais.html",
@@ -4257,20 +4243,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Ultra Premium Méga-Dracaufeu X ex - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais.html",
-      "price": 199.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "588b67f5a2ab97f2",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-mega-latias-ex-scelle-francais",
       "title": "Coffret - Pokemon - Méga-Latias ex - Scellé - Français",
@@ -7054,6 +7026,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "2113b8b9e02e7272",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tin-cube-pokemon-dracaufeu-victini-flambino-eb8-eb11-scelle-francais",
+      "title": "Tin Cube - Pokemon - Octobre 2022 - EB8 & EB11 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tin-cube-pokemon-dracaufeu-victini-flambino-eb8-eb11-scelle-francais.html",
+      "price": 59.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "54857ce8eeeaaedf",
       "published_at": null,
       "modified_at": null
     }
