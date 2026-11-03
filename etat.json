@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-paldea-coiffeton-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Paldea - Coiffeton - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-paldea-coiffeton-scelle-francais.html",
-      "price": 79.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c4f7525ce98f9399",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-paldea-chochodile-scelle-francais",
       "title": "Coffret - Pokemon - Collection Paldea - Chochodile - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-paldea-chochodile-scelle-francais.html",
@@ -4481,20 +4467,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-minotaupe-scelle-francais",
-      "title": "Tripack - Pokemon - Nuit Noire - ME05 - Triple Illustration Méga Minotaupe - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-nuit-noire-me05-triple-illustration-mega-minotaupe-scelle-francais.html",
-      "price": 29.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5fb8d6c5d71129ed",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "tripack-pokemon-chaos-ascendant-me04-triple-illustration-mega-nemelios-scelle-francais",
       "title": "Tripack - Pokemon - Chaos Ascendant - ME04 - Triple Illustration Méga Némélios - Scellé - Français",
@@ -7278,6 +7250,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "ac3eeb1d3de9e10e",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-paldea-coiffeton-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Paldea - Coiffeton - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-paldea-coiffeton-scelle-francais.html",
+      "price": 79.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "c4f7525ce98f9399",
       "published_at": null,
       "modified_at": null
     }
