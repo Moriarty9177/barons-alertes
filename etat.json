@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Ultra Premium Méga-Dracaufeu X ex - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais.html",
-      "price": 199.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "588b67f5a2ab97f2",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-mega-latias-ex-scelle-francais",
       "title": "Coffret - Pokemon - Méga-Latias ex - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-mega-latias-ex-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "fd0735c3815de527",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Ultra Premium Méga-Dracaufeu X ex - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais.html",
+      "price": 199.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "588b67f5a2ab97f2",
       "published_at": null,
       "modified_at": null
     }
