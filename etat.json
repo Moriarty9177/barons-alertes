@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "duopack-pokemon-clash-des-rebelles-tenebres-embrasees-eb2-eb3-scelle-francais",
-      "title": "Duopack - Pokemon - Clash des Rebelles & Ténèbres Embrasées - EB2 & EB3 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/duopack-pokemon-clash-des-rebelles-tenebres-embrasees-eb2-eb3-scelle-francais.html",
-      "price": 34.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "1d43eb5ffa23c347",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mini-tin-pokemon-puissance-de-galar-illustration-aleatoire-scelle-francais",
       "title": "Mini Tin - Pokemon - Puissance de Galar - Illustration Aléatoire - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-puissance-de-galar-illustration-aleatoire-scelle-francais.html",
@@ -4761,20 +4747,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais",
-      "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html",
-      "price": 99.9,
-      "availability": "precommande",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": "2026-11-06",
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-21T09:55:38+00:00",
-      "event_id": "acc3bceaf120e3b7",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais",
       "title": "ETB - Pokemon - Mascarade Crépusculaire - Ogerpon Masque Turquoise - EV6 - Scellé - Français",
@@ -7558,6 +7530,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "93a1fcfae4e614ed",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "duopack-pokemon-clash-des-rebelles-tenebres-embrasees-eb2-eb3-scelle-francais",
+      "title": "Duopack - Pokemon - Clash des Rebelles & Ténèbres Embrasées - EB2 & EB3 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/duopack-pokemon-clash-des-rebelles-tenebres-embrasees-eb2-eb3-scelle-francais.html",
+      "price": 34.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "1d43eb5ffa23c347",
       "published_at": null,
       "modified_at": null
     }
