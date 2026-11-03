@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-pin-s-carapuce-pokemon-go-eb10_5-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Pin's : Carapuce - Pokémon GO - EB10.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-pin-s-carapuce-pokemon-go-eb10_5-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b35bf2a40e0d7d11",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-pin-s-salameche-pokemon-go-eb10_5-scelle-francais",
       "title": "Coffret - Pokemon - Collection Pin's : Salamèche- Pokémon GO - EB10.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-pin-s-salameche-pokemon-go-eb10_5-scelle-francais.html",
@@ -4215,20 +4201,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "case-de-blister-pokemon-mega-evolution-de-base-me01-scelle-francais",
-      "title": "Case de Blister - Pokemon - Méga-Evolution de Base - ME01 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-mega-evolution-de-base-me01-scelle-francais.html",
-      "price": 219.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "50bf33fca2ce035b",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "display-10-mini-tins-pokemon-mega-evolution-me01-scelle-francais",
       "title": "Display 10 Mini Tins - Pokemon - Méga-Évolution - ME01 - Scellé - Français",
@@ -7012,6 +6984,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "8d314c8c63676e9a",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-pin-s-carapuce-pokemon-go-eb10_5-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Pin's : Carapuce - Pokémon GO - EB10.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-pin-s-carapuce-pokemon-go-eb10_5-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "b35bf2a40e0d7d11",
       "published_at": null,
       "modified_at": null
     }
