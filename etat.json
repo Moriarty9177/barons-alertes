@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-speciale-morpeko-v-union-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Spéciale Morpeko V-Union - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-speciale-morpeko-v-union-scelle-francais.html",
-      "price": 79.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "86a2a582d584ade0",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-tournois-premium-helio-sophora-scelle-francais",
       "title": "Coffret - Pokemon - Tournois Premium - Helio - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-tournois-premium-helio-sophora-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "b77b8d4c9170b36b",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-speciale-morpeko-v-union-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Spéciale Morpeko V-Union - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-speciale-morpeko-v-union-scelle-francais.html",
+      "price": 79.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "86a2a582d584ade0",
       "published_at": null,
       "modified_at": null
     }
