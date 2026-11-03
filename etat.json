@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-regidrago-v-zenith-supreme-eb12_5-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Regidrago V - Zénith Suprême - EB12.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-regidrago-v-zenith-supreme-eb12_5-scelle-francais.html",
-      "price": 84.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6094541eabb26bf0",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-regieleki-v-zenith-supreme-eb12_5-scelle-francais",
       "title": "Coffret - Pokemon - Collection Regieleki V - Zénith Suprême - EB12.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-regieleki-v-zenith-supreme-eb12_5-scelle-francais.html",
@@ -4649,20 +4635,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "tripack-pokemon-regne-delta-me06-illustration-otaria-scelle-francais",
-      "title": "[06-11-2026] Tripack - Pokemon - Règne Delta - ME06 - Illustration Otaria - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-regne-delta-me06-illustration-otaria-scelle-francais.html",
-      "price": 19.9,
-      "availability": "precommande",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": "2026-11-06",
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-30T09:45:43+00:00",
-      "event_id": "83059a1c94c52463",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "booster-pokemon-faille-paradoxe-ev4-scelle-francais",
       "title": "Booster - Pokemon - Faille Paradoxe - EV4 - Scellé - Français",
@@ -7446,6 +7418,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "8be38b55d3ccc662",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-regidrago-v-zenith-supreme-eb12_5-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Regidrago V - Zénith Suprême - EB12.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-regidrago-v-zenith-supreme-eb12_5-scelle-francais.html",
+      "price": 84.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "6094541eabb26bf0",
       "published_at": null,
       "modified_at": null
     }
