@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-build-and-battle-origine-perdue-eb11-scelle-francais",
-      "title": "Coffret - Pokemon - Build and Battle - Origine Perdue - EB11 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-build-and-battle-origine-perdue-eb11-scelle-francais.html",
-      "price": 199.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "58cef0c9dba33a3f",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mini-tin-pokemon-amis-de-kanto-illustration-aleatoire-scelle-francais",
       "title": "Mini Tin - Pokemon - Amis de Kanto - Illustration Aléatoire - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-amis-de-kanto-illustration-aleatoire-scelle-francais.html",
@@ -4285,20 +4271,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-coffret-mega-meganium-ex-heros-transcendants-me02_5-scelle-francais",
-      "title": "Coffret - Pokemon - Coffret Méga-Méganium ex - Héros Transcendants - ME02.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-coffret-mega-meganium-ex-heros-transcendants-me02_5-scelle-francais.html",
-      "price": 54.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6cdbcbe5acb6fa8f",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais",
       "title": "Case 12 Tripacks - Pokemon - Flammes Fantasmagoriques - ME02 - Scellé - Français",
@@ -7082,6 +7054,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "a9a2b549c6f1bf20",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-build-and-battle-origine-perdue-eb11-scelle-francais",
+      "title": "Coffret - Pokemon - Build and Battle - Origine Perdue - EB11 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-build-and-battle-origine-perdue-eb11-scelle-francais.html",
+      "price": 199.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "58cef0c9dba33a3f",
       "published_at": null,
       "modified_at": null
     }
