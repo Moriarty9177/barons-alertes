@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-tournicoton-scelle-francais",
-      "title": "Tripack - Pokemon - Épée et Bouclier de Base - EB01 - Illustration Tournicoton - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-tournicoton-scelle-francais.html",
-      "price": 49.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "096f0954c9b70be3",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-moumouton-scelle-francais",
       "title": "Tripack - Pokemon - Épée et Bouclier de Base - EB01 - Illustration Moumouton - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-moumouton-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "6e2095379853988c",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-tournicoton-scelle-francais",
+      "title": "Tripack - Pokemon - Épée et Bouclier de Base - EB01 - Illustration Tournicoton - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-tournicoton-scelle-francais.html",
+      "price": 49.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "096f0954c9b70be3",
       "published_at": null,
       "modified_at": null
     }
