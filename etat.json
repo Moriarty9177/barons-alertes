@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "booster-pokemon-foudre-noire-ev10_5-scelle-francais",
-      "title": "Booster - Pokemon - Foudre Noire - EV10.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-foudre-noire-ev10_5-scelle-francais.html",
-      "price": 9.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "dafbec1f5642f5c9",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "case-12-tripacks-pokemon-flamme-blanche-ev10_5-scelle-francais",
       "title": "Case 12 Tripacks - Pokemon - Flamme Blanche - EV10.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-flamme-blanche-ev10_5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "commandes_ouvertes",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "845949fbcdf543dd",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "booster-pokemon-foudre-noire-ev10_5-scelle-francais",
+      "title": "Booster - Pokemon - Foudre Noire - EV10.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/booster-pokemon-foudre-noire-ev10_5-scelle-francais.html",
+      "price": 9.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "commandes_ouvertes",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "dafbec1f5642f5c9",
       "published_at": null,
       "modified_at": null
     }
