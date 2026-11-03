@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-premium-sagesse-paradoxe-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Premium Sagesse Paradoxe - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-sagesse-paradoxe-scelle-francais.html",
-      "price": 74.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "57ef6d084e824980",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "blister-pokemon-faille-paradoxe-ev4-scelle-francais",
       "title": "Blister - Pokemon - Faille Paradoxe - EV04 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/blister-pokemon-faille-paradoxe-ev4-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "a93b20246abdd246",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-premium-sagesse-paradoxe-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Premium Sagesse Paradoxe - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-sagesse-paradoxe-scelle-francais.html",
+      "price": 74.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "57ef6d084e824980",
       "published_at": null,
       "modified_at": null
     }
