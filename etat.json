@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-bug-pokemon-mascarade-crepusculaire-ev06-scelle-francais",
-      "title": "Tripack Bug - Pokemon - Mascarade Crépusculaire - EV06 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-bug-pokemon-mascarade-crepusculaire-ev06-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "38be4d59b04c3581",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-archeduc-ex-scelle-francais",
       "title": "Coffret - Pokemon - Archéduc ex - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-archeduc-ex-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "5cb22d0c31a0f235",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-bug-pokemon-mascarade-crepusculaire-ev06-scelle-francais",
+      "title": "Tripack Bug - Pokemon - Mascarade Crépusculaire - EV06 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-bug-pokemon-mascarade-crepusculaire-ev06-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "38be4d59b04c3581",
       "published_at": null,
       "modified_at": null
     }
