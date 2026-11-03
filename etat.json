@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "display-pokemon-faille-paradoxe-ev4-scelle-francais",
-      "title": "Display - Pokemon - Faille Paradoxe - EV4 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/display-pokemon-faille-paradoxe-ev4-scelle-francais.html",
-      "price": 249.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "34c0ba06c9604fa3",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-caramadura-scelle-francais",
       "title": "Tripack - Pokemon - Faille Paradoxe - EV04 - Triple Illustration Caramadura - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-faille-paradoxe-ev04-triple-illustration-caramadura-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "b3e0cb62610d05c4",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "display-pokemon-faille-paradoxe-ev4-scelle-francais",
+      "title": "Display - Pokemon - Faille Paradoxe - EV4 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/display-pokemon-faille-paradoxe-ev4-scelle-francais.html",
+      "price": 249.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "34c0ba06c9604fa3",
       "published_at": null,
       "modified_at": null
     }
