@@ -4128,37 +4128,8 @@
       "modified_at": null
     }
   },
-  "pending": [
-    {
-      "id": "coffret-pokemon-collection-speciale-equipe-instinct-pokemon-go-eb10_5-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Spéciale : Équipe Instinct - Pokémon GO - EB10.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-speciale-equipe-instinct-pokemon-go-eb10_5-scelle-francais.html",
-      "price": 89.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6667d2741e058487",
-      "published_at": null,
-      "modified_at": null
-    }
-  ],
+  "pending": [],
   "sent": [
-    {
-      "id": "case-12-tripacks-pokemon-mega-evolution-de-base-me01-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Méga Évolution de base - ME01 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-mega-evolution-de-base-me01-scelle-francais.html",
-      "price": 299.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "10eb814cc59dcc04",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-calendrier-des-fetes-2025-scelle-francais",
       "title": "Coffret - Pokemon - Calendrier des Fêtes 2025 - Scellé - Français",
@@ -6942,6 +6913,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "24cef565d2e9e4e7",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-speciale-equipe-instinct-pokemon-go-eb10_5-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Spéciale : Équipe Instinct - Pokémon GO - EB10.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-speciale-equipe-instinct-pokemon-go-eb10_5-scelle-francais.html",
+      "price": 89.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "6667d2741e058487",
       "published_at": null,
       "modified_at": null
     }
