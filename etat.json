@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "duopack-pokemon-clash-des-rebelles-voltage-eclatant-eb2-eb4-scelle-francais",
-      "title": "Duopack - Pokemon - Clash des Rebelles & Voltage Éclatant - EB2 & EB4 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/duopack-pokemon-clash-des-rebelles-voltage-eclatant-eb2-eb4-scelle-francais.html",
-      "price": 49.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "3c20d6a1303b1022",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "booster-pokemon-tenebres-embrasees-eb3-scelle-francais",
       "title": "Booster - Pokemon - Ténèbres Embrasées - EB03 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/booster-pokemon-tenebres-embrasees-eb3-scelle-francais.html",
@@ -4803,20 +4789,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "deck-pokemon-combat-30e-anniversaire-noctali-ex-scelle-francais",
-      "title": "[06-11-2026] Deck - Pokemon - Combat 30e Anniversaire - Noctali ex - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/deck-pokemon-combat-30e-anniversaire-noctali-ex-scelle-francais.html",
-      "price": 34.9,
-      "availability": "precommande",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": "2026-11-06",
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-19T11:45:41+00:00",
-      "event_id": "0300ed5d98b3277c",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "booster-pokemon-mascarade-crepusculaire-ev6-scelle-francais",
       "title": "Booster - Pokemon - Mascarade Crépusculaire - EV6 - Scellé - Français",
@@ -7600,6 +7572,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "bf0f80ca4fa576c1",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "duopack-pokemon-clash-des-rebelles-voltage-eclatant-eb2-eb4-scelle-francais",
+      "title": "Duopack - Pokemon - Clash des Rebelles & Voltage Éclatant - EB2 & EB4 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/duopack-pokemon-clash-des-rebelles-voltage-eclatant-eb2-eb4-scelle-francais.html",
+      "price": 49.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "3c20d6a1303b1022",
       "published_at": null,
       "modified_at": null
     }
