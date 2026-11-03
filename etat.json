@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "duopack-pokemon-stars-etincelantes-origine-perdue-eb9-eb11-illustration-cleopsytra-scelle-francais",
-      "title": "Duopack - Pokemon - Stars Étincelantes & Origine Perdue - EB9 & EB11 - Illustration Cléopsytra - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/duopack-pokemon-stars-etincelantes-origine-perdue-eb9-eb11-illustration-cleopsytra-scelle-francais.html",
-      "price": 19.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "2bdd94d8c42083a2",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-simiabraz-v-origine-perdue-eb11-scelle-francais",
       "title": "Coffret - Pokemon - Simiabraz V - Origine Perdue - EB11 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-simiabraz-v-origine-perdue-eb11-scelle-francais.html",
@@ -4313,20 +4299,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-coffret-mega-aligatueur-ex-heros-transcendants-me02_5-scelle-francais",
-      "title": "Coffret - Pokemon - Coffret Méga-Aligatueur ex - Héros Transcendants - ME02.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-coffret-mega-aligatueur-ex-heros-transcendants-me02_5-scelle-francais.html",
-      "price": 54.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "43e942b15fc998ef",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-coffret-mega-roitiflam-ex-heros-transcendants-me02_5-scelle-francais",
       "title": "Coffret - Pokemon - Coffret Méga-Roitiflam ex - Héros Transcendants - ME02.5 - Scellé - Français",
@@ -7110,6 +7082,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "8b58ed05894f2e70",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "duopack-pokemon-stars-etincelantes-origine-perdue-eb9-eb11-illustration-cleopsytra-scelle-francais",
+      "title": "Duopack - Pokemon - Stars Étincelantes & Origine Perdue - EB9 & EB11 - Illustration Cléopsytra - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/duopack-pokemon-stars-etincelantes-origine-perdue-eb9-eb11-illustration-cleopsytra-scelle-francais.html",
+      "price": 19.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "2bdd94d8c42083a2",
       "published_at": null,
       "modified_at": null
     }
