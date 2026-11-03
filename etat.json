@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-12-tripacks-pokemon-epee-et-bouclier-de-base-eb01-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Épée et Bouclier de Base - EB01 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-epee-et-bouclier-de-base-eb01-scelle-francais.html",
-      "price": 579.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b6d99a27f19ce5f6",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-etincelles-deferlantes-ev8-illustration-electhor-scelle-francais",
       "title": "Tripack - Pokemon - Étincelles Déferlantes - EV8 - Illustration Électhor - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-etincelles-deferlantes-ev8-illustration-electhor-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "e9684bd32be54d28",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-12-tripacks-pokemon-epee-et-bouclier-de-base-eb01-scelle-francais",
+      "title": "Case 12 Tripacks - Pokemon - Épée et Bouclier de Base - EB01 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-epee-et-bouclier-de-base-eb01-scelle-francais.html",
+      "price": 579.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "b6d99a27f19ce5f6",
       "published_at": null,
       "modified_at": null
     }
