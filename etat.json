@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-de-blister-pokemon-aventures-ensemble-ev9-scelle-francais",
-      "title": "Case de Blister - Pokemon - Aventures Ensemble - EV09 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-aventures-ensemble-ev9-scelle-francais.html",
-      "price": 189.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b4c9177ac9777f78",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-aventures-ensemble-ev09-triple-illustration-ampibidou-de-mashynn-scelle-francais",
       "title": "Tripack - Pokemon - Aventures Ensemble - EV09 - Triple Illustration Ampibidou de Mashynn - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-aventures-ensemble-ev09-triple-illustration-ampibidou-de-mashynn-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "0233b98aa47a818e",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-de-blister-pokemon-aventures-ensemble-ev9-scelle-francais",
+      "title": "Case de Blister - Pokemon - Aventures Ensemble - EV09 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-aventures-ensemble-ev9-scelle-francais.html",
+      "price": 189.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "b4c9177ac9777f78",
       "published_at": null,
       "modified_at": null
     }
