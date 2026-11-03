@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "blister-pokemon-flammes-obsidiennes-ev3-scelle-francais",
-      "title": "Blister - Pokemon - Flammes Obsidiennes - EV03 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/blister-pokemon-flammes-obsidiennes-ev3-scelle-francais.html",
-      "price": 7.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "109092f04c96a27d",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "case-de-blister-pokemon-flammes-obsidiennes-ev3-scelle-francais",
       "title": "Case de Blister - Pokemon - Flammes Obsidiennes - EV03 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-flammes-obsidiennes-ev3-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "52ce889db22500fe",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "blister-pokemon-flammes-obsidiennes-ev3-scelle-francais",
+      "title": "Blister - Pokemon - Flammes Obsidiennes - EV03 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/blister-pokemon-flammes-obsidiennes-ev3-scelle-francais.html",
+      "price": 7.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "109092f04c96a27d",
       "published_at": null,
       "modified_at": null
     }
