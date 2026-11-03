@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "booster-pokemon-evolutions-prismatiques-ev8_5-scelle-francais",
-      "title": "Booster - Pokemon - Évolutions Prismatiques - EV8.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-evolutions-prismatiques-ev8_5-scelle-francais.html",
-      "price": 14.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "fa568fe84ac69534",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "display-de-8-mini-tin-pokemon-evolutions-prismatiques-ev8_5-scelle-francais",
       "title": "Display de 8 Mini Tin - Pokemon - Évolutions Prismatiques - EV8.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/display-de-8-mini-tin-pokemon-evolutions-prismatiques-ev8_5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "64a3d2be14e11240",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "booster-pokemon-evolutions-prismatiques-ev8_5-scelle-francais",
+      "title": "Booster - Pokemon - Évolutions Prismatiques - EV8.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/booster-pokemon-evolutions-prismatiques-ev8_5-scelle-francais.html",
+      "price": 14.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "commandes_ouvertes",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "fa568fe84ac69534",
       "published_at": null,
       "modified_at": null
     }
