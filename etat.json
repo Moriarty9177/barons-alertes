@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "booster-pokemon-epee-bouclier-de-base-eb1-scelle-francais",
-      "title": "Booster - Pokemon - Épée & Bouclier de base - EB01 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-epee-bouclier-de-base-eb1-scelle-francais.html",
-      "price": 17.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8be38b55d3ccc662",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-regidrago-v-zenith-supreme-eb12_5-scelle-francais",
       "title": "Coffret - Pokemon - Collection Regidrago V - Zénith Suprême - EB12.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-regidrago-v-zenith-supreme-eb12_5-scelle-francais.html",
@@ -4663,20 +4649,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais",
-      "title": "ETB - Pokemon - Mascarade Crépusculaire - Ogerpon Masque Turquoise - EV6 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais.html",
-      "price": 64.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-29T09:10:40+00:00",
-      "event_id": "4b79fd80dbdbefd3",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "tripack-pokemon-regne-delta-me06-illustration-otaria-scelle-francais",
       "title": "[06-11-2026] Tripack - Pokemon - Règne Delta - ME06 - Illustration Otaria - Scellé - Français",
@@ -7460,6 +7432,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "898b9707bddf02c8",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "booster-pokemon-epee-bouclier-de-base-eb1-scelle-francais",
+      "title": "Booster - Pokemon - Épée & Bouclier de base - EB01 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/booster-pokemon-epee-bouclier-de-base-eb1-scelle-francais.html",
+      "price": 17.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "8be38b55d3ccc662",
       "published_at": null,
       "modified_at": null
     }
