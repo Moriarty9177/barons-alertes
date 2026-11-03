@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-pachyradjah-v-clash-des-rebelles-eb02-scelle-francais",
-      "title": "Coffret - Pokemon - Pachyradjah V - Clash des Rebelles - EB02 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-pachyradjah-v-clash-des-rebelles-eb02-scelle-francais.html",
-      "price": 99.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "734a14f229d4d336",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mini-tin-pokemon-amis-de-galar-illustration-aleatoire-scelle-francais",
       "title": "Mini Tin - Pokemon - Amis de Galar - Illustration Aléatoire - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-amis-de-galar-illustration-aleatoire-scelle-francais.html",
@@ -4691,20 +4677,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "display-10-kits-d-avant-premiere-pokemon-mega-evolution-me01-scelle-francais",
-      "title": "Display 10 Kits d'Avant Première - Pokemon - Méga Évolution - ME01 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/display-10-kits-d-avant-premiere-pokemon-mega-evolution-me01-scelle-francais.html",
-      "price": 699.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-27T15:45:44+00:00",
-      "event_id": "27adf1faf77ae82f",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-collection-figurine-mew-30e-anniversaire-me05_5-scelle-francais",
       "title": "[06-11-2026] Coffret - Pokemon - Collection Figurine Mew - 30e Anniversaire - ME05.5 - Scellé - Français",
@@ -7488,6 +7460,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "4c782349be9e312b",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-pachyradjah-v-clash-des-rebelles-eb02-scelle-francais",
+      "title": "Coffret - Pokemon - Pachyradjah V - Clash des Rebelles - EB02 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-pachyradjah-v-clash-des-rebelles-eb02-scelle-francais.html",
+      "price": 99.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "734a14f229d4d336",
       "published_at": null,
       "modified_at": null
     }
