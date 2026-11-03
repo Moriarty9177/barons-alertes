@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-build-and-battle-stars-etincelantes-eb9-scelle-francais",
-      "title": "Coffret - Pokemon - Build and Battle - Stars Étincelantes - EB09 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-build-and-battle-stars-etincelantes-eb9-scelle-francais.html",
-      "price": 179.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6ce27632bcdf9916",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-pikachu-v-stars-etincelantes-eb09-scelle-francais",
       "title": "Coffret - Pokemon - Pikachu V - Stars Étincelantes - EB09 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-pikachu-v-stars-etincelantes-eb09-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "920f05db149b91d4",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-build-and-battle-stars-etincelantes-eb9-scelle-francais",
+      "title": "Coffret - Pokemon - Build and Battle - Stars Étincelantes - EB09 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-build-and-battle-stars-etincelantes-eb9-scelle-francais.html",
+      "price": 179.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "6ce27632bcdf9916",
       "published_at": null,
       "modified_at": null
     }
