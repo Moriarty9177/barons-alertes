@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-12-tripacks-pokemon-flammes-obsidiennes-ev03-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Flammes Obsidiennes - EV03 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-flammes-obsidiennes-ev03-scelle-francais.html",
-      "price": 299.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "2ba7d5dc183ca0ef",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-build-and-battle-flammes-obsidiennes-ev03-scelle-francais",
       "title": "Coffret - Pokemon - Build and Battle - Flammes Obsidiennes - EV03 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-build-and-battle-flammes-obsidiennes-ev03-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "dbef697dd63558c2",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-12-tripacks-pokemon-flammes-obsidiennes-ev03-scelle-francais",
+      "title": "Case 12 Tripacks - Pokemon - Flammes Obsidiennes - EV03 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-flammes-obsidiennes-ev03-scelle-francais.html",
+      "price": 299.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "2ba7d5dc183ca0ef",
       "published_at": null,
       "modified_at": null
     }
