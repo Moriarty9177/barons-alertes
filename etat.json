@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-paldea-poussacha-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Paldea - Poussacha - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-paldea-poussacha-scelle-francais.html",
-      "price": 79.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "f03ef9b071134e27",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-mimiqui-ex-tempete-argentee-eb12-scelle-francais",
       "title": "Coffret - Pokemon - Mimiqui ex - Tempête Argentée - EB12 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-mimiqui-ex-tempete-argentee-eb12-scelle-francais.html",
@@ -4453,20 +4439,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "case-12-tripacks-pokemon-chaos-ascendant-me04-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Chaos Ascendant - ME04 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-chaos-ascendant-me04-scelle-francais.html",
-      "price": 219.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "01657d3e1acac833",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-collection-illustration-premiers-partenaires-serie-2-scelle-francais",
       "title": "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Série 2 - Scellé - Français",
@@ -7250,6 +7222,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "78de11ccf953ddf4",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-paldea-poussacha-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Paldea - Poussacha - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-paldea-poussacha-scelle-francais.html",
+      "price": 79.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "f03ef9b071134e27",
       "published_at": null,
       "modified_at": null
     }
