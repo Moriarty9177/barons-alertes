@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-destinees-radieuses-eb04_5-illustration-polthegeist-scelle-francais",
-      "title": "Tripack - Pokemon - Destinées Radieuses - EB04.5 - Illustration Polthégeist - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-destinees-radieuses-eb04_5-illustration-polthegeist-scelle-francais.html",
-      "price": 59.9,
-      "availability": "indisponible",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "411cd6c9deb8cdac",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-destinees-radieuses-eb04_5-illustration-sapereau-scelle-francais",
       "title": "Tripack - Pokemon - Destinées Radieuses - EB04.5 - Illustration Sapereau - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-destinees-radieuses-eb04_5-illustration-sapereau-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "1ceac152d17ebba1",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-destinees-radieuses-eb04_5-illustration-polthegeist-scelle-francais",
+      "title": "Tripack - Pokemon - Destinées Radieuses - EB04.5 - Illustration Polthégeist - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-destinees-radieuses-eb04_5-illustration-polthegeist-scelle-francais.html",
+      "price": 59.9,
+      "availability": "indisponible",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "411cd6c9deb8cdac",
       "published_at": null,
       "modified_at": null
     }
