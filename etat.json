@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-aventures-ensemble-ev09-triple-illustration-zoroark-de-n-scelle-francais",
-      "title": "Tripack - Pokemon - Aventures Ensemble - EV09 - Triple Illustration Zoroark de N - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-aventures-ensemble-ev09-triple-illustration-zoroark-de-n-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "f74e01783179502a",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "case-12-tripacks-pokemon-aventures-ensemble-ev09-scelle-francais",
       "title": "Case 12 Tripacks - Pokemon - Aventures Ensemble - EV09 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-aventures-ensemble-ev09-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "ed6c24502d5a6caa",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-aventures-ensemble-ev09-triple-illustration-zoroark-de-n-scelle-francais",
+      "title": "Tripack - Pokemon - Aventures Ensemble - EV09 - Triple Illustration Zoroark de N - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-aventures-ensemble-ev09-triple-illustration-zoroark-de-n-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "f74e01783179502a",
       "published_at": null,
       "modified_at": null
     }
