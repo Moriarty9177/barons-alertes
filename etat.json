@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "artset-de-booster-pokemon-evolution-celeste-eb7-scelle-francais",
-      "title": "Artset de Booster - Pokemon - Évolution Céleste - EB07 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/artset-de-booster-pokemon-evolution-celeste-eb7-scelle-francais.html",
-      "price": 99.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "3e82710cfe130c18",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-dracaolosse-v-scelle-francais",
       "title": "Coffret - Pokemon - Dracolosse V - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-dracaolosse-v-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "a625a0d2f8d9056b",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "artset-de-booster-pokemon-evolution-celeste-eb7-scelle-francais",
+      "title": "Artset de Booster - Pokemon - Évolution Céleste - EB07 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/artset-de-booster-pokemon-evolution-celeste-eb7-scelle-francais.html",
+      "price": 99.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "3e82710cfe130c18",
       "published_at": null,
       "modified_at": null
     }
