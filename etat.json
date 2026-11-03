@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "booster-pokemon-voltage-eclatant-eb4-scelle-francais",
-      "title": "Booster - Pokemon - Voltage Éclatant - EB04 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-voltage-eclatant-eb4-scelle-francais.html",
-      "price": 19.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "bf06ec5e0eab2ad4",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "blister-pokemon-voltage-eclatant-eb4-scelle-francais",
       "title": "Blister - Pokemon - Voltage Éclatant - EB04 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/blister-pokemon-voltage-eclatant-eb4-scelle-francais.html",
@@ -4845,20 +4831,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "plumier-pokemon-rentree-des-classes-scelle-francais",
-      "title": "Plumier - Pokemon - Rentrée des classes - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/plumier-pokemon-rentree-des-classes-scelle-francais.html",
-      "price": 13.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-14T06:45:45+00:00",
-      "event_id": "81e5f9685380bf2e",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "pokebox-pokemon-nigosier-v-destinees-radieuses-eb04_5-scelle-francais",
       "title": "Pokébox - Pokemon - Nigosier V - Destinées Radieuses - EB04.5 - Scellé - Français",
@@ -7642,6 +7614,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "181b70df0b4c0549",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "booster-pokemon-voltage-eclatant-eb4-scelle-francais",
+      "title": "Booster - Pokemon - Voltage Éclatant - EB04 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/booster-pokemon-voltage-eclatant-eb4-scelle-francais.html",
+      "price": 19.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "bf06ec5e0eab2ad4",
       "published_at": null,
       "modified_at": null
     }
