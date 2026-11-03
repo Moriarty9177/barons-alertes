@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-12-tripacks-pokemon-origine-perdue-eb11-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Origine Perdue - EB11 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-origine-perdue-eb11-scelle-francais.html",
-      "price": 479.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c8e6caaa348951fb",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "mini-tin-pokemon-pouvoir-de-kanto-illustration-aleatoire-scelle-francais",
       "title": "Mini Tin - Pokemon - Pouvoir de Kanto - Illustration Aléatoire - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-pouvoir-de-kanto-illustration-aleatoire-scelle-francais.html",
@@ -4341,20 +4327,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "case-12-tripacks-pokemon-heros-transcendants-me02_5-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Héros Transcendants - ME02.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-heros-transcendants-me02_5-scelle-francais.html",
-      "price": 419.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "3824bd34d2f329e0",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-collection-avec-pin-s-deluxe-heros-transcendants-me02_5-scelle-francais",
       "title": "Coffret - Pokemon - Collection avec Pin's Deluxe - Héros Transcendants - ME02.5 - Scellé - Français",
@@ -7138,6 +7110,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "62aa8c9d2193397b",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-12-tripacks-pokemon-origine-perdue-eb11-scelle-francais",
+      "title": "Case 12 Tripacks - Pokemon - Origine Perdue - EB11 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-origine-perdue-eb11-scelle-francais.html",
+      "price": 479.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "c8e6caaa348951fb",
       "published_at": null,
       "modified_at": null
     }
