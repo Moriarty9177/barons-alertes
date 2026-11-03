@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-valisette-coffre-aux-tresors-dracaufeu-scelle-francais",
-      "title": "Coffret - Pokemon - Valisette coffre aux trésors - Dracaufeu - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-valisette-coffre-aux-tresors-dracaufeu-scelle-francais.html",
-      "price": 59.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "d079a93fccca59fb",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "blister-pokemon-evolutions-a-paldea-ev2-scelle-francais",
       "title": "Blister - Pokemon - Évolutions à Paldea - EV02 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/blister-pokemon-evolutions-a-paldea-ev2-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "13ce60711d48e6fd",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-valisette-coffre-aux-tresors-dracaufeu-scelle-francais",
+      "title": "Coffret - Pokemon - Valisette coffre aux trésors - Dracaufeu - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-valisette-coffre-aux-tresors-dracaufeu-scelle-francais.html",
+      "price": 59.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "d079a93fccca59fb",
       "published_at": null,
       "modified_at": null
     }
