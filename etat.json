@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "blister-pokemon-evolutions-a-paldea-ev2-scelle-francais",
-      "title": "Blister - Pokemon - Évolutions à Paldea - EV02 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/blister-pokemon-evolutions-a-paldea-ev2-scelle-francais.html",
-      "price": 8.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "fcefbe31b702beb0",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "case-de-blister-pokemon-evolutions-a-paldea-ev2-scelle-francais",
       "title": "Case de Blister - Pokemon - Évolutions à Paldea - EV02 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-evolutions-a-paldea-ev2-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "d079a93fccca59fb",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "blister-pokemon-evolutions-a-paldea-ev2-scelle-francais",
+      "title": "Blister - Pokemon - Évolutions à Paldea - EV02 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/blister-pokemon-evolutions-a-paldea-ev2-scelle-francais.html",
+      "price": 8.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "fcefbe31b702beb0",
       "published_at": null,
       "modified_at": null
     }
