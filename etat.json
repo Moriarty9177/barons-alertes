@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-rugit-lune-scelle-francais",
-      "title": "Tripack - Pokemon - Faille Paradoxe - EV04 - Triple Illustration Rugit-Lune - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-faille-paradoxe-ev04-triple-illustration-rugit-lune-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "748a3844c7d50086",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-build-and-battle-faille-paradoxe-ev04-scelle-francais",
       "title": "Coffret - Pokemon - Build and Battle - Faille Paradoxe - EV04 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-build-and-battle-faille-paradoxe-ev04-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "d789b697f263b6d5",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-rugit-lune-scelle-francais",
+      "title": "Tripack - Pokemon - Faille Paradoxe - EV04 - Triple Illustration Rugit-Lune - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-faille-paradoxe-ev04-triple-illustration-rugit-lune-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "748a3844c7d50086",
       "published_at": null,
       "modified_at": null
     }
