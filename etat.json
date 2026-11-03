@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "blister-pokemon-rivalites-destinees-ev10-scelle-francais1",
-      "title": "Blister - Pokemon - Rivalités Destinées - EV10 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/blister-pokemon-rivalites-destinees-ev10-scelle-francais1.html",
-      "price": 12.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "a18989ddfd760736",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "case-de-blister-pokemon-rivalites-destinees-ev10-scelle-francais",
       "title": "Case de Blister - Pokemon - Rivalités Destinées - EV10 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-rivalites-destinees-ev10-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "4f7e738113fb26c2",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "blister-pokemon-rivalites-destinees-ev10-scelle-francais1",
+      "title": "Blister - Pokemon - Rivalités Destinées - EV10 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/blister-pokemon-rivalites-destinees-ev10-scelle-francais1.html",
+      "price": 12.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "a18989ddfd760736",
       "published_at": null,
       "modified_at": null
     }
