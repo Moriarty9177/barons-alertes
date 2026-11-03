@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-aventure-a-paldea-scelle-francais",
-      "title": "Coffret - Pokemon - Aventure à Paldea - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-aventure-a-paldea-scelle-francais.html",
-      "price": 89.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "f82143507d860545",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "booster-pokemon-zenith-supreme-eb12_5-scelle-francais",
       "title": "Booster - Pokemon - Zénith Suprême - EB12.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/booster-pokemon-zenith-supreme-eb12_5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "5e2234e473c2c89b",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-aventure-a-paldea-scelle-francais",
+      "title": "Coffret - Pokemon - Aventure à Paldea - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-aventure-a-paldea-scelle-francais.html",
+      "price": 89.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "f82143507d860545",
       "published_at": null,
       "modified_at": null
     }
