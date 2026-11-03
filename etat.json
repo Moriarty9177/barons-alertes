@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "booster-pokemon-tenebres-embrasees-eb3-scelle-francais",
-      "title": "Booster - Pokemon - Ténèbres Embrasées - EB03 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-tenebres-embrasees-eb3-scelle-francais.html",
-      "price": 17.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "178a02eb4a98ae0d",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-tenebres-embrasees-eb03-illustration-pyroli-scelle-francais",
       "title": "Tripack - Pokemon - Ténèbres Embrasées - EB03 - Illustration Pyroli - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-tenebres-embrasees-eb03-illustration-pyroli-scelle-francais.html",
@@ -4789,20 +4775,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "booster-pokemon-mascarade-crepusculaire-ev6-scelle-francais",
-      "title": "Booster - Pokemon - Mascarade Crépusculaire - EV6 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-mascarade-crepusculaire-ev6-scelle-francais.html",
-      "price": 7.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-20T08:45:39+00:00",
-      "event_id": "4245a0bb9cb8954c",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "tripack-pokemon-regne-delta-me06-illustration-otaria-scelle-francais",
       "title": "[06-11-2026] Tripack - Pokemon - Règne Delta - ME06 - Illustration Otaria - Scellé - Français",
@@ -7586,6 +7558,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "3c20d6a1303b1022",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "booster-pokemon-tenebres-embrasees-eb3-scelle-francais",
+      "title": "Booster - Pokemon - Ténèbres Embrasées - EB03 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/booster-pokemon-tenebres-embrasees-eb3-scelle-francais.html",
+      "price": 17.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "178a02eb4a98ae0d",
       "published_at": null,
       "modified_at": null
     }
