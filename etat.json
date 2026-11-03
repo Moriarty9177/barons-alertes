@@ -454,7 +454,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "etb-pokemon-heros-transcendants-mega-dracolosse-ex-me02_5-scelle-francais": {
       "id": "etb-pokemon-heros-transcendants-mega-dracolosse-ex-me02_5-scelle-francais",
@@ -610,7 +612,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "booster-pokemon-foudre-noire-ev10_5-scelle-francais": {
       "id": "booster-pokemon-foudre-noire-ev10_5-scelle-francais",
@@ -621,7 +625,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "booster-pokemon-rivalites-destinees-ev10-scelle-francais": {
       "id": "booster-pokemon-rivalites-destinees-ev10-scelle-francais",
@@ -753,7 +759,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "etb-pokemon-evolutions-prismatiques-evoli-ev8_5-scelle-francais": {
       "id": "etb-pokemon-evolutions-prismatiques-evoli-ev8_5-scelle-francais",
@@ -924,7 +932,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "booster-pokemon-faille-paradoxe-ev4-scelle-francais": {
       "id": "booster-pokemon-faille-paradoxe-ev4-scelle-francais",
@@ -959,7 +969,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "booster-pokemon-flammes-obsidiennes-ev3-scelle-francais": {
       "id": "booster-pokemon-flammes-obsidiennes-ev3-scelle-francais",
@@ -1058,7 +1070,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "booster-pokemon-tempete-argentee-eb12-scelle-francais1": {
       "id": "booster-pokemon-tempete-argentee-eb12-scelle-francais1",
@@ -1146,7 +1160,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "display-pokemon-blue-sky-stream-s7r-scelle-japonais": {
       "id": "display-pokemon-blue-sky-stream-s7r-scelle-japonais",
@@ -1179,7 +1195,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-10-12T16:09:35+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "display-8-decks-pokemon-deck-combat-v-scelle-francais": {
       "id": "display-8-decks-pokemon-deck-combat-v-scelle-francais",
@@ -1271,7 +1289,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-darkrai-scelle-francais": {
       "id": "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-darkrai-scelle-francais",
@@ -1282,7 +1302,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-zeraora-scelle-francais": {
       "id": "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-zeraora-scelle-francais",
@@ -1293,7 +1315,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-minotaupe-scelle-francais": {
       "id": "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-minotaupe-scelle-francais",
@@ -1304,7 +1328,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-chaos-ascendant-me04-triple-illustration-mega-nemelios-scelle-francais": {
       "id": "tripack-pokemon-chaos-ascendant-me04-triple-illustration-mega-nemelios-scelle-francais",
@@ -1315,7 +1341,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-chaos-ascendant-me04-scelle-francais": {
       "id": "case-12-tripacks-pokemon-chaos-ascendant-me04-scelle-francais",
@@ -1326,7 +1354,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-illustration-premiers-partenaires-serie-2-scelle-francais": {
       "id": "coffret-pokemon-collection-illustration-premiers-partenaires-serie-2-scelle-francais",
@@ -1337,7 +1367,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-melodelfe-scelle-francais": {
       "id": "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-melodelfe-scelle-francais",
@@ -1348,7 +1380,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-staross-scelle-francais": {
       "id": "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-staross-scelle-francais",
@@ -1359,7 +1393,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-illustration-premiers-partenaires-serie-1-scelle-francais": {
       "id": "coffret-pokemon-collection-illustration-premiers-partenaires-serie-1-scelle-francais",
@@ -1370,7 +1406,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-journee-pokemon-2026-scelle-francais": {
       "id": "coffret-pokemon-collection-journee-pokemon-2026-scelle-francais",
@@ -1381,7 +1419,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "display-10-mini-tins-pokemon-heros-transcendants-me02_5-scelle-francais": {
       "id": "display-10-mini-tins-pokemon-heros-transcendants-me02_5-scelle-francais",
@@ -1392,7 +1432,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-heros-transcendants-me02_5-scelle-francais": {
       "id": "case-12-tripacks-pokemon-heros-transcendants-me02_5-scelle-francais",
@@ -1403,7 +1445,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-avec-pin-s-deluxe-heros-transcendants-me02_5-scelle-francais": {
       "id": "coffret-pokemon-collection-avec-pin-s-deluxe-heros-transcendants-me02_5-scelle-francais",
@@ -1414,7 +1458,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-coffret-mega-aligatueur-ex-heros-transcendants-me02_5-scelle-francais": {
       "id": "coffret-pokemon-coffret-mega-aligatueur-ex-heros-transcendants-me02_5-scelle-francais",
@@ -1425,7 +1471,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-coffret-mega-roitiflam-ex-heros-transcendants-me02_5-scelle-francais": {
       "id": "coffret-pokemon-coffret-mega-roitiflam-ex-heros-transcendants-me02_5-scelle-francais",
@@ -1436,7 +1484,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-coffret-mega-meganium-ex-heros-transcendants-me02_5-scelle-francais": {
       "id": "coffret-pokemon-coffret-mega-meganium-ex-heros-transcendants-me02_5-scelle-francais",
@@ -1447,7 +1497,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais": {
       "id": "case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais",
@@ -1458,7 +1510,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais": {
       "id": "coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais",
@@ -1469,7 +1523,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-mega-latias-ex-scelle-francais": {
       "id": "coffret-pokemon-mega-latias-ex-scelle-francais",
@@ -1480,7 +1536,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-mega-evolution-de-base-me01-scelle-francais": {
       "id": "blister-pokemon-mega-evolution-de-base-me01-scelle-francais",
@@ -1491,7 +1549,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-mega-evolution-de-base-me01-scelle-francais": {
       "id": "case-de-blister-pokemon-mega-evolution-de-base-me01-scelle-francais",
@@ -1502,7 +1562,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "display-10-mini-tins-pokemon-mega-evolution-me01-scelle-francais": {
       "id": "display-10-mini-tins-pokemon-mega-evolution-me01-scelle-francais",
@@ -1513,7 +1575,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-lucario-scelle-francais": {
       "id": "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-lucario-scelle-francais",
@@ -1524,7 +1588,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-gardevoir-scelle-francais": {
       "id": "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-gardevoir-scelle-francais",
@@ -1535,7 +1601,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-florizarre-scelle-francais": {
       "id": "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-florizarre-scelle-francais",
@@ -1546,7 +1614,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-mega-evolution-de-base-me01-scelle-francais": {
       "id": "case-12-tripacks-pokemon-mega-evolution-de-base-me01-scelle-francais",
@@ -1557,7 +1627,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-calendrier-des-fetes-2025-scelle-francais": {
       "id": "coffret-pokemon-calendrier-des-fetes-2025-scelle-francais",
@@ -1568,7 +1640,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-flamme-blanche-ev10_5-scelle-francais": {
       "id": "case-12-tripacks-pokemon-flamme-blanche-ev10_5-scelle-francais",
@@ -1579,7 +1653,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-foudre-noire-ev10_5-scelle-francais": {
       "id": "case-12-tripacks-pokemon-foudre-noire-ev10_5-scelle-francais",
@@ -1590,7 +1666,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "display-mini-tin-pokemon-foudre-noire-flamme-blanche-ev10_5-scelle-francais": {
       "id": "display-mini-tin-pokemon-foudre-noire-flamme-blanche-ev10_5-scelle-francais",
@@ -1601,7 +1679,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-poster-foudre-noire-flamme-blanche-ev10_5-scelle-francais1": {
       "id": "coffret-pokemon-collection-poster-foudre-noire-flamme-blanche-ev10_5-scelle-francais1",
@@ -1612,7 +1692,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-rivalites-destinees-ev10-scelle-francais1": {
       "id": "blister-pokemon-rivalites-destinees-ev10-scelle-francais1",
@@ -1623,7 +1705,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-rivalites-destinees-ev10-scelle-francais": {
       "id": "case-de-blister-pokemon-rivalites-destinees-ev10-scelle-francais",
@@ -1634,7 +1718,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-rivalites-destinees-ev10-triple-illustration-team-rocket-scelle-francais": {
       "id": "tripack-pokemon-rivalites-destinees-ev10-triple-illustration-team-rocket-scelle-francais",
@@ -1645,7 +1731,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-rivalites-destinees-ev10-triple-illustration-carchacrok-de-cynthia-scelle-francais": {
       "id": "tripack-pokemon-rivalites-destinees-ev10-triple-illustration-carchacrok-de-cynthia-scelle-francais",
@@ -1656,7 +1744,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-rivalites-destinees-ev10-scelle-francais": {
       "id": "case-12-tripacks-pokemon-rivalites-destinees-ev10-scelle-francais",
@@ -1667,7 +1757,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-premium-carchacrok-ex-de-cynthia-scelle-francais1": {
       "id": "coffret-pokemon-collection-premium-carchacrok-ex-de-cynthia-scelle-francais1",
@@ -1678,7 +1770,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-aventures-ensemble-ev9-scelle-francais": {
       "id": "case-de-blister-pokemon-aventures-ensemble-ev9-scelle-francais",
@@ -1689,7 +1783,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-aventures-ensemble-ev09-triple-illustration-ampibidou-de-mashynn-scelle-francais": {
       "id": "tripack-pokemon-aventures-ensemble-ev09-triple-illustration-ampibidou-de-mashynn-scelle-francais",
@@ -1700,7 +1796,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-aventures-ensemble-ev09-triple-illustration-zoroark-de-n-scelle-francais": {
       "id": "tripack-pokemon-aventures-ensemble-ev09-triple-illustration-zoroark-de-n-scelle-francais",
@@ -1711,7 +1809,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-aventures-ensemble-ev09-scelle-francais": {
       "id": "case-12-tripacks-pokemon-aventures-ensemble-ev09-scelle-francais",
@@ -1722,7 +1822,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "display-de-8-mini-tin-pokemon-evolutions-prismatiques-ev8_5-scelle-francais": {
       "id": "display-de-8-mini-tin-pokemon-evolutions-prismatiques-ev8_5-scelle-francais",
@@ -1733,7 +1835,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-evolutions-prismatiques-ev08_5-scelle-francais": {
       "id": "case-12-tripacks-pokemon-evolutions-prismatiques-ev08_5-scelle-francais",
@@ -1744,7 +1848,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-poster-3-boosters-evolutions-prismatiques-ev8_5-scelle-francais": {
       "id": "coffret-pokemon-poster-3-boosters-evolutions-prismatiques-ev8_5-scelle-francais",
@@ -1755,7 +1861,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-classeur-evolutions-prismatiques-ev08_5-scelle-francais": {
       "id": "coffret-pokemon-collection-classeur-evolutions-prismatiques-ev08_5-scelle-francais",
@@ -1766,7 +1874,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-premium-figurine-evolutions-prismatiques-scelle-francais": {
       "id": "coffret-pokemon-collection-premium-figurine-evolutions-prismatiques-scelle-francais",
@@ -1777,7 +1887,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-carton-pokemon-etincelles-deferlantes-ev08-scelle-francais": {
       "id": "blister-carton-pokemon-etincelles-deferlantes-ev08-scelle-francais",
@@ -1788,7 +1900,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-etincelles-deferlantes-ev8-scelle-francais": {
       "id": "blister-pokemon-etincelles-deferlantes-ev8-scelle-francais",
@@ -1799,7 +1913,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-etincelles-deferlantes-ev8-scelle-francais": {
       "id": "case-de-blister-pokemon-etincelles-deferlantes-ev8-scelle-francais",
@@ -1810,7 +1926,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-epee-bouclier-de-base-eb1-scelle-francais": {
       "id": "blister-pokemon-epee-bouclier-de-base-eb1-scelle-francais",
@@ -1821,7 +1939,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-morpeko-scelle-francais": {
       "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-morpeko-scelle-francais",
@@ -1832,7 +1952,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-ponyta-de-galar-scelle-francais": {
       "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-ponyta-de-galar-scelle-francais",
@@ -1843,7 +1965,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-tournicoton-scelle-francais": {
       "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-tournicoton-scelle-francais",
@@ -1854,7 +1978,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-moumouton-scelle-francais": {
       "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-moumouton-scelle-francais",
@@ -1865,7 +1991,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-epee-et-bouclier-de-base-eb01-scelle-francais": {
       "id": "case-12-tripacks-pokemon-epee-et-bouclier-de-base-eb01-scelle-francais",
@@ -1876,7 +2004,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-etincelles-deferlantes-ev8-illustration-electhor-scelle-francais": {
       "id": "tripack-pokemon-etincelles-deferlantes-ev8-illustration-electhor-scelle-francais",
@@ -1887,7 +2017,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-etincelles-deferlantes-ev08-scelle-francais": {
       "id": "case-12-tripacks-pokemon-etincelles-deferlantes-ev08-scelle-francais",
@@ -1898,7 +2030,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-valisette-coffre-aux-tresors-pikachu-teracristal-scelle-francais": {
       "id": "coffret-pokemon-valisette-coffre-aux-tresors-pikachu-teracristal-scelle-francais",
@@ -1909,7 +2043,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-ultra-premium-amphinobi-scelle-francais": {
       "id": "coffret-pokemon-collection-ultra-premium-amphinobi-scelle-francais",
@@ -1920,7 +2056,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-couronne-stellaire-ev7-scelle-francais": {
       "id": "blister-pokemon-couronne-stellaire-ev7-scelle-francais",
@@ -1931,7 +2069,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-couronne-stellaire-ev07-triple-illustration-pyrobut-scelle-francais": {
       "id": "tripack-pokemon-couronne-stellaire-ev07-triple-illustration-pyrobut-scelle-francais",
@@ -1942,7 +2082,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-couronne-stellaire-ev07-triple-illustration-terapagos-scelle-francais": {
       "id": "tripack-pokemon-couronne-stellaire-ev07-triple-illustration-terapagos-scelle-francais",
@@ -1953,7 +2095,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-ultra-premium-terapagos-ex-scelle-francais": {
       "id": "coffret-pokemon-collection-ultra-premium-terapagos-ex-scelle-francais",
@@ -1964,7 +2108,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-calendrier-des-fetes-2024-scelle-francais": {
       "id": "coffret-pokemon-calendrier-des-fetes-2024-scelle-francais",
@@ -1975,7 +2121,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-fable-nebuleuse-ev06_5-triple-illustration-felicanis-scelle-francais": {
       "id": "tripack-pokemon-fable-nebuleuse-ev06_5-triple-illustration-felicanis-scelle-francais",
@@ -1986,7 +2134,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-mascarade-crepusculaire-ev6-scelle-francais": {
       "id": "blister-pokemon-mascarade-crepusculaire-ev6-scelle-francais",
@@ -1997,7 +2147,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-mascarade-crepusculaire-ev6-scelle-francais": {
       "id": "case-de-blister-pokemon-mascarade-crepusculaire-ev6-scelle-francais",
@@ -2008,7 +2160,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-bug-pokemon-mascarade-crepusculaire-ev06-scelle-francais": {
       "id": "tripack-bug-pokemon-mascarade-crepusculaire-ev06-scelle-francais",
@@ -2019,7 +2173,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-archeduc-ex-scelle-francais": {
       "id": "coffret-pokemon-archeduc-ex-scelle-francais",
@@ -2030,7 +2186,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-forces-temporelles-ev5-scelle-francais": {
       "id": "blister-pokemon-forces-temporelles-ev5-scelle-francais",
@@ -2041,7 +2199,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-forces-temporelles-ev05-triple-illustration-ire-foudre-scelle-francais": {
       "id": "tripack-pokemon-forces-temporelles-ev05-triple-illustration-ire-foudre-scelle-francais",
@@ -2052,7 +2212,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "display-de-10-mini-tin-pokemon-destinees-de-paldea-ev4_5-scelle-francais": {
       "id": "display-de-10-mini-tin-pokemon-destinees-de-paldea-ev4_5-scelle-francais",
@@ -2063,7 +2225,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-bug-pokemon-destinees-de-paldea-ev04_5-scelle-francais": {
       "id": "tripack-bug-pokemon-destinees-de-paldea-ev04_5-scelle-francais",
@@ -2074,7 +2238,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-destinees-de-paldea-ev04_5-triple-illustration-forgelina-scelle-francais": {
       "id": "tripack-pokemon-destinees-de-paldea-ev04_5-triple-illustration-forgelina-scelle-francais",
@@ -2085,7 +2251,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-destinees-de-paldea-ev04_5-scelle-francais": {
       "id": "case-12-tripacks-pokemon-destinees-de-paldea-ev04_5-scelle-francais",
@@ -2096,7 +2264,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "pokebox-pokemon-destinees-de-paldea-ev4_5-fort-ivoire-ex-scelle-francais": {
       "id": "pokebox-pokemon-destinees-de-paldea-ev4_5-fort-ivoire-ex-scelle-francais",
@@ -2107,7 +2277,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "pokebox-pokemon-destinees-de-paldea-ev4_5-roue-de-fer-ex-scelle-francais": {
       "id": "pokebox-pokemon-destinees-de-paldea-ev4_5-roue-de-fer-ex-scelle-francais",
@@ -2118,7 +2290,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "pokebox-pokemon-destinees-de-paldea-ev4_5-dracaufeu-ex-scelle-francais": {
       "id": "pokebox-pokemon-destinees-de-paldea-ev4_5-dracaufeu-ex-scelle-francais",
@@ -2129,7 +2303,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-premium-sagesse-paradoxe-scelle-francais": {
       "id": "coffret-pokemon-collection-premium-sagesse-paradoxe-scelle-francais",
@@ -2140,7 +2316,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-faille-paradoxe-ev4-scelle-francais": {
       "id": "blister-pokemon-faille-paradoxe-ev4-scelle-francais",
@@ -2151,7 +2329,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "display-pokemon-faille-paradoxe-ev4-scelle-francais": {
       "id": "display-pokemon-faille-paradoxe-ev4-scelle-francais",
@@ -2162,7 +2342,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-caramadura-scelle-francais": {
       "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-caramadura-scelle-francais",
@@ -2173,7 +2355,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-gallame-scelle-francais": {
       "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-gallame-scelle-francais",
@@ -2184,7 +2368,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-carchacrok-scelle-francais": {
       "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-carchacrok-scelle-francais",
@@ -2195,7 +2381,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-rugit-lune-scelle-francais": {
       "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-rugit-lune-scelle-francais",
@@ -2206,7 +2394,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-build-and-battle-faille-paradoxe-ev04-scelle-francais": {
       "id": "coffret-pokemon-build-and-battle-faille-paradoxe-ev04-scelle-francais",
@@ -2217,7 +2407,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-alakazam-ex-151-ev03_5-scelle-francais": {
       "id": "coffret-pokemon-alakazam-ex-151-ev03_5-scelle-francais",
@@ -2228,7 +2420,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-classeur-151-ev03_5-scelle-francais": {
       "id": "coffret-pokemon-collection-classeur-151-ev03_5-scelle-francais",
@@ -2239,7 +2433,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-poster-151-ev03_5-scelle-francais": {
       "id": "coffret-pokemon-collection-poster-151-ev03_5-scelle-francais",
@@ -2250,7 +2446,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-electhor-ex-151-ev03_5-scelle-francais": {
       "id": "coffret-pokemon-electhor-ex-151-ev03_5-scelle-francais",
@@ -2261,7 +2459,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-flammes-obsidiennes-ev3-scelle-francais": {
       "id": "blister-pokemon-flammes-obsidiennes-ev3-scelle-francais",
@@ -2272,7 +2472,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-flammes-obsidiennes-ev3-scelle-francais": {
       "id": "case-de-blister-pokemon-flammes-obsidiennes-ev3-scelle-francais",
@@ -2283,7 +2485,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-flammes-obsidiennes-ev03-triple-illustration-vrombotor-scelle-francais": {
       "id": "tripack-pokemon-flammes-obsidiennes-ev03-triple-illustration-vrombotor-scelle-francais",
@@ -2294,7 +2498,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-flammes-obsidiennes-ev03-scelle-francais": {
       "id": "case-12-tripacks-pokemon-flammes-obsidiennes-ev03-scelle-francais",
@@ -2305,7 +2511,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-build-and-battle-flammes-obsidiennes-ev03-scelle-francais": {
       "id": "coffret-pokemon-build-and-battle-flammes-obsidiennes-ev03-scelle-francais",
@@ -2316,7 +2524,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-calendrier-des-fetes-2023-scelle-francais": {
       "id": "coffret-pokemon-calendrier-des-fetes-2023-scelle-francais",
@@ -2327,7 +2537,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-valisette-coffre-aux-tresors-dracaufeu-scelle-francais": {
       "id": "coffret-pokemon-valisette-coffre-aux-tresors-dracaufeu-scelle-francais",
@@ -2338,7 +2550,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-evolutions-a-paldea-ev2-scelle-francais": {
       "id": "blister-pokemon-evolutions-a-paldea-ev2-scelle-francais",
@@ -2349,7 +2563,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-evolutions-a-paldea-ev2-scelle-francais": {
       "id": "case-de-blister-pokemon-evolutions-a-paldea-ev2-scelle-francais",
@@ -2360,7 +2576,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-baojian-scelle-francais": {
       "id": "tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-baojian-scelle-francais",
@@ -2371,7 +2589,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-miascarade-scelle-francais": {
       "id": "tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-miascarade-scelle-francais",
@@ -2382,7 +2602,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-evolutions-a-paldea-ev02-scelle-francais": {
       "id": "case-12-tripacks-pokemon-evolutions-a-paldea-ev02-scelle-francais",
@@ -2393,7 +2615,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-ecarlate-violet-ev1-scelle-francais": {
       "id": "blister-pokemon-ecarlate-violet-ev1-scelle-francais",
@@ -2404,7 +2628,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-ecarlate-violet-ev1-scelle-francais": {
       "id": "case-de-blister-pokemon-ecarlate-violet-ev1-scelle-francais",
@@ -2415,7 +2641,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-starters-de-paldea-scelle-francais": {
       "id": "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-starters-de-paldea-scelle-francais",
@@ -2426,7 +2654,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-koraidon-scelle-francais": {
       "id": "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-koraidon-scelle-francais",
@@ -2437,7 +2667,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-miraidon-scelle-francais": {
       "id": "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-miraidon-scelle-francais",
@@ -2448,7 +2680,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-leviator-scelle-francais": {
       "id": "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-leviator-scelle-francais",
@@ -2459,7 +2693,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-ecarlate-violet-de-base-ev01-scelle-francais": {
       "id": "case-12-tripacks-pokemon-ecarlate-violet-de-base-ev01-scelle-francais",
@@ -2470,7 +2706,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-build-and-battle-ecarlate-violet-de-base-ev01-scelle-francais": {
       "id": "coffret-pokemon-build-and-battle-ecarlate-violet-de-base-ev01-scelle-francais",
@@ -2481,7 +2719,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-aventure-a-paldea-scelle-francais": {
       "id": "coffret-pokemon-aventure-a-paldea-scelle-francais",
@@ -2492,7 +2732,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-zenith-supreme-eb12_5-scelle-francais": {
       "id": "case-12-tripacks-pokemon-zenith-supreme-eb12_5-scelle-francais",
@@ -2503,7 +2745,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "pokebox-pokemon-zenith-supreme-eb12_5-illustration-aleatoire-scelle-francais": {
       "id": "pokebox-pokemon-zenith-supreme-eb12_5-illustration-aleatoire-scelle-francais",
@@ -2514,7 +2758,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-speciale-equipe-bravoure-pokemon-go-eb10_5-scelle-francais": {
       "id": "coffret-pokemon-collection-speciale-equipe-bravoure-pokemon-go-eb10_5-scelle-francais",
@@ -2525,7 +2771,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-speciale-equipe-sagesse-pokemon-go-eb10_5-scelle-francais": {
       "id": "coffret-pokemon-collection-speciale-equipe-sagesse-pokemon-go-eb10_5-scelle-francais",
@@ -2536,7 +2784,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-astres-radieux-eb10-scelle-francais": {
       "id": "blister-pokemon-astres-radieux-eb10-scelle-francais",
@@ -2547,7 +2797,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-build-and-battle-astres-radieux-eb10-scelle-francais": {
       "id": "coffret-pokemon-build-and-battle-astres-radieux-eb10-scelle-francais",
@@ -2558,7 +2810,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-premium-palkia-originel-vstar-scelle-francais": {
       "id": "coffret-pokemon-collection-premium-palkia-originel-vstar-scelle-francais",
@@ -2569,7 +2823,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-premium-dialga-originel-vstar-scelle-francais": {
       "id": "coffret-pokemon-collection-premium-dialga-originel-vstar-scelle-francais",
@@ -2580,7 +2836,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-zeraora-vstar-vmax-scelle-francais": {
       "id": "coffret-pokemon-zeraora-vstar-vmax-scelle-francais",
@@ -2591,7 +2849,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-deoxys-vstar-vmax-scelle-francais": {
       "id": "coffret-pokemon-deoxys-vstar-vmax-scelle-francais",
@@ -2602,7 +2862,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-speciale-puissance-paradoxe-ex-scelle-francais": {
       "id": "coffret-pokemon-collection-speciale-puissance-paradoxe-ex-scelle-francais",
@@ -2613,7 +2875,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-stars-etincelantes-eb9-scelle-francais": {
       "id": "blister-pokemon-stars-etincelantes-eb9-scelle-francais",
@@ -2624,7 +2888,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-stars-etincelantes-eb9-scelle-francais": {
       "id": "case-de-blister-pokemon-stars-etincelantes-eb9-scelle-francais",
@@ -2635,7 +2901,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-stars-etincelantes-eb09-illustration-givrali-scelle-francais": {
       "id": "tripack-pokemon-stars-etincelantes-eb09-illustration-givrali-scelle-francais",
@@ -2646,7 +2914,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-stars-etincelantes-eb09-illustration-phyllali-scelle-francais": {
       "id": "tripack-pokemon-stars-etincelantes-eb09-illustration-phyllali-scelle-francais",
@@ -2657,7 +2927,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-build-and-battle-stars-etincelantes-eb9-scelle-francais": {
       "id": "coffret-pokemon-build-and-battle-stars-etincelantes-eb9-scelle-francais",
@@ -2668,7 +2940,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-pikachu-v-stars-etincelantes-eb09-scelle-francais": {
       "id": "coffret-pokemon-pikachu-v-stars-etincelantes-eb09-scelle-francais",
@@ -2679,7 +2953,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-lucario-vstar-stars-etincelantes-eb09-scelle-francais": {
       "id": "coffret-pokemon-lucario-vstar-stars-etincelantes-eb09-scelle-francais",
@@ -2690,7 +2966,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-fulgudog-v-eb09-scelle-francais": {
       "id": "coffret-pokemon-fulgudog-v-eb09-scelle-francais",
@@ -2701,7 +2979,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-figurine-arceus-v-scelle-francais": {
       "id": "coffret-pokemon-collection-figurine-arceus-v-scelle-francais",
@@ -2712,7 +2992,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-speciale-morpeko-v-union-scelle-francais": {
       "id": "coffret-pokemon-collection-speciale-morpeko-v-union-scelle-francais",
@@ -2723,7 +3005,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-tournois-premium-helio-sophora-scelle-francais": {
       "id": "coffret-pokemon-tournois-premium-helio-sophora-scelle-francais",
@@ -2734,7 +3018,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-valisette-coffre-aux-tresors-arceus-scelle-francais": {
       "id": "coffret-pokemon-valisette-coffre-aux-tresors-arceus-scelle-francais",
@@ -2745,7 +3031,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-poing-de-fusion-eb8-scelle-francais": {
       "id": "blister-pokemon-poing-de-fusion-eb8-scelle-francais",
@@ -2756,7 +3044,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-poing-de-fusion-eb8-scelle-francais": {
       "id": "case-de-blister-pokemon-poing-de-fusion-eb8-scelle-francais",
@@ -2767,7 +3057,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-poing-de-fusion-eb08-scelle-francais": {
       "id": "case-12-tripacks-pokemon-poing-de-fusion-eb08-scelle-francais",
@@ -2778,7 +3070,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "display-de-10-mini-tin-pokemon-stars-de-sinnoh-eb03-eb08-scelle-francais": {
       "id": "display-de-10-mini-tin-pokemon-stars-de-sinnoh-eb03-eb08-scelle-francais",
@@ -2789,7 +3083,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-hoopa-v-poing-de-fusion-eb08-scelle-francais": {
       "id": "coffret-pokemon-hoopa-v-poing-de-fusion-eb08-scelle-francais",
@@ -2800,7 +3096,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-givrali-vstar-eb08-scelle-francais": {
       "id": "coffret-pokemon-givrali-vstar-eb08-scelle-francais",
@@ -2811,7 +3109,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-phyllali-vstar-poing-de-fusion-eb08-scelle-francais": {
       "id": "coffret-pokemon-phyllali-vstar-poing-de-fusion-eb08-scelle-francais",
@@ -2822,7 +3122,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tin-cube-pokemon-fevrier-2022-eb05-eb07-eb08-scelle-francais": {
       "id": "tin-cube-pokemon-fevrier-2022-eb05-eb07-eb08-scelle-francais",
@@ -2833,7 +3135,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-pin-s-zacian-niv_-x-celebrations-eb07_5-scelle-francais": {
       "id": "coffret-pokemon-collection-pin-s-zacian-niv_-x-celebrations-eb07_5-scelle-francais",
@@ -2844,7 +3148,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-coffre-aux-tresors-celebrations-eb07_5-scelle-francais": {
       "id": "coffret-pokemon-coffre-aux-tresors-celebrations-eb07_5-scelle-francais",
@@ -2855,7 +3161,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-premium-playmat-collection-pikachu-v-union-celebrations-eb07_5-scelle-francais": {
       "id": "coffret-pokemon-premium-playmat-collection-pikachu-v-union-celebrations-eb07_5-scelle-francais",
@@ -2866,7 +3174,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-lanssorien-prime-celebrations-eb07_5-scelle-francais": {
       "id": "coffret-pokemon-lanssorien-prime-celebrations-eb07_5-scelle-francais",
@@ -2877,7 +3187,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-nymphali-obscur-v-celebrations-eb07_5-scelle-francais": {
       "id": "coffret-pokemon-nymphali-obscur-v-celebrations-eb07_5-scelle-francais",
@@ -2888,7 +3200,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-dracaufeu-v-de-peter-celebrations-eb07_5-scelle-francais": {
       "id": "coffret-pokemon-dracaufeu-v-de-peter-celebrations-eb07_5-scelle-francais",
@@ -2899,7 +3213,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-evolution-celeste-eb7-scelle-francais": {
       "id": "blister-pokemon-evolution-celeste-eb7-scelle-francais",
@@ -2910,7 +3226,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "artset-de-booster-pokemon-evolution-celeste-eb7-scelle-francais": {
       "id": "artset-de-booster-pokemon-evolution-celeste-eb7-scelle-francais",
@@ -2921,7 +3239,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-dracaolosse-v-scelle-francais": {
       "id": "coffret-pokemon-dracaolosse-v-scelle-francais",
@@ -2932,7 +3252,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-roigada-de-galar-v-evolution-celeste-eb07-scelle-francais": {
       "id": "coffret-pokemon-roigada-de-galar-v-evolution-celeste-eb07-scelle-francais",
@@ -2943,7 +3265,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-academie-de-combat-scelle-francais": {
       "id": "coffret-pokemon-academie-de-combat-scelle-francais",
@@ -2954,7 +3278,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "booster-pokemon-eevee-heroes-s6a-scelle-japonais": {
       "id": "booster-pokemon-eevee-heroes-s6a-scelle-japonais",
@@ -2965,7 +3291,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "artset-de-booster-pokemon-regne-de-glace-eb06-scelle-francais": {
       "id": "artset-de-booster-pokemon-regne-de-glace-eb06-scelle-francais",
@@ -2976,7 +3304,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-regne-de-glace-eb6-scelle-francais": {
       "id": "blister-pokemon-regne-de-glace-eb6-scelle-francais",
@@ -2987,7 +3317,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-regne-de-glace-eb06-scelle-francais": {
       "id": "case-12-tripacks-pokemon-regne-de-glace-eb06-scelle-francais",
@@ -2998,7 +3330,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-styles-de-combat-eb5-scelle-francais": {
       "id": "blister-pokemon-styles-de-combat-eb5-scelle-francais",
@@ -3009,7 +3343,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-styles-de-combat-eb05-illustration-evoli-scelle-francais": {
       "id": "tripack-pokemon-styles-de-combat-eb05-illustration-evoli-scelle-francais",
@@ -3020,7 +3356,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-styles-de-combat-eb05-scelle-francais": {
       "id": "tripack-pokemon-styles-de-combat-eb05-scelle-francais",
@@ -3031,7 +3369,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-styles-de-combat-eb05-scelle-francais": {
       "id": "case-12-tripacks-pokemon-styles-de-combat-eb05-scelle-francais",
@@ -3042,7 +3382,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-shifours-v-styles-de-combat-eb05-scelle-francais": {
       "id": "coffret-pokemon-shifours-v-styles-de-combat-eb05-scelle-francais",
@@ -3053,7 +3395,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-shifours-v-mille-poings-styles-de-combat-eb05-scelle-francais": {
       "id": "coffret-pokemon-shifours-v-mille-poings-styles-de-combat-eb05-scelle-francais",
@@ -3064,7 +3408,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-pomdrapi-v-epee-bouclier-scelle-francais": {
       "id": "coffret-pokemon-pomdrapi-v-epee-bouclier-scelle-francais",
@@ -3075,7 +3421,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-destinees-radieuses-eb04_5-triple-illustration-dracaufeu-scelle-francais": {
       "id": "tripack-pokemon-destinees-radieuses-eb04_5-triple-illustration-dracaufeu-scelle-francais",
@@ -3086,7 +3434,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-destinees-radieuses-eb04_5-illustration-polthegeist-scelle-francais": {
       "id": "tripack-pokemon-destinees-radieuses-eb04_5-illustration-polthegeist-scelle-francais",
@@ -3097,7 +3447,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-destinees-radieuses-eb04_5-illustration-sapereau-scelle-francais": {
       "id": "tripack-pokemon-destinees-radieuses-eb04_5-illustration-sapereau-scelle-francais",
@@ -3108,7 +3460,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "booster-pokemon-voltage-eclatant-eb4-scelle-francais": {
       "id": "booster-pokemon-voltage-eclatant-eb4-scelle-francais",
@@ -3119,7 +3473,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-voltage-eclatant-eb4-scelle-francais": {
       "id": "blister-pokemon-voltage-eclatant-eb4-scelle-francais",
@@ -3130,7 +3486,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-voltage-eclatant-eb04-illustration-larmeleon-scelle-francais": {
       "id": "tripack-pokemon-voltage-eclatant-eb04-illustration-larmeleon-scelle-francais",
@@ -3141,7 +3499,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "duopack-pokemon-clash-des-rebelles-voltage-eclatant-eb2-eb4-scelle-francais": {
       "id": "duopack-pokemon-clash-des-rebelles-voltage-eclatant-eb2-eb4-scelle-francais",
@@ -3152,7 +3512,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "booster-pokemon-tenebres-embrasees-eb3-scelle-francais": {
       "id": "booster-pokemon-tenebres-embrasees-eb3-scelle-francais",
@@ -3163,7 +3525,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-tenebres-embrasees-eb03-illustration-pyroli-scelle-francais": {
       "id": "tripack-pokemon-tenebres-embrasees-eb03-illustration-pyroli-scelle-francais",
@@ -3174,7 +3538,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "duopack-pokemon-clash-des-rebelles-tenebres-embrasees-eb2-eb3-scelle-francais": {
       "id": "duopack-pokemon-clash-des-rebelles-tenebres-embrasees-eb2-eb3-scelle-francais",
@@ -3185,7 +3551,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "mini-tin-pokemon-puissance-de-galar-illustration-aleatoire-scelle-francais": {
       "id": "mini-tin-pokemon-puissance-de-galar-illustration-aleatoire-scelle-francais",
@@ -3196,7 +3564,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-clash-des-rebelles-eb2-scelle-francais": {
       "id": "blister-pokemon-clash-des-rebelles-eb2-scelle-francais",
@@ -3207,7 +3577,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-clash-des-rebelles-eb2-illustration-duralugon-scelle-francais1": {
       "id": "tripack-pokemon-clash-des-rebelles-eb2-illustration-duralugon-scelle-francais1",
@@ -3218,7 +3590,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-clash-des-rebelles-eb02-scelle-francais": {
       "id": "case-12-tripacks-pokemon-clash-des-rebelles-eb02-scelle-francais",
@@ -3229,7 +3603,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-pachyradjah-v-clash-des-rebelles-eb02-scelle-francais": {
       "id": "coffret-pokemon-pachyradjah-v-clash-des-rebelles-eb02-scelle-francais",
@@ -3240,7 +3616,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "mini-tin-pokemon-amis-de-galar-illustration-aleatoire-scelle-francais": {
       "id": "mini-tin-pokemon-amis-de-galar-illustration-aleatoire-scelle-francais",
@@ -3251,7 +3629,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "booster-pokemon-epee-bouclier-de-base-eb1-scelle-francais": {
       "id": "booster-pokemon-epee-bouclier-de-base-eb1-scelle-francais",
@@ -3262,7 +3642,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-regidrago-v-zenith-supreme-eb12_5-scelle-francais": {
       "id": "coffret-pokemon-collection-regidrago-v-zenith-supreme-eb12_5-scelle-francais",
@@ -3273,7 +3655,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-regieleki-v-zenith-supreme-eb12_5-scelle-francais": {
       "id": "coffret-pokemon-collection-regieleki-v-zenith-supreme-eb12_5-scelle-francais",
@@ -3284,7 +3668,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-premium-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais": {
       "id": "coffret-pokemon-collection-premium-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais",
@@ -3295,7 +3681,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-speciale-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais": {
       "id": "coffret-pokemon-collection-speciale-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais",
@@ -3306,7 +3694,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-premium-playmat-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais": {
       "id": "coffret-pokemon-collection-premium-playmat-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais",
@@ -3317,7 +3707,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-tresors-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais": {
       "id": "coffret-pokemon-collection-tresors-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais",
@@ -3328,7 +3720,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-tempete-argentee-eb12-scelle-francais": {
       "id": "blister-pokemon-tempete-argentee-eb12-scelle-francais",
@@ -3339,7 +3733,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-tempete-argentee-eb12-scelle-francais": {
       "id": "case-de-blister-pokemon-tempete-argentee-eb12-scelle-francais",
@@ -3350,7 +3746,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-tempete-argentee-eb12-illustration-togetic-scelle-francais": {
       "id": "tripack-pokemon-tempete-argentee-eb12-illustration-togetic-scelle-francais",
@@ -3361,7 +3759,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-tempete-argentee-eb12-illustration-manaphy-scelle-francais": {
       "id": "tripack-pokemon-tempete-argentee-eb12-illustration-manaphy-scelle-francais",
@@ -3372,7 +3772,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-tempete-argentee-eb12-scelle-francais": {
       "id": "case-12-tripacks-pokemon-tempete-argentee-eb12-scelle-francais",
@@ -3383,7 +3785,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "duopack-bug-pokemon-evolution-celeste-tempete-argentee-eb7-eb12-scelle-francais": {
       "id": "duopack-bug-pokemon-evolution-celeste-tempete-argentee-eb7-eb12-scelle-francais",
@@ -3394,7 +3798,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-paldea-coiffeton-scelle-francais": {
       "id": "coffret-pokemon-collection-paldea-coiffeton-scelle-francais",
@@ -3405,7 +3811,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-paldea-chochodile-scelle-francais": {
       "id": "coffret-pokemon-collection-paldea-chochodile-scelle-francais",
@@ -3416,7 +3824,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-paldea-poussacha-scelle-francais": {
       "id": "coffret-pokemon-collection-paldea-poussacha-scelle-francais",
@@ -3427,7 +3837,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-mimiqui-ex-tempete-argentee-eb12-scelle-francais": {
       "id": "coffret-pokemon-mimiqui-ex-tempete-argentee-eb12-scelle-francais",
@@ -3438,7 +3850,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-tournois-premium-professeure-keteleeria-scelle-francais": {
       "id": "coffret-pokemon-tournois-premium-professeure-keteleeria-scelle-francais",
@@ -3449,7 +3863,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-tournois-premium-lilie-scelle-francais": {
       "id": "coffret-pokemon-tournois-premium-lilie-scelle-francais",
@@ -3460,7 +3876,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "blister-pokemon-origine-perdue-eb11-scelle-francais": {
       "id": "blister-pokemon-origine-perdue-eb11-scelle-francais",
@@ -3471,7 +3889,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-de-blister-pokemon-origine-perdue-eb11-scelle-francais": {
       "id": "case-de-blister-pokemon-origine-perdue-eb11-scelle-francais",
@@ -3482,7 +3902,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-origine-perdue-eb11-illustration-dimoret-scelle-francais": {
       "id": "tripack-pokemon-origine-perdue-eb11-illustration-dimoret-scelle-francais",
@@ -3493,7 +3915,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tripack-pokemon-origine-perdue-eb11-illustration-regigigas-scelle-francais": {
       "id": "tripack-pokemon-origine-perdue-eb11-illustration-regigigas-scelle-francais",
@@ -3504,7 +3928,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "case-12-tripacks-pokemon-origine-perdue-eb11-scelle-francais": {
       "id": "case-12-tripacks-pokemon-origine-perdue-eb11-scelle-francais",
@@ -3515,7 +3941,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "mini-tin-pokemon-pouvoir-de-kanto-illustration-aleatoire-scelle-francais": {
       "id": "mini-tin-pokemon-pouvoir-de-kanto-illustration-aleatoire-scelle-francais",
@@ -3526,7 +3954,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "duopack-pokemon-stars-etincelantes-origine-perdue-eb9-eb11-illustration-cleopsytra-scelle-francais": {
       "id": "duopack-pokemon-stars-etincelantes-origine-perdue-eb9-eb11-illustration-cleopsytra-scelle-francais",
@@ -3537,7 +3967,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-simiabraz-v-origine-perdue-eb11-scelle-francais": {
       "id": "coffret-pokemon-simiabraz-v-origine-perdue-eb11-scelle-francais",
@@ -3548,7 +3980,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-build-and-battle-origine-perdue-eb11-scelle-francais": {
       "id": "coffret-pokemon-build-and-battle-origine-perdue-eb11-scelle-francais",
@@ -3559,7 +3993,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "mini-tin-pokemon-amis-de-kanto-illustration-aleatoire-scelle-francais": {
       "id": "mini-tin-pokemon-amis-de-kanto-illustration-aleatoire-scelle-francais",
@@ -3570,7 +4006,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "tin-cube-pokemon-dracaufeu-victini-flambino-eb8-eb11-scelle-francais": {
       "id": "tin-cube-pokemon-dracaufeu-victini-flambino-eb8-eb11-scelle-francais",
@@ -3581,7 +4019,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-electrode-de-hisui-v-scelle-francais": {
       "id": "coffret-pokemon-electrode-de-hisui-v-scelle-francais",
@@ -3592,7 +4032,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "booster-pokemon-pokemon-go-eb10_5-scelle-francais": {
       "id": "booster-pokemon-pokemon-go-eb10_5-scelle-francais",
@@ -3603,7 +4045,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-pin-s-carapuce-pokemon-go-eb10_5-scelle-francais": {
       "id": "coffret-pokemon-collection-pin-s-carapuce-pokemon-go-eb10_5-scelle-francais",
@@ -3614,7 +4058,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-pin-s-salameche-pokemon-go-eb10_5-scelle-francais": {
       "id": "coffret-pokemon-collection-pin-s-salameche-pokemon-go-eb10_5-scelle-francais",
@@ -3625,7 +4071,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-pin-s-bulbizarre-pokemon-go-eb10_5-scelle-francais": {
       "id": "coffret-pokemon-collection-pin-s-bulbizarre-pokemon-go-eb10_5-scelle-francais",
@@ -3636,7 +4084,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-noadkoko-d-alola-v-pokemon-go-eb10_5-scelle-francais1": {
       "id": "coffret-pokemon-noadkoko-d-alola-v-pokemon-go-eb10_5-scelle-francais1",
@@ -3647,7 +4097,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-range-deck-honor-dracolosse-vstar-pokemon-go-eb10_5-scelle-francais": {
       "id": "coffret-pokemon-collection-range-deck-honor-dracolosse-vstar-pokemon-go-eb10_5-scelle-francais",
@@ -3658,7 +4110,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     },
     "coffret-pokemon-collection-speciale-equipe-instinct-pokemon-go-eb10_5-scelle-francais": {
       "id": "coffret-pokemon-collection-speciale-equipe-instinct-pokemon-go-eb10_5-scelle-francais",
@@ -3669,7 +4123,9 @@
       "item_category": "Pokémon / Produits scellés",
       "release_date": null,
       "first_seen_at": "2026-11-03T13:05:46+00:00",
-      "last_seen_at": "2026-11-03T13:05:46+00:00"
+      "last_seen_at": "2026-11-03T13:05:46+00:00",
+      "published_at": null,
+      "modified_at": null
     }
   },
   "pending": [
@@ -3683,7 +4139,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "02c5deefb1d708f3"
+      "event_id": "02c5deefb1d708f3",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-darkrai-scelle-francais",
@@ -3695,7 +4153,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "76fadaafb48bb40b"
+      "event_id": "76fadaafb48bb40b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-zeraora-scelle-francais",
@@ -3707,7 +4167,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "389babf20f101c26"
+      "event_id": "389babf20f101c26",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-minotaupe-scelle-francais",
@@ -3719,7 +4181,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5fb8d6c5d71129ed"
+      "event_id": "5fb8d6c5d71129ed",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-chaos-ascendant-me04-triple-illustration-mega-nemelios-scelle-francais",
@@ -3731,7 +4195,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "e051926bc57c323a"
+      "event_id": "e051926bc57c323a",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-chaos-ascendant-me04-scelle-francais",
@@ -3743,7 +4209,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "01657d3e1acac833"
+      "event_id": "01657d3e1acac833",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-illustration-premiers-partenaires-serie-2-scelle-francais",
@@ -3755,7 +4223,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "82c012db63df2087"
+      "event_id": "82c012db63df2087",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-melodelfe-scelle-francais",
@@ -3767,7 +4237,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "905e963effd0b4e3"
+      "event_id": "905e963effd0b4e3",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-staross-scelle-francais",
@@ -3779,7 +4251,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c7dc6305bd0ef5cc"
+      "event_id": "c7dc6305bd0ef5cc",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-illustration-premiers-partenaires-serie-1-scelle-francais",
@@ -3791,7 +4265,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "293c5b1a8bcc6a20"
+      "event_id": "293c5b1a8bcc6a20",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-journee-pokemon-2026-scelle-francais",
@@ -3803,7 +4279,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "48813919ec380f21"
+      "event_id": "48813919ec380f21",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-heros-transcendants-me02_5-scelle-francais",
@@ -3815,7 +4293,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "def8fc80d3676f0d"
+      "event_id": "def8fc80d3676f0d",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "display-10-mini-tins-pokemon-heros-transcendants-me02_5-scelle-francais",
@@ -3827,7 +4307,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4dfd77995429b408"
+      "event_id": "4dfd77995429b408",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-heros-transcendants-me02_5-scelle-francais",
@@ -3839,7 +4321,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "3824bd34d2f329e0"
+      "event_id": "3824bd34d2f329e0",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-avec-pin-s-deluxe-heros-transcendants-me02_5-scelle-francais",
@@ -3851,7 +4335,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "9dbf3ae67d9f84a1"
+      "event_id": "9dbf3ae67d9f84a1",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-coffret-mega-aligatueur-ex-heros-transcendants-me02_5-scelle-francais",
@@ -3863,7 +4349,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "43e942b15fc998ef"
+      "event_id": "43e942b15fc998ef",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-coffret-mega-roitiflam-ex-heros-transcendants-me02_5-scelle-francais",
@@ -3875,7 +4363,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "359dd1c08ce2f9ef"
+      "event_id": "359dd1c08ce2f9ef",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-coffret-mega-meganium-ex-heros-transcendants-me02_5-scelle-francais",
@@ -3887,7 +4377,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6cdbcbe5acb6fa8f"
+      "event_id": "6cdbcbe5acb6fa8f",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais",
@@ -3899,7 +4391,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "fd0735c3815de527"
+      "event_id": "fd0735c3815de527",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais",
@@ -3911,7 +4405,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "588b67f5a2ab97f2"
+      "event_id": "588b67f5a2ab97f2",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-mega-latias-ex-scelle-francais",
@@ -3923,7 +4419,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "011b79741af1def5"
+      "event_id": "011b79741af1def5",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-mega-evolution-de-base-me01-scelle-francais",
@@ -3935,7 +4433,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "e53602de3dfddc90"
+      "event_id": "e53602de3dfddc90",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-mega-evolution-de-base-me01-scelle-francais",
@@ -3947,7 +4447,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "50bf33fca2ce035b"
+      "event_id": "50bf33fca2ce035b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "display-10-mini-tins-pokemon-mega-evolution-me01-scelle-francais",
@@ -3959,7 +4461,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "7598a682c40aef82"
+      "event_id": "7598a682c40aef82",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-lucario-scelle-francais",
@@ -3971,7 +4475,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "97587c2406983723"
+      "event_id": "97587c2406983723",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-gardevoir-scelle-francais",
@@ -3983,7 +4489,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "bdaf4284c6a733fa"
+      "event_id": "bdaf4284c6a733fa",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-florizarre-scelle-francais",
@@ -3995,7 +4503,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c66b3e58f1b88004"
+      "event_id": "c66b3e58f1b88004",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-mega-evolution-de-base-me01-scelle-francais",
@@ -4007,7 +4517,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "10eb814cc59dcc04"
+      "event_id": "10eb814cc59dcc04",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-calendrier-des-fetes-2025-scelle-francais",
@@ -4019,7 +4531,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5b107fcfa0aa6783"
+      "event_id": "5b107fcfa0aa6783",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-flamme-blanche-ev10_5-scelle-francais",
@@ -4031,7 +4545,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "845949fbcdf543dd"
+      "event_id": "845949fbcdf543dd",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-foudre-noire-ev10_5-scelle-francais",
@@ -4043,7 +4559,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "dafbec1f5642f5c9"
+      "event_id": "dafbec1f5642f5c9",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-flamme-blanche-ev10_5-scelle-francais",
@@ -4055,7 +4573,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "55085b93ca97db22"
+      "event_id": "55085b93ca97db22",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-foudre-noire-ev10_5-scelle-francais",
@@ -4067,7 +4587,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8b16d86fd1cd00c5"
+      "event_id": "8b16d86fd1cd00c5",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "display-mini-tin-pokemon-foudre-noire-flamme-blanche-ev10_5-scelle-francais",
@@ -4079,7 +4601,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "13e6f45f18b544cb"
+      "event_id": "13e6f45f18b544cb",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-poster-foudre-noire-flamme-blanche-ev10_5-scelle-francais1",
@@ -4091,7 +4615,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4f7e738113fb26c2"
+      "event_id": "4f7e738113fb26c2",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-rivalites-destinees-ev10-scelle-francais1",
@@ -4103,7 +4629,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "a18989ddfd760736"
+      "event_id": "a18989ddfd760736",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-rivalites-destinees-ev10-scelle-francais",
@@ -4115,7 +4643,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "266abcdd383c538d"
+      "event_id": "266abcdd383c538d",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-rivalites-destinees-ev10-triple-illustration-team-rocket-scelle-francais",
@@ -4127,7 +4657,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "76e493341b349aeb"
+      "event_id": "76e493341b349aeb",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-rivalites-destinees-ev10-triple-illustration-carchacrok-de-cynthia-scelle-francais",
@@ -4139,7 +4671,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "65a2c3d2032ec4f8"
+      "event_id": "65a2c3d2032ec4f8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-rivalites-destinees-ev10-scelle-francais",
@@ -4151,7 +4685,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "ffa184d6ebdaa6ae"
+      "event_id": "ffa184d6ebdaa6ae",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-premium-carchacrok-ex-de-cynthia-scelle-francais1",
@@ -4163,7 +4699,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "0233b98aa47a818e"
+      "event_id": "0233b98aa47a818e",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-aventures-ensemble-ev9-scelle-francais",
@@ -4175,7 +4713,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b4c9177ac9777f78"
+      "event_id": "b4c9177ac9777f78",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-aventures-ensemble-ev09-triple-illustration-ampibidou-de-mashynn-scelle-francais",
@@ -4187,7 +4727,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "ed6c24502d5a6caa"
+      "event_id": "ed6c24502d5a6caa",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-aventures-ensemble-ev09-triple-illustration-zoroark-de-n-scelle-francais",
@@ -4199,7 +4741,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "f74e01783179502a"
+      "event_id": "f74e01783179502a",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-aventures-ensemble-ev09-scelle-francais",
@@ -4211,7 +4755,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "64a3d2be14e11240"
+      "event_id": "64a3d2be14e11240",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-evolutions-prismatiques-ev8_5-scelle-francais",
@@ -4223,7 +4769,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "fa568fe84ac69534"
+      "event_id": "fa568fe84ac69534",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "display-de-8-mini-tin-pokemon-evolutions-prismatiques-ev8_5-scelle-francais",
@@ -4235,7 +4783,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "136c1128bbeac620"
+      "event_id": "136c1128bbeac620",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-evolutions-prismatiques-ev08_5-scelle-francais",
@@ -4247,7 +4797,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "bf592c2f0787c98e"
+      "event_id": "bf592c2f0787c98e",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-poster-3-boosters-evolutions-prismatiques-ev8_5-scelle-francais",
@@ -4259,7 +4811,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4fd9b27032a68f87"
+      "event_id": "4fd9b27032a68f87",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-classeur-evolutions-prismatiques-ev08_5-scelle-francais",
@@ -4271,7 +4825,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "55bf6c76de5cdf50"
+      "event_id": "55bf6c76de5cdf50",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-premium-figurine-evolutions-prismatiques-scelle-francais",
@@ -4283,7 +4839,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "75b679c4c3078e71"
+      "event_id": "75b679c4c3078e71",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-carton-pokemon-etincelles-deferlantes-ev08-scelle-francais",
@@ -4295,7 +4853,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "d425e3ff1f20c193"
+      "event_id": "d425e3ff1f20c193",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-etincelles-deferlantes-ev8-scelle-francais",
@@ -4307,7 +4867,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c6d177770878fb73"
+      "event_id": "c6d177770878fb73",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-etincelles-deferlantes-ev8-scelle-francais",
@@ -4319,7 +4881,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8e5a4472d643bd67"
+      "event_id": "8e5a4472d643bd67",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-epee-bouclier-de-base-eb1-scelle-francais",
@@ -4331,7 +4895,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "42ff08d2485b29e6"
+      "event_id": "42ff08d2485b29e6",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-morpeko-scelle-francais",
@@ -4343,7 +4909,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "02b360d4fcf36af3"
+      "event_id": "02b360d4fcf36af3",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-ponyta-de-galar-scelle-francais",
@@ -4355,7 +4923,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6e2095379853988c"
+      "event_id": "6e2095379853988c",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-tournicoton-scelle-francais",
@@ -4367,7 +4937,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "096f0954c9b70be3"
+      "event_id": "096f0954c9b70be3",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-moumouton-scelle-francais",
@@ -4379,7 +4951,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "e9684bd32be54d28"
+      "event_id": "e9684bd32be54d28",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-epee-et-bouclier-de-base-eb01-scelle-francais",
@@ -4391,7 +4965,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b6d99a27f19ce5f6"
+      "event_id": "b6d99a27f19ce5f6",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-etincelles-deferlantes-ev8-illustration-electhor-scelle-francais",
@@ -4403,7 +4979,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5737f97f641da988"
+      "event_id": "5737f97f641da988",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-etincelles-deferlantes-ev08-scelle-francais",
@@ -4415,7 +4993,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "92514802dc06c142"
+      "event_id": "92514802dc06c142",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-valisette-coffre-aux-tresors-pikachu-teracristal-scelle-francais",
@@ -4427,7 +5007,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "53cb4745d7ba858d"
+      "event_id": "53cb4745d7ba858d",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-ultra-premium-amphinobi-scelle-francais",
@@ -4439,7 +5021,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "1ffb38146e38c331"
+      "event_id": "1ffb38146e38c331",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-couronne-stellaire-ev7-scelle-francais",
@@ -4451,7 +5035,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8b80e94cea833cdd"
+      "event_id": "8b80e94cea833cdd",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-couronne-stellaire-ev07-triple-illustration-pyrobut-scelle-francais",
@@ -4463,7 +5049,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "e40b7648e0a92ad4"
+      "event_id": "e40b7648e0a92ad4",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-couronne-stellaire-ev07-triple-illustration-terapagos-scelle-francais",
@@ -4475,7 +5063,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "9074b8404dc914de"
+      "event_id": "9074b8404dc914de",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-ultra-premium-terapagos-ex-scelle-francais",
@@ -4487,7 +5077,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "628f5bae6bce8e9d"
+      "event_id": "628f5bae6bce8e9d",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-calendrier-des-fetes-2024-scelle-francais",
@@ -4499,7 +5091,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "a2d9cc5430b7ccc8"
+      "event_id": "a2d9cc5430b7ccc8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-fable-nebuleuse-ev06_5-triple-illustration-felicanis-scelle-francais",
@@ -4511,7 +5105,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "bfedb44c90f7d0be"
+      "event_id": "bfedb44c90f7d0be",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-mascarade-crepusculaire-ev6-scelle-francais",
@@ -4523,7 +5119,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "a6149834265e6da8"
+      "event_id": "a6149834265e6da8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-mascarade-crepusculaire-ev6-scelle-francais",
@@ -4535,7 +5133,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5cb22d0c31a0f235"
+      "event_id": "5cb22d0c31a0f235",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-bug-pokemon-mascarade-crepusculaire-ev06-scelle-francais",
@@ -4547,7 +5147,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "38be4d59b04c3581"
+      "event_id": "38be4d59b04c3581",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-archeduc-ex-scelle-francais",
@@ -4559,7 +5161,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "f95ef51c7184e8be"
+      "event_id": "f95ef51c7184e8be",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-forces-temporelles-ev5-scelle-francais",
@@ -4571,7 +5175,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "df0e91eb0695d5d9"
+      "event_id": "df0e91eb0695d5d9",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-forces-temporelles-ev05-triple-illustration-ire-foudre-scelle-francais",
@@ -4583,7 +5189,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "df8100787935c64d"
+      "event_id": "df8100787935c64d",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-destinees-de-paldea-ev4_5-scelle-francais",
@@ -4595,7 +5203,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "579c7f217dc24514"
+      "event_id": "579c7f217dc24514",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "display-de-10-mini-tin-pokemon-destinees-de-paldea-ev4_5-scelle-francais",
@@ -4607,7 +5217,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "7dd3e1ea4d541349"
+      "event_id": "7dd3e1ea4d541349",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-bug-pokemon-destinees-de-paldea-ev04_5-scelle-francais",
@@ -4619,7 +5231,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "463af4f3afb97236"
+      "event_id": "463af4f3afb97236",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-destinees-de-paldea-ev04_5-triple-illustration-forgelina-scelle-francais",
@@ -4631,7 +5245,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5f769b42cc9b973f"
+      "event_id": "5f769b42cc9b973f",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-destinees-de-paldea-ev04_5-scelle-francais",
@@ -4643,7 +5259,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "29b5af0dabdf5f3d"
+      "event_id": "29b5af0dabdf5f3d",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "pokebox-pokemon-destinees-de-paldea-ev4_5-fort-ivoire-ex-scelle-francais",
@@ -4655,7 +5273,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4250f575cf6f1729"
+      "event_id": "4250f575cf6f1729",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "pokebox-pokemon-destinees-de-paldea-ev4_5-roue-de-fer-ex-scelle-francais",
@@ -4667,7 +5287,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "1bb97e154518bb75"
+      "event_id": "1bb97e154518bb75",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "pokebox-pokemon-destinees-de-paldea-ev4_5-dracaufeu-ex-scelle-francais",
@@ -4679,7 +5301,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "a93b20246abdd246"
+      "event_id": "a93b20246abdd246",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-premium-sagesse-paradoxe-scelle-francais",
@@ -4691,7 +5315,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "57ef6d084e824980"
+      "event_id": "57ef6d084e824980",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-faille-paradoxe-ev4-scelle-francais",
@@ -4703,7 +5329,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b3e0cb62610d05c4"
+      "event_id": "b3e0cb62610d05c4",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "display-pokemon-faille-paradoxe-ev4-scelle-francais",
@@ -4715,7 +5343,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "34c0ba06c9604fa3"
+      "event_id": "34c0ba06c9604fa3",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-caramadura-scelle-francais",
@@ -4727,7 +5357,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5f303395d81738ba"
+      "event_id": "5f303395d81738ba",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-gallame-scelle-francais",
@@ -4739,7 +5371,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "950ff0a5007bac9a"
+      "event_id": "950ff0a5007bac9a",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-carchacrok-scelle-francais",
@@ -4751,7 +5385,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "d789b697f263b6d5"
+      "event_id": "d789b697f263b6d5",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-faille-paradoxe-ev04-triple-illustration-rugit-lune-scelle-francais",
@@ -4763,7 +5399,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "748a3844c7d50086"
+      "event_id": "748a3844c7d50086",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-build-and-battle-faille-paradoxe-ev04-scelle-francais",
@@ -4775,7 +5413,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5f7a6fd6184fd8a7"
+      "event_id": "5f7a6fd6184fd8a7",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-151-ev3_5-scelle-francais",
@@ -4787,7 +5427,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "3101e641b2e02879"
+      "event_id": "3101e641b2e02879",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-alakazam-ex-151-ev03_5-scelle-francais",
@@ -4799,7 +5441,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5e1856b864ac4fe7"
+      "event_id": "5e1856b864ac4fe7",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-classeur-151-ev03_5-scelle-francais",
@@ -4811,7 +5455,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4bd33d6d3ec0adee"
+      "event_id": "4bd33d6d3ec0adee",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-poster-151-ev03_5-scelle-francais",
@@ -4823,7 +5469,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8ae86eb9bfb64359"
+      "event_id": "8ae86eb9bfb64359",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-electhor-ex-151-ev03_5-scelle-francais",
@@ -4835,7 +5483,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "52ce889db22500fe"
+      "event_id": "52ce889db22500fe",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-flammes-obsidiennes-ev3-scelle-francais",
@@ -4847,7 +5497,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "109092f04c96a27d"
+      "event_id": "109092f04c96a27d",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-flammes-obsidiennes-ev3-scelle-francais",
@@ -4859,7 +5511,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "e7797286c7c4b529"
+      "event_id": "e7797286c7c4b529",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-flammes-obsidiennes-ev03-triple-illustration-vrombotor-scelle-francais",
@@ -4871,7 +5525,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "dbef697dd63558c2"
+      "event_id": "dbef697dd63558c2",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-flammes-obsidiennes-ev03-scelle-francais",
@@ -4883,7 +5539,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "2ba7d5dc183ca0ef"
+      "event_id": "2ba7d5dc183ca0ef",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-build-and-battle-flammes-obsidiennes-ev03-scelle-francais",
@@ -4895,7 +5553,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "aee4483f0a19b765"
+      "event_id": "aee4483f0a19b765",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-calendrier-des-fetes-2023-scelle-francais",
@@ -4907,7 +5567,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "13ce60711d48e6fd"
+      "event_id": "13ce60711d48e6fd",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-valisette-coffre-aux-tresors-dracaufeu-scelle-francais",
@@ -4919,7 +5581,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "d079a93fccca59fb"
+      "event_id": "d079a93fccca59fb",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-evolutions-a-paldea-ev2-scelle-francais",
@@ -4931,7 +5595,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "fcefbe31b702beb0"
+      "event_id": "fcefbe31b702beb0",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-evolutions-a-paldea-ev2-scelle-francais",
@@ -4943,7 +5609,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "a8d89890795c2c00"
+      "event_id": "a8d89890795c2c00",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-baojian-scelle-francais",
@@ -4955,7 +5623,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "fe904f11bf462f0c"
+      "event_id": "fe904f11bf462f0c",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-miascarade-scelle-francais",
@@ -4967,7 +5637,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "0750dbaba834488b"
+      "event_id": "0750dbaba834488b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-evolutions-a-paldea-ev02-scelle-francais",
@@ -4979,7 +5651,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "2ed65893ef8b8c3e"
+      "event_id": "2ed65893ef8b8c3e",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-ecarlate-violet-ev1-scelle-francais",
@@ -4991,7 +5665,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "365fbdde71b08426"
+      "event_id": "365fbdde71b08426",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-ecarlate-violet-ev1-scelle-francais",
@@ -5003,7 +5679,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "29be84dc3fb0865b"
+      "event_id": "29be84dc3fb0865b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-starters-de-paldea-scelle-francais",
@@ -5015,7 +5693,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6a57f5c6a7ef0839"
+      "event_id": "6a57f5c6a7ef0839",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-koraidon-scelle-francais",
@@ -5027,7 +5707,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "efdb23649453c3a7"
+      "event_id": "efdb23649453c3a7",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-miraidon-scelle-francais",
@@ -5039,7 +5721,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "32c6428b1a6e9f4b"
+      "event_id": "32c6428b1a6e9f4b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-ecarlate-violet-de-base-ev01-triple-illustration-leviator-scelle-francais",
@@ -5051,7 +5735,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8816ab693db87302"
+      "event_id": "8816ab693db87302",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-ecarlate-violet-de-base-ev01-scelle-francais",
@@ -5063,7 +5749,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "2691a6a1b1c7f5ec"
+      "event_id": "2691a6a1b1c7f5ec",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-build-and-battle-ecarlate-violet-de-base-ev01-scelle-francais",
@@ -5075,7 +5763,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5e2234e473c2c89b"
+      "event_id": "5e2234e473c2c89b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-aventure-a-paldea-scelle-francais",
@@ -5087,7 +5777,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "f82143507d860545"
+      "event_id": "f82143507d860545",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-zenith-supreme-eb12_5-scelle-francais",
@@ -5099,7 +5791,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "31295818999ff535"
+      "event_id": "31295818999ff535",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-zenith-supreme-eb12_5-scelle-francais",
@@ -5111,7 +5805,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "d302a715d66475d3"
+      "event_id": "d302a715d66475d3",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "pokebox-pokemon-zenith-supreme-eb12_5-illustration-aleatoire-scelle-francais",
@@ -5123,7 +5819,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "d422352cb72b8de8"
+      "event_id": "d422352cb72b8de8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-speciale-equipe-bravoure-pokemon-go-eb10_5-scelle-francais",
@@ -5135,7 +5833,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "222c333b2f321ed0"
+      "event_id": "222c333b2f321ed0",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-speciale-equipe-sagesse-pokemon-go-eb10_5-scelle-francais",
@@ -5147,7 +5847,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "62bb4f75347f50d9"
+      "event_id": "62bb4f75347f50d9",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-astres-radieux-eb10-scelle-francais",
@@ -5159,7 +5861,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "f29d101597350afc"
+      "event_id": "f29d101597350afc",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-build-and-battle-astres-radieux-eb10-scelle-francais",
@@ -5171,7 +5875,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "72616b774b8d9ada"
+      "event_id": "72616b774b8d9ada",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-premium-palkia-originel-vstar-scelle-francais",
@@ -5183,7 +5889,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "ac1c4244552e6923"
+      "event_id": "ac1c4244552e6923",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-premium-dialga-originel-vstar-scelle-francais",
@@ -5195,7 +5903,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "ed45db3026ce05f7"
+      "event_id": "ed45db3026ce05f7",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-zeraora-vstar-vmax-scelle-francais",
@@ -5207,7 +5917,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4a467b8fcb2a0bf3"
+      "event_id": "4a467b8fcb2a0bf3",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-deoxys-vstar-vmax-scelle-francais",
@@ -5219,7 +5931,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "1d29a51fd01807a8"
+      "event_id": "1d29a51fd01807a8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-speciale-puissance-paradoxe-ex-scelle-francais",
@@ -5231,7 +5945,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "7ac1ee34b793381f"
+      "event_id": "7ac1ee34b793381f",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-stars-etincelantes-eb9-scelle-francais",
@@ -5243,7 +5959,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "781840ea23fe96bf"
+      "event_id": "781840ea23fe96bf",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-stars-etincelantes-eb9-scelle-francais",
@@ -5255,7 +5973,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c2f9a7de6200cc02"
+      "event_id": "c2f9a7de6200cc02",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-stars-etincelantes-eb09-illustration-givrali-scelle-francais",
@@ -5267,7 +5987,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "dc33db84065bd5cf"
+      "event_id": "dc33db84065bd5cf",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-stars-etincelantes-eb09-illustration-phyllali-scelle-francais",
@@ -5279,7 +6001,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "920f05db149b91d4"
+      "event_id": "920f05db149b91d4",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-build-and-battle-stars-etincelantes-eb9-scelle-francais",
@@ -5291,7 +6015,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6ce27632bcdf9916"
+      "event_id": "6ce27632bcdf9916",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-pikachu-v-stars-etincelantes-eb09-scelle-francais",
@@ -5303,7 +6029,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "52d3470b3492673e"
+      "event_id": "52d3470b3492673e",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-lucario-vstar-stars-etincelantes-eb09-scelle-francais",
@@ -5315,7 +6043,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "1274a81b972de0a7"
+      "event_id": "1274a81b972de0a7",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-fulgudog-v-eb09-scelle-francais",
@@ -5327,7 +6057,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "edd298939d12dad4"
+      "event_id": "edd298939d12dad4",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-figurine-arceus-v-scelle-francais",
@@ -5339,7 +6071,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b77b8d4c9170b36b"
+      "event_id": "b77b8d4c9170b36b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-speciale-morpeko-v-union-scelle-francais",
@@ -5351,7 +6085,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "86a2a582d584ade0"
+      "event_id": "86a2a582d584ade0",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-tournois-premium-helio-sophora-scelle-francais",
@@ -5363,7 +6099,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "43ee69033e2bd6c3"
+      "event_id": "43ee69033e2bd6c3",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-valisette-coffre-aux-tresors-arceus-scelle-francais",
@@ -5375,7 +6113,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c1a2459284f216b7"
+      "event_id": "c1a2459284f216b7",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-poing-de-fusion-eb8-scelle-francais",
@@ -5387,7 +6127,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "555fe9ed85d630a6"
+      "event_id": "555fe9ed85d630a6",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-poing-de-fusion-eb8-scelle-francais",
@@ -5399,7 +6141,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "975c983b70d1a6af"
+      "event_id": "975c983b70d1a6af",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-poing-de-fusion-eb8-scelle-francais",
@@ -5411,7 +6155,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b9fd3d6d35329bce"
+      "event_id": "b9fd3d6d35329bce",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-poing-de-fusion-eb08-scelle-francais",
@@ -5423,7 +6169,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "2e368a7ff2923bc8"
+      "event_id": "2e368a7ff2923bc8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "display-de-10-mini-tin-pokemon-stars-de-sinnoh-eb03-eb08-scelle-francais",
@@ -5435,7 +6183,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "3f5ad64dc45d2ddb"
+      "event_id": "3f5ad64dc45d2ddb",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-hoopa-v-poing-de-fusion-eb08-scelle-francais",
@@ -5447,7 +6197,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "49844d27e1923f63"
+      "event_id": "49844d27e1923f63",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-givrali-vstar-eb08-scelle-francais",
@@ -5459,7 +6211,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6b9c7de64fc18c52"
+      "event_id": "6b9c7de64fc18c52",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-phyllali-vstar-poing-de-fusion-eb08-scelle-francais",
@@ -5471,7 +6225,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "571e219c1d00d3dc"
+      "event_id": "571e219c1d00d3dc",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tin-cube-pokemon-fevrier-2022-eb05-eb07-eb08-scelle-francais",
@@ -5483,7 +6239,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b51aafbd29300cea"
+      "event_id": "b51aafbd29300cea",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-pin-s-zacian-niv_-x-celebrations-eb07_5-scelle-francais",
@@ -5495,7 +6253,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "3bf28b0995802a33"
+      "event_id": "3bf28b0995802a33",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-coffre-aux-tresors-celebrations-eb07_5-scelle-francais",
@@ -5507,7 +6267,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4dbada66c309d245"
+      "event_id": "4dbada66c309d245",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-premium-playmat-collection-pikachu-v-union-celebrations-eb07_5-scelle-francais",
@@ -5519,7 +6281,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8005c2d433f13fd9"
+      "event_id": "8005c2d433f13fd9",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-lanssorien-prime-celebrations-eb07_5-scelle-francais",
@@ -5531,7 +6295,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "cefd2017384710f8"
+      "event_id": "cefd2017384710f8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-nymphali-obscur-v-celebrations-eb07_5-scelle-francais",
@@ -5543,7 +6309,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c79fc88d9e4ce5f1"
+      "event_id": "c79fc88d9e4ce5f1",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-dracaufeu-v-de-peter-celebrations-eb07_5-scelle-francais",
@@ -5555,7 +6323,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "cefc6ffc7a585dfb"
+      "event_id": "cefc6ffc7a585dfb",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-evolution-celeste-eb7-scelle-francais",
@@ -5567,7 +6337,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "a625a0d2f8d9056b"
+      "event_id": "a625a0d2f8d9056b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "artset-de-booster-pokemon-evolution-celeste-eb7-scelle-francais",
@@ -5579,7 +6351,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "3e82710cfe130c18"
+      "event_id": "3e82710cfe130c18",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-dracaolosse-v-scelle-francais",
@@ -5591,7 +6365,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "7d162e15513c06fd"
+      "event_id": "7d162e15513c06fd",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-roigada-de-galar-v-evolution-celeste-eb07-scelle-francais",
@@ -5603,7 +6379,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "e16b8b111b9163af"
+      "event_id": "e16b8b111b9163af",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-academie-de-combat-scelle-francais",
@@ -5615,7 +6393,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b98e34f786b4b82e"
+      "event_id": "b98e34f786b4b82e",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-eevee-heroes-s6a-scelle-japonais",
@@ -5627,7 +6407,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "f671f37773b6d10f"
+      "event_id": "f671f37773b6d10f",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "artset-de-booster-pokemon-regne-de-glace-eb06-scelle-francais",
@@ -5639,7 +6421,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4ee509b02f43e58b"
+      "event_id": "4ee509b02f43e58b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-regne-de-glace-eb6-scelle-francais",
@@ -5651,7 +6435,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "d87217e1a497a9bd"
+      "event_id": "d87217e1a497a9bd",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-regne-de-glace-eb06-scelle-francais",
@@ -5663,7 +6449,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "a4050a1d898b14ab"
+      "event_id": "a4050a1d898b14ab",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-styles-de-combat-eb5-scelle-francais",
@@ -5675,7 +6463,9 @@
       "release_date": null,
       "cause": "commandes_ouvertes",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "84a15f9d190a09b9"
+      "event_id": "84a15f9d190a09b9",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-styles-de-combat-eb5-scelle-francais",
@@ -5687,7 +6477,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "86ece50955b791ab"
+      "event_id": "86ece50955b791ab",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-styles-de-combat-eb05-illustration-evoli-scelle-francais",
@@ -5699,7 +6491,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "200bd68fdff9622e"
+      "event_id": "200bd68fdff9622e",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-styles-de-combat-eb05-scelle-francais",
@@ -5711,7 +6505,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "9566396ff61df32a"
+      "event_id": "9566396ff61df32a",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-styles-de-combat-eb05-scelle-francais",
@@ -5723,7 +6519,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "e5adec6d54250c75"
+      "event_id": "e5adec6d54250c75",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-shifours-v-styles-de-combat-eb05-scelle-francais",
@@ -5735,7 +6533,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "332bcd66de0d842e"
+      "event_id": "332bcd66de0d842e",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-shifours-v-mille-poings-styles-de-combat-eb05-scelle-francais",
@@ -5747,7 +6547,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "906c92e95a3d0bcc"
+      "event_id": "906c92e95a3d0bcc",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-pomdrapi-v-epee-bouclier-scelle-francais",
@@ -5759,7 +6561,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "0372d887f0c9d25c"
+      "event_id": "0372d887f0c9d25c",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-destinees-radieuses-eb04_5-triple-illustration-dracaufeu-scelle-francais",
@@ -5771,7 +6575,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "1ceac152d17ebba1"
+      "event_id": "1ceac152d17ebba1",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-destinees-radieuses-eb04_5-illustration-polthegeist-scelle-francais",
@@ -5783,7 +6589,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "411cd6c9deb8cdac"
+      "event_id": "411cd6c9deb8cdac",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-destinees-radieuses-eb04_5-illustration-sapereau-scelle-francais",
@@ -5795,7 +6603,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "181b70df0b4c0549"
+      "event_id": "181b70df0b4c0549",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-voltage-eclatant-eb4-scelle-francais",
@@ -5807,7 +6617,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "bf06ec5e0eab2ad4"
+      "event_id": "bf06ec5e0eab2ad4",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-voltage-eclatant-eb4-scelle-francais",
@@ -5819,7 +6631,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "e23ca80f76a2657a"
+      "event_id": "e23ca80f76a2657a",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-voltage-eclatant-eb04-illustration-larmeleon-scelle-francais",
@@ -5831,7 +6645,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "bf0f80ca4fa576c1"
+      "event_id": "bf0f80ca4fa576c1",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "duopack-pokemon-clash-des-rebelles-voltage-eclatant-eb2-eb4-scelle-francais",
@@ -5843,7 +6659,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "3c20d6a1303b1022"
+      "event_id": "3c20d6a1303b1022",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-tenebres-embrasees-eb3-scelle-francais",
@@ -5855,7 +6673,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "178a02eb4a98ae0d"
+      "event_id": "178a02eb4a98ae0d",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-tenebres-embrasees-eb03-illustration-pyroli-scelle-francais",
@@ -5867,7 +6687,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "93a1fcfae4e614ed"
+      "event_id": "93a1fcfae4e614ed",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "duopack-pokemon-clash-des-rebelles-tenebres-embrasees-eb2-eb3-scelle-francais",
@@ -5879,7 +6701,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "1d43eb5ffa23c347"
+      "event_id": "1d43eb5ffa23c347",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "mini-tin-pokemon-puissance-de-galar-illustration-aleatoire-scelle-francais",
@@ -5891,7 +6715,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "846488f98f357717"
+      "event_id": "846488f98f357717",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-clash-des-rebelles-eb2-scelle-francais",
@@ -5903,7 +6729,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "d0af04fade43cc75"
+      "event_id": "d0af04fade43cc75",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-clash-des-rebelles-eb2-illustration-duralugon-scelle-francais1",
@@ -5915,7 +6743,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "ef079d6551f27a1b"
+      "event_id": "ef079d6551f27a1b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-clash-des-rebelles-eb02-scelle-francais",
@@ -5927,7 +6757,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4c782349be9e312b"
+      "event_id": "4c782349be9e312b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-pachyradjah-v-clash-des-rebelles-eb02-scelle-francais",
@@ -5939,7 +6771,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "734a14f229d4d336"
+      "event_id": "734a14f229d4d336",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "mini-tin-pokemon-amis-de-galar-illustration-aleatoire-scelle-francais",
@@ -5951,7 +6785,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "898b9707bddf02c8"
+      "event_id": "898b9707bddf02c8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-epee-bouclier-de-base-eb1-scelle-francais",
@@ -5963,7 +6799,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8be38b55d3ccc662"
+      "event_id": "8be38b55d3ccc662",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-regidrago-v-zenith-supreme-eb12_5-scelle-francais",
@@ -5975,7 +6813,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6094541eabb26bf0"
+      "event_id": "6094541eabb26bf0",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-regieleki-v-zenith-supreme-eb12_5-scelle-francais",
@@ -5987,7 +6827,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "908494b4273b7551"
+      "event_id": "908494b4273b7551",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-premium-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais",
@@ -5999,7 +6841,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "97599a17c0361742"
+      "event_id": "97599a17c0361742",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-speciale-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais",
@@ -6011,7 +6855,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "ed6f2bd5c5e0cdf5"
+      "event_id": "ed6f2bd5c5e0cdf5",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-premium-playmat-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais",
@@ -6023,7 +6869,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "bdc02ff31c635bca"
+      "event_id": "bdc02ff31c635bca",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-tresors-morpeko-v-union-zenith-supreme-eb12_5-scelle-francais",
@@ -6035,7 +6883,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "813ab29159decf81"
+      "event_id": "813ab29159decf81",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-tempete-argentee-eb12-scelle-francais",
@@ -6047,7 +6897,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "58274f9317ae0dc6"
+      "event_id": "58274f9317ae0dc6",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-tempete-argentee-eb12-scelle-francais",
@@ -6059,7 +6911,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "292a72d31487c290"
+      "event_id": "292a72d31487c290",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-tempete-argentee-eb12-illustration-togetic-scelle-francais",
@@ -6071,7 +6925,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "649a673d357b9805"
+      "event_id": "649a673d357b9805",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-tempete-argentee-eb12-illustration-manaphy-scelle-francais",
@@ -6083,7 +6939,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "f415eceba566befd"
+      "event_id": "f415eceba566befd",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-tempete-argentee-eb12-scelle-francais",
@@ -6095,7 +6953,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "831b5cba266f3da8"
+      "event_id": "831b5cba266f3da8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "duopack-bug-pokemon-evolution-celeste-tempete-argentee-eb7-eb12-scelle-francais",
@@ -6107,7 +6967,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "ac3eeb1d3de9e10e"
+      "event_id": "ac3eeb1d3de9e10e",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-paldea-coiffeton-scelle-francais",
@@ -6119,7 +6981,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c4f7525ce98f9399"
+      "event_id": "c4f7525ce98f9399",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-paldea-chochodile-scelle-francais",
@@ -6131,7 +6995,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "78de11ccf953ddf4"
+      "event_id": "78de11ccf953ddf4",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-paldea-poussacha-scelle-francais",
@@ -6143,7 +7009,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "f03ef9b071134e27"
+      "event_id": "f03ef9b071134e27",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-mimiqui-ex-tempete-argentee-eb12-scelle-francais",
@@ -6155,7 +7023,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b9b2ac7bf31cdfd8"
+      "event_id": "b9b2ac7bf31cdfd8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-tournois-premium-professeure-keteleeria-scelle-francais",
@@ -6167,7 +7037,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "814e6d13278c07e8"
+      "event_id": "814e6d13278c07e8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-tournois-premium-lilie-scelle-francais",
@@ -6179,7 +7051,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "72b2fca12f614fcd"
+      "event_id": "72b2fca12f614fcd",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "blister-pokemon-origine-perdue-eb11-scelle-francais",
@@ -6191,7 +7065,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b45cb3c3ae80c82f"
+      "event_id": "b45cb3c3ae80c82f",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-de-blister-pokemon-origine-perdue-eb11-scelle-francais",
@@ -6203,7 +7079,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "cd96dd65b04f6da1"
+      "event_id": "cd96dd65b04f6da1",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-origine-perdue-eb11-illustration-dimoret-scelle-francais",
@@ -6215,7 +7093,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "429569c8aa5e483e"
+      "event_id": "429569c8aa5e483e",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tripack-pokemon-origine-perdue-eb11-illustration-regigigas-scelle-francais",
@@ -6227,7 +7107,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "62aa8c9d2193397b"
+      "event_id": "62aa8c9d2193397b",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "case-12-tripacks-pokemon-origine-perdue-eb11-scelle-francais",
@@ -6239,7 +7121,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c8e6caaa348951fb"
+      "event_id": "c8e6caaa348951fb",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "mini-tin-pokemon-pouvoir-de-kanto-illustration-aleatoire-scelle-francais",
@@ -6251,7 +7135,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8b58ed05894f2e70"
+      "event_id": "8b58ed05894f2e70",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "duopack-pokemon-stars-etincelantes-origine-perdue-eb9-eb11-illustration-cleopsytra-scelle-francais",
@@ -6263,7 +7149,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "2bdd94d8c42083a2"
+      "event_id": "2bdd94d8c42083a2",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-simiabraz-v-origine-perdue-eb11-scelle-francais",
@@ -6275,7 +7163,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "a9a2b549c6f1bf20"
+      "event_id": "a9a2b549c6f1bf20",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-build-and-battle-origine-perdue-eb11-scelle-francais",
@@ -6287,7 +7177,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "58cef0c9dba33a3f"
+      "event_id": "58cef0c9dba33a3f",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "mini-tin-pokemon-amis-de-kanto-illustration-aleatoire-scelle-francais",
@@ -6299,7 +7191,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "2113b8b9e02e7272"
+      "event_id": "2113b8b9e02e7272",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "tin-cube-pokemon-dracaufeu-victini-flambino-eb8-eb11-scelle-francais",
@@ -6311,7 +7205,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "54857ce8eeeaaedf"
+      "event_id": "54857ce8eeeaaedf",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-electrode-de-hisui-v-scelle-francais",
@@ -6323,7 +7219,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "7e6e0ae75086b7c8"
+      "event_id": "7e6e0ae75086b7c8",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "booster-pokemon-pokemon-go-eb10_5-scelle-francais",
@@ -6335,7 +7233,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8d314c8c63676e9a"
+      "event_id": "8d314c8c63676e9a",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-pin-s-carapuce-pokemon-go-eb10_5-scelle-francais",
@@ -6347,7 +7247,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b35bf2a40e0d7d11"
+      "event_id": "b35bf2a40e0d7d11",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-pin-s-salameche-pokemon-go-eb10_5-scelle-francais",
@@ -6359,7 +7261,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "24a15576dfe15794"
+      "event_id": "24a15576dfe15794",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-pin-s-bulbizarre-pokemon-go-eb10_5-scelle-francais",
@@ -6371,7 +7275,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "55fb25d80c9ba6f3"
+      "event_id": "55fb25d80c9ba6f3",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-noadkoko-d-alola-v-pokemon-go-eb10_5-scelle-francais1",
@@ -6383,7 +7289,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "7a298f401eaef374"
+      "event_id": "7a298f401eaef374",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-range-deck-honor-dracolosse-vstar-pokemon-go-eb10_5-scelle-francais",
@@ -6395,7 +7303,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "24cef565d2e9e4e7"
+      "event_id": "24cef565d2e9e4e7",
+      "published_at": null,
+      "modified_at": null
     },
     {
       "id": "coffret-pokemon-collection-speciale-equipe-instinct-pokemon-go-eb10_5-scelle-francais",
@@ -6407,7 +7317,9 @@
       "release_date": null,
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "6667d2741e058487"
+      "event_id": "6667d2741e058487",
+      "published_at": null,
+      "modified_at": null
     }
   ],
   "sent": [
