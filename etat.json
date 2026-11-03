@@ -1837,20 +1837,6 @@
   },
   "pending": [
     {
-      "id": "99066",
-      "title": "Pokémon - Pokéball Automne 2025 (aléatoire) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pokeball-octobre-2025-aleatoire-en-francais/",
-      "price": 19.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T09:15:40+00:00",
-      "event_id": "863f4091a11a02cf",
-      "published_at": "2025-09-12T12:45:02+00:00",
-      "modified_at": "2026-11-03T09:12:12+00:00",
-      "release_date": null
-    },
-    {
       "id": "93522",
       "title": "Pokémon - Deck Combat Ex - Vert-de-Fer - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-ex-vert-de-fer-en-francais/",
@@ -3012,6 +2998,20 @@
       "event_id": "966b98883c82fb0e",
       "published_at": "2026-02-23T11:19:44+00:00",
       "modified_at": "2026-11-03T09:15:04+00:00",
+      "release_date": null
+    },
+    {
+      "id": "99066",
+      "title": "Pokémon - Pokéball Automne 2025 (aléatoire) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pokeball-octobre-2025-aleatoire-en-francais/",
+      "price": 19.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T09:15:40+00:00",
+      "event_id": "863f4091a11a02cf",
+      "published_at": "2025-09-12T12:45:02+00:00",
+      "modified_at": "2026-11-03T09:12:12+00:00",
       "release_date": null
     }
   ],
