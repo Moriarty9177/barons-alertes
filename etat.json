@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-florizarre-scelle-francais",
-      "title": "Tripack - Pokemon - Méga Évolution de base - ME01 - Triple Illustration Méga Florizarre - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-florizarre-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c66b3e58f1b88004",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "case-12-tripacks-pokemon-mega-evolution-de-base-me01-scelle-francais",
       "title": "Case 12 Tripacks - Pokemon - Méga Évolution de base - ME01 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-mega-evolution-de-base-me01-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "bdaf4284c6a733fa",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-florizarre-scelle-francais",
+      "title": "Tripack - Pokemon - Méga Évolution de base - ME01 - Triple Illustration Méga Florizarre - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-florizarre-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "c66b3e58f1b88004",
       "published_at": null,
       "modified_at": null
     }
