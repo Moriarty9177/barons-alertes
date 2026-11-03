@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "mini-tin-pokemon-amis-de-kanto-illustration-aleatoire-scelle-francais",
-      "title": "Mini Tin - Pokemon - Amis de Kanto - Illustration Aléatoire - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-amis-de-kanto-illustration-aleatoire-scelle-francais.html",
-      "price": 19.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "2113b8b9e02e7272",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tin-cube-pokemon-dracaufeu-victini-flambino-eb8-eb11-scelle-francais",
       "title": "Tin Cube - Pokemon - Octobre 2022 - EB8 & EB11 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tin-cube-pokemon-dracaufeu-victini-flambino-eb8-eb11-scelle-francais.html",
@@ -4271,20 +4257,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Flammes Fantasmagoriques - ME02 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais.html",
-      "price": 349.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "fd0735c3815de527",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais",
       "title": "Coffret - Pokemon - Collection Ultra Premium Méga-Dracaufeu X ex - Scellé - Français",
@@ -7068,6 +7040,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "58cef0c9dba33a3f",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "mini-tin-pokemon-amis-de-kanto-illustration-aleatoire-scelle-francais",
+      "title": "Mini Tin - Pokemon - Amis de Kanto - Illustration Aléatoire - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-amis-de-kanto-illustration-aleatoire-scelle-francais.html",
+      "price": 19.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "2113b8b9e02e7272",
       "published_at": null,
       "modified_at": null
     }
