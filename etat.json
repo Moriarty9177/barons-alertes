@@ -4147,20 +4147,6 @@
   },
   "pending": [
     {
-      "id": "display-pokemon-regne-delta-me06-scelle-francais",
-      "title": "[06-11-2026] Display - Pokemon - Règne Delta - ME06 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/display-pokemon-regne-delta-me06-scelle-francais.html",
-      "price": 219.9,
-      "availability": "precommande",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": "2026-11-06",
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-11-03T15:31:17+00:00",
-      "event_id": "fd93e5ea9f9d3a70",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "etb-pokemon-regne-delta-mega-rayquaza-me06-scelle-francais",
       "title": "[06-11-2026] ETB - Pokemon - Règne Delta - Méga-Rayquaza - ME06 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/etb-pokemon-regne-delta-mega-rayquaza-me06-scelle-francais.html",
@@ -4190,20 +4176,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "booster-pokemon-flamme-blanche-ev10_5-scelle-francais",
-      "title": "Booster - Pokemon - Flamme Blanche - EV10.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-flamme-blanche-ev10_5-scelle-francais.html",
-      "price": 9.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "845949fbcdf543dd",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "booster-pokemon-foudre-noire-ev10_5-scelle-francais",
       "title": "Booster - Pokemon - Foudre Noire - EV10.5 - Scellé - Français",
@@ -6987,6 +6959,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T14:10:54+00:00",
       "event_id": "904e036becb803d7",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "display-pokemon-regne-delta-me06-scelle-francais",
+      "title": "[06-11-2026] Display - Pokemon - Règne Delta - ME06 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/display-pokemon-regne-delta-me06-scelle-francais.html",
+      "price": 219.9,
+      "availability": "precommande",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": "2026-11-06",
+      "cause": "commandes_ouvertes",
+      "observed_at": "2026-11-03T15:31:17+00:00",
+      "event_id": "fd93e5ea9f9d3a70",
       "published_at": null,
       "modified_at": null
     }
