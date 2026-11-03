@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-pin-s-zacian-niv_-x-celebrations-eb07_5-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Pin's Zacian Niv. X - Célébrations - EB07.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-pin-s-zacian-niv_-x-celebrations-eb07_5-scelle-francais.html",
-      "price": 179.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "3bf28b0995802a33",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-coffre-aux-tresors-celebrations-eb07_5-scelle-francais",
       "title": "Coffret - Pokemon - Valisette coffre aux Trésors - Célébrations - EB07.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-coffre-aux-tresors-celebrations-eb07_5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "b51aafbd29300cea",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-pin-s-zacian-niv_-x-celebrations-eb07_5-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Pin's Zacian Niv. X - Célébrations - EB07.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-pin-s-zacian-niv_-x-celebrations-eb07_5-scelle-francais.html",
+      "price": 179.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "3bf28b0995802a33",
       "published_at": null,
       "modified_at": null
     }
