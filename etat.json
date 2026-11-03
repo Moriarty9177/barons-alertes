@@ -1863,20 +1863,6 @@
   },
   "pending": [
     {
-      "id": "174590",
-      "title": "Pokémon - Pack - 1 Bundle + 1 Display - Nuit Noire - ME05 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-bundle-1-display-nuit-noire-me05-en-francais/",
-      "price": 254.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T09:20:35+00:00",
-      "event_id": "8634b0c7a99ebc65",
-      "published_at": "2026-06-04T15:35:40+00:00",
-      "modified_at": "2026-11-03T09:15:38+00:00",
-      "release_date": null
-    },
-    {
       "id": "45400",
       "title": "Deck Combat de Ligue - Palkia Vstar Pokémon",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/deck-combat-de-ligue-palkia-vstar-pokemon/",
@@ -3066,6 +3052,20 @@
       "event_id": "db640e78fefd2d66",
       "published_at": "2025-08-04T16:01:20+00:00",
       "modified_at": "2026-11-03T09:13:00+00:00",
+      "release_date": null
+    },
+    {
+      "id": "174590",
+      "title": "Pokémon - Pack - 1 Bundle + 1 Display - Nuit Noire - ME05 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-bundle-1-display-nuit-noire-me05-en-francais/",
+      "price": 254.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T09:20:35+00:00",
+      "event_id": "8634b0c7a99ebc65",
+      "published_at": "2026-06-04T15:35:40+00:00",
+      "modified_at": "2026-11-03T09:15:38+00:00",
       "release_date": null
     }
   ],
