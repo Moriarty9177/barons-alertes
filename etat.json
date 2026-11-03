@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-lucario-vstar-stars-etincelantes-eb09-scelle-francais",
-      "title": "Coffret - Pokemon - Lucario VSTAR - Stars Étincelantes - EB09 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-lucario-vstar-stars-etincelantes-eb09-scelle-francais.html",
-      "price": 89.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "1274a81b972de0a7",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-fulgudog-v-eb09-scelle-francais",
       "title": "Coffret - Pokemon - Fulgudog V - Stars Étincelantes - EB09 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-fulgudog-v-eb09-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "52d3470b3492673e",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-lucario-vstar-stars-etincelantes-eb09-scelle-francais",
+      "title": "Coffret - Pokemon - Lucario VSTAR - Stars Étincelantes - EB09 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-lucario-vstar-stars-etincelantes-eb09-scelle-francais.html",
+      "price": 89.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "1274a81b972de0a7",
       "published_at": null,
       "modified_at": null
     }
