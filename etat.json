@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-poster-3-boosters-evolutions-prismatiques-ev8_5-scelle-francais",
-      "title": "Coffret - Pokemon - Poster + 3 Boosters - Évolutions Prismatiques - EV8.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-poster-3-boosters-evolutions-prismatiques-ev8_5-scelle-francais.html",
-      "price": 29.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4fd9b27032a68f87",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-classeur-evolutions-prismatiques-ev08_5-scelle-francais",
       "title": "Coffret - Pokemon - Collection Classeur - Évolutions Prismatiques - EV08.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-classeur-evolutions-prismatiques-ev08_5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "bf592c2f0787c98e",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-poster-3-boosters-evolutions-prismatiques-ev8_5-scelle-francais",
+      "title": "Coffret - Pokemon - Poster + 3 Boosters - Évolutions Prismatiques - EV8.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-poster-3-boosters-evolutions-prismatiques-ev8_5-scelle-francais.html",
+      "price": 29.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "4fd9b27032a68f87",
       "published_at": null,
       "modified_at": null
     }
