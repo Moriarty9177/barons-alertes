@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-speciale-equipe-bravoure-pokemon-go-eb10_5-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Spéciale : Équipe Bravoure - Pokémon GO - EB10.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-speciale-equipe-bravoure-pokemon-go-eb10_5-scelle-francais.html",
-      "price": 89.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "222c333b2f321ed0",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-speciale-equipe-sagesse-pokemon-go-eb10_5-scelle-francais",
       "title": "Coffret - Pokemon - Collection Spéciale : Équipe Sagesse - Pokémon GO - EB10.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-speciale-equipe-sagesse-pokemon-go-eb10_5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "d422352cb72b8de8",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-speciale-equipe-bravoure-pokemon-go-eb10_5-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Spéciale : Équipe Bravoure - Pokémon GO - EB10.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-speciale-equipe-bravoure-pokemon-go-eb10_5-scelle-francais.html",
+      "price": 89.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "222c333b2f321ed0",
       "published_at": null,
       "modified_at": null
     }
