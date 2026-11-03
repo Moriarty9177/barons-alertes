@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-12-tripacks-pokemon-foudre-noire-ev10_5-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Foudre Noire - EV10.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-foudre-noire-ev10_5-scelle-francais.html",
-      "price": 379.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "8b16d86fd1cd00c5",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "display-mini-tin-pokemon-foudre-noire-flamme-blanche-ev10_5-scelle-francais",
       "title": "Display Mini Tin - Pokemon - Foudre Noire & Flamme Blanche - EV10.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/display-mini-tin-pokemon-foudre-noire-flamme-blanche-ev10_5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "55085b93ca97db22",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-12-tripacks-pokemon-foudre-noire-ev10_5-scelle-francais",
+      "title": "Case 12 Tripacks - Pokemon - Foudre Noire - EV10.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-foudre-noire-ev10_5-scelle-francais.html",
+      "price": 379.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "8b16d86fd1cd00c5",
       "published_at": null,
       "modified_at": null
     }
