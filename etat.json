@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-12-tripacks-pokemon-destinees-de-paldea-ev04_5-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Destinées de Paldea - EV04.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-destinees-de-paldea-ev04_5-scelle-francais.html",
-      "price": 549.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "29b5af0dabdf5f3d",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "pokebox-pokemon-destinees-de-paldea-ev4_5-fort-ivoire-ex-scelle-francais",
       "title": "Pokébox - Pokemon - Destinées de Paldea - EV4.5 - Fort-Ivoire ex - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/pokebox-pokemon-destinees-de-paldea-ev4_5-fort-ivoire-ex-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "5f769b42cc9b973f",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-12-tripacks-pokemon-destinees-de-paldea-ev04_5-scelle-francais",
+      "title": "Case 12 Tripacks - Pokemon - Destinées de Paldea - EV04.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-destinees-de-paldea-ev04_5-scelle-francais.html",
+      "price": 549.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "29b5af0dabdf5f3d",
       "published_at": null,
       "modified_at": null
     }
