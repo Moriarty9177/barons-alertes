@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-de-blister-pokemon-stars-etincelantes-eb9-scelle-francais",
-      "title": "Case de Blister - Pokemon - Stars Étincelantes - EB09 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-stars-etincelantes-eb9-scelle-francais.html",
-      "price": 699.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c2f9a7de6200cc02",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-stars-etincelantes-eb09-illustration-givrali-scelle-francais",
       "title": "Tripack - Pokemon - Stars Étincelantes - EB09 - Illustration Givrali - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-stars-etincelantes-eb09-illustration-givrali-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "781840ea23fe96bf",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-de-blister-pokemon-stars-etincelantes-eb9-scelle-francais",
+      "title": "Case de Blister - Pokemon - Stars Étincelantes - EB09 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-stars-etincelantes-eb9-scelle-francais.html",
+      "price": 699.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "c2f9a7de6200cc02",
       "published_at": null,
       "modified_at": null
     }
