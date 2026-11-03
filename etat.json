@@ -1602,6 +1602,7 @@
       "modified_at": null
     }
   ],
-  "consecutive_failures": 0,
-  "last_success_at": "2026-11-03T12:55:32+00:00"
+  "consecutive_failures": 1,
+  "last_success_at": "2026-11-03T12:55:32+00:00",
+  "last_failure_at": "2026-11-03T13:01:20+00:00"
 }
