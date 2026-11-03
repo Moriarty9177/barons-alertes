@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-mimiqui-ex-tempete-argentee-eb12-scelle-francais",
-      "title": "Coffret - Pokemon - Mimiqui ex - Tempête Argentée - EB12 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-mimiqui-ex-tempete-argentee-eb12-scelle-francais.html",
-      "price": 54.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b9b2ac7bf31cdfd8",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-tournois-premium-professeure-keteleeria-scelle-francais",
       "title": "Coffret - Pokemon - Tournois Premium - Professeure Keteleeria - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-tournois-premium-professeure-keteleeria-scelle-francais.html",
@@ -4439,20 +4425,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-collection-illustration-premiers-partenaires-serie-2-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Série 2 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-illustration-premiers-partenaires-serie-2-scelle-francais.html",
-      "price": 34.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "82c012db63df2087",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-melodelfe-scelle-francais",
       "title": "Tripack - Pokemon - Équilibre Parfait - ME03 - Triple Illustration Méga Mélodelfe - Scellé - Français",
@@ -7236,6 +7208,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "f03ef9b071134e27",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-mimiqui-ex-tempete-argentee-eb12-scelle-francais",
+      "title": "Coffret - Pokemon - Mimiqui ex - Tempête Argentée - EB12 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-mimiqui-ex-tempete-argentee-eb12-scelle-francais.html",
+      "price": 54.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "b9b2ac7bf31cdfd8",
       "published_at": null,
       "modified_at": null
     }
