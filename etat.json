@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-electrode-de-hisui-v-scelle-francais",
-      "title": "Coffret - Pokemon - Électrode de Hisui V - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-electrode-de-hisui-v-scelle-francais.html",
-      "price": 54.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "7e6e0ae75086b7c8",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "booster-pokemon-pokemon-go-eb10_5-scelle-francais",
       "title": "Booster - Pokemon - Pokémon GO - EB10.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/booster-pokemon-pokemon-go-eb10_5-scelle-francais.html",
@@ -4243,20 +4229,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-mega-latias-ex-scelle-francais",
-      "title": "Coffret - Pokemon - Méga-Latias ex - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-mega-latias-ex-scelle-francais.html",
-      "price": 34.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "011b79741af1def5",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "blister-pokemon-mega-evolution-de-base-me01-scelle-francais",
       "title": "Blister - Pokemon - Méga-Evolution de Base - ME01 - Scellé - Français",
@@ -7040,6 +7012,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "54857ce8eeeaaedf",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-electrode-de-hisui-v-scelle-francais",
+      "title": "Coffret - Pokemon - Électrode de Hisui V - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-electrode-de-hisui-v-scelle-francais.html",
+      "price": 54.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "7e6e0ae75086b7c8",
       "published_at": null,
       "modified_at": null
     }
