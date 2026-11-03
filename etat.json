@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Flammes Fantasmagoriques - ME02 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais.html",
-      "price": 349.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "fd0735c3815de527",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais",
       "title": "Coffret - Pokemon - Collection Ultra Premium Méga-Dracaufeu X ex - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-ultra-premium-mega-dracaufeu-x-ex-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "6cdbcbe5acb6fa8f",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais",
+      "title": "Case 12 Tripacks - Pokemon - Flammes Fantasmagoriques - ME02 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-flammes-fantasmagoriques-me02-scelle-francais.html",
+      "price": 349.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "fd0735c3815de527",
       "published_at": null,
       "modified_at": null
     }
