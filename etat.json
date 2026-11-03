@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "booster-pokemon-styles-de-combat-eb5-scelle-francais",
-      "title": "Booster - Pokemon - Styles de Combat - EB05 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-styles-de-combat-eb5-scelle-francais.html",
-      "price": 14.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "84a15f9d190a09b9",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "blister-pokemon-styles-de-combat-eb5-scelle-francais",
       "title": "Blister - Pokemon - Styles de Combat - EB05 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/blister-pokemon-styles-de-combat-eb5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "a4050a1d898b14ab",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "booster-pokemon-styles-de-combat-eb5-scelle-francais",
+      "title": "Booster - Pokemon - Styles de Combat - EB05 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/booster-pokemon-styles-de-combat-eb5-scelle-francais.html",
+      "price": 14.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "commandes_ouvertes",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "84a15f9d190a09b9",
       "published_at": null,
       "modified_at": null
     }
