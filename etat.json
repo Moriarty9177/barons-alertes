@@ -1837,20 +1837,6 @@
   },
   "pending": [
     {
-      "id": "153073",
-      "title": "Pokémon - Bundle - Chaos Ascendant - ME04 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-chaos-ascendant-me04-en-francais/",
-      "price": 37.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T09:15:40+00:00",
-      "event_id": "63fcde2d46dd835d",
-      "published_at": "2026-03-30T15:25:41+00:00",
-      "modified_at": "2026-11-03T09:11:54+00:00",
-      "release_date": null
-    },
-    {
       "id": "152560",
       "title": "Pokémon - Pack - Duo de Tripack Equilibre Parfait ME03 + 1 display Equilibre Parfait ME03 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-duo-de-tripack-equilibre-parfait-me03-1-display-equilibre-parfait-me03-en-francais/",
@@ -3012,6 +2998,20 @@
       "event_id": "377d11afcb6f4f17",
       "published_at": "2026-10-30T10:11:49+00:00",
       "modified_at": "2026-11-02T14:31:13+00:00",
+      "release_date": null
+    },
+    {
+      "id": "153073",
+      "title": "Pokémon - Bundle - Chaos Ascendant - ME04 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-chaos-ascendant-me04-en-francais/",
+      "price": 37.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T09:15:40+00:00",
+      "event_id": "63fcde2d46dd835d",
+      "published_at": "2026-03-30T15:25:41+00:00",
+      "modified_at": "2026-11-03T09:11:54+00:00",
       "release_date": null
     }
   ],
