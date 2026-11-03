@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-morpeko-scelle-francais",
-      "title": "Tripack - Pokemon - Épée et Bouclier de Base - EB01 - Illustration Morpeko - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-morpeko-scelle-francais.html",
-      "price": 49.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "02b360d4fcf36af3",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-ponyta-de-galar-scelle-francais",
       "title": "Tripack - Pokemon - Épée et Bouclier de Base - EB01 - Illustration Ponyta de Galar - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-ponyta-de-galar-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "42ff08d2485b29e6",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-morpeko-scelle-francais",
+      "title": "Tripack - Pokemon - Épée et Bouclier de Base - EB01 - Illustration Morpeko - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-epee-et-bouclier-de-base-eb01-illustration-morpeko-scelle-francais.html",
+      "price": 49.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "02b360d4fcf36af3",
       "published_at": null,
       "modified_at": null
     }
