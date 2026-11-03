@@ -4141,37 +4141,8 @@
       "modified_at": null
     }
   },
-  "pending": [
-    {
-      "id": "pokebox-pokemon-legendes-de-galar-zacian-v-scelle-francais",
-      "title": "Pokébox - Pokemon - Légendes de Galar - Zacian V - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/pokebox-pokemon-legendes-de-galar-zacian-v-scelle-francais.html",
-      "price": 79.9,
-      "availability": "a_verifier",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T14:10:54+00:00",
-      "event_id": "904e036becb803d7",
-      "published_at": null,
-      "modified_at": null
-    }
-  ],
+  "pending": [],
   "sent": [
-    {
-      "id": "coffret-pokemon-calendrier-des-fetes-2025-scelle-francais",
-      "title": "Coffret - Pokemon - Calendrier des Fêtes 2025 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-calendrier-des-fetes-2025-scelle-francais.html",
-      "price": 79.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "5b107fcfa0aa6783",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "booster-pokemon-flamme-blanche-ev10_5-scelle-francais",
       "title": "Booster - Pokemon - Flamme Blanche - EV10.5 - Scellé - Français",
@@ -6955,6 +6926,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "6667d2741e058487",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "pokebox-pokemon-legendes-de-galar-zacian-v-scelle-francais",
+      "title": "Pokébox - Pokemon - Légendes de Galar - Zacian V - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/pokebox-pokemon-legendes-de-galar-zacian-v-scelle-francais.html",
+      "price": 79.9,
+      "availability": "a_verifier",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T14:10:54+00:00",
+      "event_id": "904e036becb803d7",
       "published_at": null,
       "modified_at": null
     }
