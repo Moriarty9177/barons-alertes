@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-tempete-argentee-eb12-illustration-togetic-scelle-francais",
-      "title": "Tripack - Pokemon - Tempête Argentée - EB12 - Illustration Togetic - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-tempete-argentee-eb12-illustration-togetic-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "649a673d357b9805",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-tempete-argentee-eb12-illustration-manaphy-scelle-francais",
       "title": "Tripack - Pokemon - Tempête Argentée - EB12 - Illustration Manaphy - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-tempete-argentee-eb12-illustration-manaphy-scelle-francais.html",
@@ -4537,20 +4523,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais",
-      "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais.html",
-      "price": 99.9,
-      "availability": "precommande",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": "2026-11-06",
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-11-03T10:50:40+00:00",
-      "event_id": "2ab5382e1faffdd6",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "tripack-pokemon-nuit-noire-me05-triple-illustration-lugulabre-scelle-francais",
       "title": "Tripack - Pokemon - Nuit Noire - ME05 - Triple Illustration Lugulabre - Scellé - Français",
@@ -7334,6 +7306,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "292a72d31487c290",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-tempete-argentee-eb12-illustration-togetic-scelle-francais",
+      "title": "Tripack - Pokemon - Tempête Argentée - EB12 - Illustration Togetic - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-tempete-argentee-eb12-illustration-togetic-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "649a673d357b9805",
       "published_at": null,
       "modified_at": null
     }
