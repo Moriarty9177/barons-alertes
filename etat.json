@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "blister-pokemon-forces-temporelles-ev5-scelle-francais",
-      "title": "Blister - Pokemon - Forces Temporelles - EV05 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/blister-pokemon-forces-temporelles-ev5-scelle-francais.html",
-      "price": 12.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "df0e91eb0695d5d9",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-forces-temporelles-ev05-triple-illustration-ire-foudre-scelle-francais",
       "title": "Tripack - Pokemon - Forces Temporelles - EV05 - Triple Illustration Ire-Foudre - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-forces-temporelles-ev05-triple-illustration-ire-foudre-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "f95ef51c7184e8be",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "blister-pokemon-forces-temporelles-ev5-scelle-francais",
+      "title": "Blister - Pokemon - Forces Temporelles - EV05 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/blister-pokemon-forces-temporelles-ev5-scelle-francais.html",
+      "price": 12.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "df0e91eb0695d5d9",
       "published_at": null,
       "modified_at": null
     }
