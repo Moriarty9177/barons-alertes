@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-baojian-scelle-francais",
-      "title": "Tripack - Pokemon - Évolutions à Paldea - EV02 - Triple Illustration Baojian - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-baojian-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "fe904f11bf462f0c",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-miascarade-scelle-francais",
       "title": "Tripack - Pokemon - Évolutions à Paldea - EV02 - Triple Illustration Miascarade - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-miascarade-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "a8d89890795c2c00",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-baojian-scelle-francais",
+      "title": "Tripack - Pokemon - Évolutions à Paldea - EV02 - Triple Illustration Baojian - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-evolutions-a-paldea-ev02-triple-illustration-baojian-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "fe904f11bf462f0c",
       "published_at": null,
       "modified_at": null
     }
