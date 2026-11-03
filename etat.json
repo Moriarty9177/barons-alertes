@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-bug-pokemon-destinees-de-paldea-ev04_5-scelle-francais",
-      "title": "Tripack Bug - Pokemon - Destinées de Paldea - EV04.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-bug-pokemon-destinees-de-paldea-ev04_5-scelle-francais.html",
-      "price": 59.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "463af4f3afb97236",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-destinees-de-paldea-ev04_5-triple-illustration-forgelina-scelle-francais",
       "title": "Tripack - Pokemon - Destinées de Paldea - EV04.5 - Triple Illustration Forgelina - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-destinees-de-paldea-ev04_5-triple-illustration-forgelina-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "7dd3e1ea4d541349",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-bug-pokemon-destinees-de-paldea-ev04_5-scelle-francais",
+      "title": "Tripack Bug - Pokemon - Destinées de Paldea - EV04.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-bug-pokemon-destinees-de-paldea-ev04_5-scelle-francais.html",
+      "price": 59.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "463af4f3afb97236",
       "published_at": null,
       "modified_at": null
     }
