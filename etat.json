@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-pin-s-bulbizarre-pokemon-go-eb10_5-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Pin's : Bulbizarre - Pokémon GO - EB10.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-pin-s-bulbizarre-pokemon-go-eb10_5-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "55fb25d80c9ba6f3",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-noadkoko-d-alola-v-pokemon-go-eb10_5-scelle-francais1",
       "title": "Coffret - Pokemon - Noadkoko d'Alola V - Pokémon GO - EB10.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-noadkoko-d-alola-v-pokemon-go-eb10_5-scelle-francais1.html",
@@ -4187,20 +4173,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-lucario-scelle-francais",
-      "title": "Tripack - Pokemon - Méga Évolution de base - ME01 - Triple Illustration Méga Lucario - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-lucario-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "97587c2406983723",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "tripack-pokemon-mega-evolution-de-base-me01-triple-illustration-mega-gardevoir-scelle-francais",
       "title": "Tripack - Pokemon - Méga Évolution de base - ME01 - Triple Illustration Méga Gardevoir - Scellé - Français",
@@ -6984,6 +6956,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "24a15576dfe15794",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-pin-s-bulbizarre-pokemon-go-eb10_5-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Pin's : Bulbizarre - Pokémon GO - EB10.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-pin-s-bulbizarre-pokemon-go-eb10_5-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "55fb25d80c9ba6f3",
       "published_at": null,
       "modified_at": null
     }
