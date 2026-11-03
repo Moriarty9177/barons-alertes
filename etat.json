@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "booster-pokemon-destinees-de-paldea-ev4_5-scelle-francais",
-      "title": "Booster - Pokemon - Destinées de Paldea - EV4.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-destinees-de-paldea-ev4_5-scelle-francais.html",
-      "price": 14.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "579c7f217dc24514",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "display-de-10-mini-tin-pokemon-destinees-de-paldea-ev4_5-scelle-francais",
       "title": "Display de 10 Mini Tin - Pokemon - Destinées de Paldea - EV4.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/display-de-10-mini-tin-pokemon-destinees-de-paldea-ev4_5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "df8100787935c64d",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "booster-pokemon-destinees-de-paldea-ev4_5-scelle-francais",
+      "title": "Booster - Pokemon - Destinées de Paldea - EV4.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/booster-pokemon-destinees-de-paldea-ev4_5-scelle-francais.html",
+      "price": 14.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "commandes_ouvertes",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "579c7f217dc24514",
       "published_at": null,
       "modified_at": null
     }
