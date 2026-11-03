@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-premium-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Premium Pikachu VMAX - Zénith Suprême - EB12.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais.html",
-      "price": 199.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "97599a17c0361742",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-speciale-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais",
       "title": "Coffret - Pokemon - Collection Spéciale Pikachu VMAX - Zénith Suprême - EB12.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-speciale-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais.html",
@@ -4621,20 +4607,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais",
-      "title": "ETB - Pokemon - Mascarade Crépusculaire - Ogerpon Masque Turquoise - EV6 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais.html",
-      "price": 64.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-30T10:15:52+00:00",
-      "event_id": "5e08b8c641433145",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais",
       "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
@@ -7418,6 +7390,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "908494b4273b7551",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-premium-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Premium Pikachu VMAX - Zénith Suprême - EB12.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-pikachu-vmax-zenith-supreme-eb12_5-scelle-francais.html",
+      "price": 199.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "97599a17c0361742",
       "published_at": null,
       "modified_at": null
     }
