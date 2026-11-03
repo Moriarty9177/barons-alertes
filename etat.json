@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-origine-perdue-eb11-illustration-dimoret-scelle-francais",
-      "title": "Tripack - Pokemon - Origine Perdue - EB11 - Illustration Dimoret - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-origine-perdue-eb11-illustration-dimoret-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "429569c8aa5e483e",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-origine-perdue-eb11-illustration-regigigas-scelle-francais",
       "title": "Tripack - Pokemon - Origine Perdue - EB11 - Illustration Regigigas - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-origine-perdue-eb11-illustration-regigigas-scelle-francais.html",
@@ -4369,20 +4355,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "booster-pokemon-heros-transcendants-me02_5-scelle-francais",
-      "title": "Booster - Pokemon - Héros Transcendants - ME02.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/booster-pokemon-heros-transcendants-me02_5-scelle-francais.html",
-      "price": 14.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "def8fc80d3676f0d",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "display-10-mini-tins-pokemon-heros-transcendants-me02_5-scelle-francais",
       "title": "Display 10 Mini Tins - Pokemon - Héros Transcendants - ME02.5 - Scellé - Français",
@@ -7166,6 +7138,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "cd96dd65b04f6da1",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-origine-perdue-eb11-illustration-dimoret-scelle-francais",
+      "title": "Tripack - Pokemon - Origine Perdue - EB11 - Illustration Dimoret - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-origine-perdue-eb11-illustration-dimoret-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "429569c8aa5e483e",
       "published_at": null,
       "modified_at": null
     }
