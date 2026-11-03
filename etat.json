@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-destinees-radieuses-eb04_5-illustration-sapereau-scelle-francais",
-      "title": "Tripack - Pokemon - Destinées Radieuses - EB04.5 - Illustration Sapereau - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-destinees-radieuses-eb04_5-illustration-sapereau-scelle-francais.html",
-      "price": 59.9,
-      "availability": "indisponible",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "181b70df0b4c0549",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "booster-pokemon-voltage-eclatant-eb4-scelle-francais",
       "title": "Booster - Pokemon - Voltage Éclatant - EB04 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/booster-pokemon-voltage-eclatant-eb4-scelle-francais.html",
@@ -4859,20 +4845,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "display-pokemon-chaos-ascendant-me04-scelle-francais",
-      "title": "Display - Pokemon - Chaos Ascendant - ME04 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/display-pokemon-chaos-ascendant-me04-scelle-francais.html",
-      "price": 219.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-13T08:45:47+00:00",
-      "event_id": "38d33f095f146ce7",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "plumier-pokemon-rentree-des-classes-scelle-francais",
       "title": "Plumier - Pokemon - Rentrée des classes - Scellé - Français",
@@ -7656,6 +7628,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "411cd6c9deb8cdac",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-destinees-radieuses-eb04_5-illustration-sapereau-scelle-francais",
+      "title": "Tripack - Pokemon - Destinées Radieuses - EB04.5 - Illustration Sapereau - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-destinees-radieuses-eb04_5-illustration-sapereau-scelle-francais.html",
+      "price": 59.9,
+      "availability": "indisponible",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "181b70df0b4c0549",
       "published_at": null,
       "modified_at": null
     }
