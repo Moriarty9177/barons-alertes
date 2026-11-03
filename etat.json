@@ -1835,22 +1835,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "93523",
-      "title": "Pokémon - Deck Combat Ex - Tokorico - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-ex-tokorico-en-francais/",
-      "price": 12.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T09:15:40+00:00",
-      "event_id": "db640e78fefd2d66",
-      "published_at": "2025-08-04T16:01:20+00:00",
-      "modified_at": "2026-11-03T09:13:00+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3012,6 +2997,20 @@
       "event_id": "c369a40139d466cb",
       "published_at": "2025-08-04T16:02:04+00:00",
       "modified_at": "2026-11-03T09:13:05+00:00",
+      "release_date": null
+    },
+    {
+      "id": "93523",
+      "title": "Pokémon - Deck Combat Ex - Tokorico - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-ex-tokorico-en-francais/",
+      "price": 12.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T09:15:40+00:00",
+      "event_id": "db640e78fefd2d66",
+      "published_at": "2025-08-04T16:01:20+00:00",
+      "modified_at": "2026-11-03T09:13:00+00:00",
       "release_date": null
     }
   ],
