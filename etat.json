@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-paldea-chochodile-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Paldea - Chochodile - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-paldea-chochodile-scelle-francais.html",
-      "price": 79.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "78de11ccf953ddf4",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-paldea-poussacha-scelle-francais",
       "title": "Coffret - Pokemon - Collection Paldea - Poussacha - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-paldea-poussacha-scelle-francais.html",
@@ -4467,20 +4453,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "tripack-pokemon-chaos-ascendant-me04-triple-illustration-mega-nemelios-scelle-francais",
-      "title": "Tripack - Pokemon - Chaos Ascendant - ME04 - Triple Illustration Méga Némélios - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-chaos-ascendant-me04-triple-illustration-mega-nemelios-scelle-francais.html",
-      "price": 29.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "e051926bc57c323a",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "case-12-tripacks-pokemon-chaos-ascendant-me04-scelle-francais",
       "title": "Case 12 Tripacks - Pokemon - Chaos Ascendant - ME04 - Scellé - Français",
@@ -7264,6 +7236,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "c4f7525ce98f9399",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-paldea-chochodile-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Paldea - Chochodile - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-paldea-chochodile-scelle-francais.html",
+      "price": 79.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "78de11ccf953ddf4",
       "published_at": null,
       "modified_at": null
     }
