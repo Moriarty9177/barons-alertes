@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-lanssorien-prime-celebrations-eb07_5-scelle-francais",
-      "title": "Coffret - Pokemon - Lanssorien Prime - Célébrations - EB07.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-lanssorien-prime-celebrations-eb07_5-scelle-francais.html",
-      "price": 99.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "cefd2017384710f8",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-nymphali-obscur-v-celebrations-eb07_5-scelle-francais",
       "title": "Coffret - Pokemon - Nymphali Obscur V - Célébrations - EB07.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-nymphali-obscur-v-celebrations-eb07_5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "8005c2d433f13fd9",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-lanssorien-prime-celebrations-eb07_5-scelle-francais",
+      "title": "Coffret - Pokemon - Lanssorien Prime - Célébrations - EB07.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-lanssorien-prime-celebrations-eb07_5-scelle-francais.html",
+      "price": 99.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "cefd2017384710f8",
       "published_at": null,
       "modified_at": null
     }
