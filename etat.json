@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-journee-pokemon-2026-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Journée Pokémon 2026 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-journee-pokemon-2026-scelle-francais.html",
-      "price": 34.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "48813919ec380f21",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "booster-pokemon-heros-transcendants-me02_5-scelle-francais",
       "title": "Booster - Pokemon - Héros Transcendants - ME02.5 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/booster-pokemon-heros-transcendants-me02_5-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "293c5b1a8bcc6a20",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-journee-pokemon-2026-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Journée Pokémon 2026 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-journee-pokemon-2026-scelle-francais.html",
+      "price": 34.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "48813919ec380f21",
       "published_at": null,
       "modified_at": null
     }
