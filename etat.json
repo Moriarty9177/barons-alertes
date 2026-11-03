@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-simiabraz-v-origine-perdue-eb11-scelle-francais",
-      "title": "Coffret - Pokemon - Simiabraz V - Origine Perdue - EB11 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-simiabraz-v-origine-perdue-eb11-scelle-francais.html",
-      "price": 49.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "a9a2b549c6f1bf20",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-build-and-battle-origine-perdue-eb11-scelle-francais",
       "title": "Coffret - Pokemon - Build and Battle - Origine Perdue - EB11 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-build-and-battle-origine-perdue-eb11-scelle-francais.html",
@@ -4299,20 +4285,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-coffret-mega-roitiflam-ex-heros-transcendants-me02_5-scelle-francais",
-      "title": "Coffret - Pokemon - Coffret Méga-Roitiflam ex - Héros Transcendants - ME02.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-coffret-mega-roitiflam-ex-heros-transcendants-me02_5-scelle-francais.html",
-      "price": 54.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "359dd1c08ce2f9ef",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-coffret-mega-meganium-ex-heros-transcendants-me02_5-scelle-francais",
       "title": "Coffret - Pokemon - Coffret Méga-Méganium ex - Héros Transcendants - ME02.5 - Scellé - Français",
@@ -7096,6 +7068,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "2bdd94d8c42083a2",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-simiabraz-v-origine-perdue-eb11-scelle-francais",
+      "title": "Coffret - Pokemon - Simiabraz V - Origine Perdue - EB11 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-simiabraz-v-origine-perdue-eb11-scelle-francais.html",
+      "price": 49.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "a9a2b549c6f1bf20",
       "published_at": null,
       "modified_at": null
     }
