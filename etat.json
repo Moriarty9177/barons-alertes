@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-staross-scelle-francais",
-      "title": "Tripack - Pokemon - Équilibre Parfait - ME03 - Triple Illustration Méga Staross - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-staross-scelle-francais.html",
-      "price": 29.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "c7dc6305bd0ef5cc",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-illustration-premiers-partenaires-serie-1-scelle-francais",
       "title": "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Série 1 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-illustration-premiers-partenaires-serie-1-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "905e963effd0b4e3",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-staross-scelle-francais",
+      "title": "Tripack - Pokemon - Équilibre Parfait - ME03 - Triple Illustration Méga Staross - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-staross-scelle-francais.html",
+      "price": 29.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "c7dc6305bd0ef5cc",
       "published_at": null,
       "modified_at": null
     }
