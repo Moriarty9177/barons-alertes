@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-premium-figurine-evolutions-prismatiques-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Premium Figurine Évolutions Prismatiques - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-figurine-evolutions-prismatiques-scelle-francais.html",
-      "price": 159.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "75b679c4c3078e71",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "blister-carton-pokemon-etincelles-deferlantes-ev08-scelle-francais",
       "title": "Blister Carton - Pokemon - Étincelles Déferlantes - EV08 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/blister-carton-pokemon-etincelles-deferlantes-ev08-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "55bf6c76de5cdf50",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-premium-figurine-evolutions-prismatiques-scelle-francais",
+      "title": "Coffret - Pokemon - Collection Premium Figurine Évolutions Prismatiques - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-figurine-evolutions-prismatiques-scelle-francais.html",
+      "price": 159.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "75b679c4c3078e71",
       "published_at": null,
       "modified_at": null
     }
