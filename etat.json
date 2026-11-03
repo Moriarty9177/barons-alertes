@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "mini-tin-pokemon-amis-de-galar-illustration-aleatoire-scelle-francais",
-      "title": "Mini Tin - Pokemon - Amis de Galar - Illustration Aléatoire - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-amis-de-galar-illustration-aleatoire-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "898b9707bddf02c8",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "booster-pokemon-epee-bouclier-de-base-eb1-scelle-francais",
       "title": "Booster - Pokemon - Épée & Bouclier de base - EB01 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/booster-pokemon-epee-bouclier-de-base-eb1-scelle-francais.html",
@@ -4677,20 +4663,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-collection-figurine-mew-30e-anniversaire-me05_5-scelle-francais",
-      "title": "[06-11-2026] Coffret - Pokemon - Collection Figurine Mew - 30e Anniversaire - ME05.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-figurine-mew-30e-anniversaire-me05_5-scelle-francais.html",
-      "price": 74.9,
-      "availability": "precommande",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": "2026-11-06",
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-29T08:01:16+00:00",
-      "event_id": "cf086ce358f4115b",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais",
       "title": "ETB - Pokemon - Mascarade Crépusculaire - Ogerpon Masque Turquoise - EV6 - Scellé - Français",
@@ -7474,6 +7446,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "734a14f229d4d336",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "mini-tin-pokemon-amis-de-galar-illustration-aleatoire-scelle-francais",
+      "title": "Mini Tin - Pokemon - Amis de Galar - Illustration Aléatoire - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-amis-de-galar-illustration-aleatoire-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "898b9707bddf02c8",
       "published_at": null,
       "modified_at": null
     }
