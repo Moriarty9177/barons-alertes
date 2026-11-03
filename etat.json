@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "tripack-pokemon-fable-nebuleuse-ev06_5-triple-illustration-felicanis-scelle-francais",
-      "title": "Tripack - Pokemon - Fable Nébuleuse - EV06.5 - Triple Illustration Félicanis - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-fable-nebuleuse-ev06_5-triple-illustration-felicanis-scelle-francais.html",
-      "price": 49.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "bfedb44c90f7d0be",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "blister-pokemon-mascarade-crepusculaire-ev6-scelle-francais",
       "title": "Blister - Pokemon - Mascarade Crépusculaire - EV06 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/blister-pokemon-mascarade-crepusculaire-ev6-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "a2d9cc5430b7ccc8",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "tripack-pokemon-fable-nebuleuse-ev06_5-triple-illustration-felicanis-scelle-francais",
+      "title": "Tripack - Pokemon - Fable Nébuleuse - EV06.5 - Triple Illustration Félicanis - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/tripack-pokemon-fable-nebuleuse-ev06_5-triple-illustration-felicanis-scelle-francais.html",
+      "price": 49.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "bfedb44c90f7d0be",
       "published_at": null,
       "modified_at": null
     }
