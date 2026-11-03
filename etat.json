@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-12-tripacks-pokemon-rivalites-destinees-ev10-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Rivalités Destinées - EV10 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-rivalites-destinees-ev10-scelle-francais.html",
-      "price": 419.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "ffa184d6ebdaa6ae",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-collection-premium-carchacrok-ex-de-cynthia-scelle-francais1",
       "title": "Coffret - Pokemon - Collection Premium Carchacrok ex de Cynthia - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-premium-carchacrok-ex-de-cynthia-scelle-francais1.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "65a2c3d2032ec4f8",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-12-tripacks-pokemon-rivalites-destinees-ev10-scelle-francais",
+      "title": "Case 12 Tripacks - Pokemon - Rivalités Destinées - EV10 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-rivalites-destinees-ev10-scelle-francais.html",
+      "price": 419.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "ffa184d6ebdaa6ae",
       "published_at": null,
       "modified_at": null
     }
