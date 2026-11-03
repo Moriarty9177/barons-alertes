@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "blister-pokemon-origine-perdue-eb11-scelle-francais",
-      "title": "Blister - Pokemon - Origine Perdue - EB11 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/blister-pokemon-origine-perdue-eb11-scelle-francais.html",
-      "price": 19.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b45cb3c3ae80c82f",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "case-de-blister-pokemon-origine-perdue-eb11-scelle-francais",
       "title": "Case de Blister - Pokemon - Origine Perdue - EB11 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-origine-perdue-eb11-scelle-francais.html",
@@ -4397,20 +4383,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "coffret-pokemon-collection-illustration-premiers-partenaires-serie-1-scelle-francais",
-      "title": "Coffret - Pokemon - Collection Illustration Premiers Partenaires - Série 1 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-illustration-premiers-partenaires-serie-1-scelle-francais.html",
-      "price": 49.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "293c5b1a8bcc6a20",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-collection-journee-pokemon-2026-scelle-francais",
       "title": "Coffret - Pokemon - Collection Journée Pokémon 2026 - Scellé - Français",
@@ -7194,6 +7166,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "72b2fca12f614fcd",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "blister-pokemon-origine-perdue-eb11-scelle-francais",
+      "title": "Blister - Pokemon - Origine Perdue - EB11 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/blister-pokemon-origine-perdue-eb11-scelle-francais.html",
+      "price": 19.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "b45cb3c3ae80c82f",
       "published_at": null,
       "modified_at": null
     }
