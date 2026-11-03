@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "mini-tin-pokemon-puissance-de-galar-illustration-aleatoire-scelle-francais",
-      "title": "Mini Tin - Pokemon - Puissance de Galar - Illustration Aléatoire - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-puissance-de-galar-illustration-aleatoire-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "846488f98f357717",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "blister-pokemon-clash-des-rebelles-eb2-scelle-francais",
       "title": "Blister - Pokemon - Clash des Rebelles - EB02 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/blister-pokemon-clash-des-rebelles-eb2-scelle-francais.html",
@@ -4747,20 +4733,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais",
-      "title": "ETB - Pokemon - Mascarade Crépusculaire - Ogerpon Masque Turquoise - EV6 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/etb-pokemon-mascarade-crepusculaire-ogerpon-masque-turquoise-ev6-scelle-francais.html",
-      "price": 64.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "commandes_ouvertes",
-      "observed_at": "2026-10-23T08:25:36+00:00",
-      "event_id": "54a36824cb8ce140",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-bundle-regne-delta-me06-scelle-francais",
       "title": "[06-11-2026] Coffret - Pokemon - Bundle - Règne Delta - ME06 - Scellé - Français",
@@ -7544,6 +7516,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "1d43eb5ffa23c347",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "mini-tin-pokemon-puissance-de-galar-illustration-aleatoire-scelle-francais",
+      "title": "Mini Tin - Pokemon - Puissance de Galar - Illustration Aléatoire - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/mini-tin-pokemon-puissance-de-galar-illustration-aleatoire-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "846488f98f357717",
       "published_at": null,
       "modified_at": null
     }
