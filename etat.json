@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-de-blister-pokemon-poing-de-fusion-eb8-scelle-francais",
-      "title": "Case de Blister - Pokemon - Poing de Fusion - EB08 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-poing-de-fusion-eb8-scelle-francais.html",
-      "price": 1199.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "b9fd3d6d35329bce",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "case-12-tripacks-pokemon-poing-de-fusion-eb08-scelle-francais",
       "title": "Case 12 Tripacks - Pokemon - Poing de Fusion - EB08 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-poing-de-fusion-eb08-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "975c983b70d1a6af",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-de-blister-pokemon-poing-de-fusion-eb8-scelle-francais",
+      "title": "Case de Blister - Pokemon - Poing de Fusion - EB08 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-de-blister-pokemon-poing-de-fusion-eb8-scelle-francais.html",
+      "price": 1199.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "b9fd3d6d35329bce",
       "published_at": null,
       "modified_at": null
     }
