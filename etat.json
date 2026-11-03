@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "case-12-tripacks-pokemon-tempete-argentee-eb12-scelle-francais",
-      "title": "Case 12 Tripacks - Pokemon - Tempête Argentée - EB12 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-tempete-argentee-eb12-scelle-francais.html",
-      "price": 479.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "831b5cba266f3da8",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "duopack-bug-pokemon-evolution-celeste-tempete-argentee-eb7-eb12-scelle-francais",
       "title": "Duopack Bug - Pokemon - Évolution Céleste & Tempête Argentée - EB7 & EB12 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/duopack-bug-pokemon-evolution-celeste-tempete-argentee-eb7-eb12-scelle-francais.html",
@@ -4509,20 +4495,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-darkrai-scelle-francais",
-      "title": "Tripack - Pokemon - Nuit Noire - ME05 - Triple Illustration Méga Darkrai - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-nuit-noire-me05-triple-illustration-mega-darkrai-scelle-francais.html",
-      "price": 29.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "76fadaafb48bb40b",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "tripack-pokemon-nuit-noire-me05-triple-illustration-mega-zeraora-scelle-francais",
       "title": "Tripack - Pokemon - Nuit Noire - ME05 - Triple Illustration Méga Zeraora - Scellé - Français",
@@ -7306,6 +7278,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "f415eceba566befd",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "case-12-tripacks-pokemon-tempete-argentee-eb12-scelle-francais",
+      "title": "Case 12 Tripacks - Pokemon - Tempête Argentée - EB12 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/case-12-tripacks-pokemon-tempete-argentee-eb12-scelle-francais.html",
+      "price": 479.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "831b5cba266f3da8",
       "published_at": null,
       "modified_at": null
     }
