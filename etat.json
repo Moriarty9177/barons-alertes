@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-hoopa-v-poing-de-fusion-eb08-scelle-francais",
-      "title": "Coffret - Pokemon - Hoopa V - Poing de Fusion - EB08 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-hoopa-v-poing-de-fusion-eb08-scelle-francais.html",
-      "price": 74.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "49844d27e1923f63",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-givrali-vstar-eb08-scelle-francais",
       "title": "Coffret - Pokemon - Givrali VSTAR - Poing de Fusion - EB08 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-givrali-vstar-eb08-scelle-francais.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "3f5ad64dc45d2ddb",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-hoopa-v-poing-de-fusion-eb08-scelle-francais",
+      "title": "Coffret - Pokemon - Hoopa V - Poing de Fusion - EB08 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-hoopa-v-poing-de-fusion-eb08-scelle-francais.html",
+      "price": 74.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "49844d27e1923f63",
       "published_at": null,
       "modified_at": null
     }
