@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-tournois-premium-professeure-keteleeria-scelle-francais",
-      "title": "Coffret - Pokemon - Tournois Premium - Professeure Keteleeria - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-tournois-premium-professeure-keteleeria-scelle-francais.html",
-      "price": 109.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "814e6d13278c07e8",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "coffret-pokemon-tournois-premium-lilie-scelle-francais",
       "title": "Coffret - Pokemon - Tournois Premium - Lilie - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/coffret-pokemon-tournois-premium-lilie-scelle-francais.html",
@@ -4425,20 +4411,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-melodelfe-scelle-francais",
-      "title": "Tripack - Pokemon - Équilibre Parfait - ME03 - Triple Illustration Méga Mélodelfe - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-melodelfe-scelle-francais.html",
-      "price": 29.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "905e963effd0b4e3",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "tripack-pokemon-equilibre-parfait-me03-triple-illustration-mega-staross-scelle-francais",
       "title": "Tripack - Pokemon - Équilibre Parfait - ME03 - Triple Illustration Méga Staross - Scellé - Français",
@@ -7222,6 +7194,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "b9b2ac7bf31cdfd8",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-tournois-premium-professeure-keteleeria-scelle-francais",
+      "title": "Coffret - Pokemon - Tournois Premium - Professeure Keteleeria - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-tournois-premium-professeure-keteleeria-scelle-francais.html",
+      "price": 109.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "814e6d13278c07e8",
       "published_at": null,
       "modified_at": null
     }
