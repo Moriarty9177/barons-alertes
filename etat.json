@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "blister-pokemon-voltage-eclatant-eb4-scelle-francais",
-      "title": "Blister - Pokemon - Voltage Éclatant - EB04 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/blister-pokemon-voltage-eclatant-eb4-scelle-francais.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "e23ca80f76a2657a",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "tripack-pokemon-voltage-eclatant-eb04-illustration-larmeleon-scelle-francais",
       "title": "Tripack - Pokemon - Voltage Éclatant - EB04 - Illustration Larméléon - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/tripack-pokemon-voltage-eclatant-eb04-illustration-larmeleon-scelle-francais.html",
@@ -4831,20 +4817,6 @@
     }
   ],
   "sent": [
-    {
-      "id": "pokebox-pokemon-nigosier-v-destinees-radieuses-eb04_5-scelle-francais",
-      "title": "Pokébox - Pokemon - Nigosier V - Destinées Radieuses - EB04.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/pokebox-pokemon-nigosier-v-destinees-radieuses-eb04_5-scelle-francais.html",
-      "price": 79.9,
-      "availability": "indisponible",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-10-14T16:20:45+00:00",
-      "event_id": "a03c66300964f560",
-      "published_at": null,
-      "modified_at": null
-    },
     {
       "id": "coffret-pokemon-collection-premium-metamorph-30e-anniversaire-me05_5-scelle-francais",
       "title": "[06-11-2026] Coffret - Pokemon - Collection Premium Metamorph - 30e Anniversaire - ME05.5 - Scellé - Français",
@@ -7628,6 +7600,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "bf06ec5e0eab2ad4",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "blister-pokemon-voltage-eclatant-eb4-scelle-francais",
+      "title": "Blister - Pokemon - Voltage Éclatant - EB04 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/blister-pokemon-voltage-eclatant-eb4-scelle-francais.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "e23ca80f76a2657a",
       "published_at": null,
       "modified_at": null
     }
