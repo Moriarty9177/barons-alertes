@@ -4130,20 +4130,6 @@
   },
   "pending": [
     {
-      "id": "coffret-pokemon-collection-poster-foudre-noire-flamme-blanche-ev10_5-scelle-francais1",
-      "title": "Coffret - Pokemon - Collection Poster - Foudre Noire & Flamme Blanche - EV10.5 - Scellé - Français",
-      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-poster-foudre-noire-flamme-blanche-ev10_5-scelle-francais1.html",
-      "price": 39.9,
-      "availability": "commandable",
-      "item_category": "Pokémon / Produits scellés",
-      "release_date": null,
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-03T13:05:46+00:00",
-      "event_id": "4f7e738113fb26c2",
-      "published_at": null,
-      "modified_at": null
-    },
-    {
       "id": "blister-pokemon-rivalites-destinees-ev10-scelle-francais1",
       "title": "Blister - Pokemon - Rivalités Destinées - EV10 - Scellé - Français",
       "url": "https://investcollect.com/eshop/p/blister-pokemon-rivalites-destinees-ev10-scelle-francais1.html",
@@ -7656,6 +7642,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-03T13:05:46+00:00",
       "event_id": "13e6f45f18b544cb",
+      "published_at": null,
+      "modified_at": null
+    },
+    {
+      "id": "coffret-pokemon-collection-poster-foudre-noire-flamme-blanche-ev10_5-scelle-francais1",
+      "title": "Coffret - Pokemon - Collection Poster - Foudre Noire & Flamme Blanche - EV10.5 - Scellé - Français",
+      "url": "https://investcollect.com/eshop/p/coffret-pokemon-collection-poster-foudre-noire-flamme-blanche-ev10_5-scelle-francais1.html",
+      "price": 39.9,
+      "availability": "commandable",
+      "item_category": "Pokémon / Produits scellés",
+      "release_date": null,
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-03T13:05:46+00:00",
+      "event_id": "4f7e738113fb26c2",
       "published_at": null,
       "modified_at": null
     }
