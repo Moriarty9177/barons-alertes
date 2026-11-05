@@ -1889,20 +1889,6 @@
   },
   "pending": [
     {
-      "id": "167288",
-      "title": "Pokémon - Booster - Évolutions à Paldea - EV02 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-evolutions-a-paldea-ev02-en-francais/",
-      "price": 6.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-05T13:35:37+00:00",
-      "event_id": "f16a6410b94677e7",
-      "published_at": "2026-05-07T08:21:25+00:00",
-      "modified_at": "2026-11-05T13:33:38+00:00",
-      "release_date": null
-    },
-    {
       "id": "162388",
       "title": "Pokémon – Pack – 1 ETB Chaos Ascendant ME04 + 1 Bundle Chaos Ascendant ME04 – en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-pokemon/pokemon-pack-1-etb-chaos-ascendant-me04-1-bundle-chaos-ascendant-me04-en-francais/",
@@ -3120,6 +3106,20 @@
       "event_id": "1429cac85b89a865",
       "published_at": "2023-12-15T15:42:23+00:00",
       "modified_at": "2026-11-03T09:13:02+00:00",
+      "release_date": null
+    },
+    {
+      "id": "167288",
+      "title": "Pokémon - Booster - Évolutions à Paldea - EV02 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-evolutions-a-paldea-ev02-en-francais/",
+      "price": 6.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-05T13:35:37+00:00",
+      "event_id": "f16a6410b94677e7",
+      "published_at": "2026-05-07T08:21:25+00:00",
+      "modified_at": "2026-11-05T13:33:38+00:00",
       "release_date": null
     }
   ],
