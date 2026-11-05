@@ -2016,20 +2016,6 @@
   },
   "pending": [
     {
-      "id": "219060",
-      "title": "Pokémon - Pack - 1 ETB Règne Delta (ME06) + 2 Tripack Règne Delta (ME06) + 1 Coffret Figurine Mew 30e ans + 1 Display Équilibre Parfait (ME03) + 2 Tripack Équilibre Parfait (ME03) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-etb-regne-delta-me06-2-tripack-regne-delta-me06-1-coffret-figurine-mew-30e-ans-1-display-equilibre-parfait-me03-2-tripack-equilibre-parfait-me03-en-francais/",
-      "price": 449.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "88208a97982521aa",
-      "published_at": "2026-11-05T14:15:38+00:00",
-      "modified_at": "2026-11-05T16:36:55+00:00",
-      "release_date": null
-    },
-    {
       "id": "219059",
       "title": "Pokémon - Pack - 1 Coffret Premium Métamorph 30e ans + 1 Portfolio 30e ans + 1 Display Chaos Ascendant (ME04) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-premium-metamorph-30e-ans-1-portfolio-30e-ans-1-display-chaos-ascendant-me04-en-francais/",
@@ -3384,6 +3370,20 @@
       "event_id": "1e9f4f7f3d499694",
       "published_at": "2026-11-05T14:15:45+00:00",
       "modified_at": "2026-11-05T16:36:43+00:00",
+      "release_date": null
+    },
+    {
+      "id": "219060",
+      "title": "Pokémon - Pack - 1 ETB Règne Delta (ME06) + 2 Tripack Règne Delta (ME06) + 1 Coffret Figurine Mew 30e ans + 1 Display Équilibre Parfait (ME03) + 2 Tripack Équilibre Parfait (ME03) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-etb-regne-delta-me06-2-tripack-regne-delta-me06-1-coffret-figurine-mew-30e-ans-1-display-equilibre-parfait-me03-2-tripack-equilibre-parfait-me03-en-francais/",
+      "price": 449.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-05T16:40:44+00:00",
+      "event_id": "88208a97982521aa",
+      "published_at": "2026-11-05T14:15:38+00:00",
+      "modified_at": "2026-11-05T16:36:55+00:00",
       "release_date": null
     }
   ],
