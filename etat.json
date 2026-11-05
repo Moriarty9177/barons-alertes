@@ -2016,20 +2016,6 @@
   },
   "pending": [
     {
-      "id": "219061",
-      "title": "Pokémon - Pack - 1 Coffret Ultra Premium Noctali 30e ans + 1 Display Équilibre Parfait (ME03) + 1 Coffret Premium Méga-Zygarde ex + 4 Booster Blister Chaos Ascendant (ME04) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-ultra-premium-noctali-30e-ans-1-display-equilibre-parfait-me03-1-coffret-premium-mega-zygarde-ex-4-booster-blister-chaos-ascendant-me04-en-francais/",
-      "price": 649.99,
-      "availability": "precommande",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "1e9f4f7f3d499694",
-      "published_at": "2026-11-05T14:15:45+00:00",
-      "modified_at": "2026-11-05T16:36:43+00:00",
-      "release_date": null
-    },
-    {
       "id": "219060",
       "title": "Pokémon - Pack - 1 ETB Règne Delta (ME06) + 2 Tripack Règne Delta (ME06) + 1 Coffret Figurine Mew 30e ans + 1 Display Équilibre Parfait (ME03) + 2 Tripack Équilibre Parfait (ME03) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-etb-regne-delta-me06-2-tripack-regne-delta-me06-1-coffret-figurine-mew-30e-ans-1-display-equilibre-parfait-me03-2-tripack-equilibre-parfait-me03-en-francais/",
@@ -3384,6 +3370,20 @@
       "event_id": "8797a2863f13c772",
       "published_at": "2026-11-05T14:15:50+00:00",
       "modified_at": "2026-11-05T16:36:47+00:00",
+      "release_date": null
+    },
+    {
+      "id": "219061",
+      "title": "Pokémon - Pack - 1 Coffret Ultra Premium Noctali 30e ans + 1 Display Équilibre Parfait (ME03) + 1 Coffret Premium Méga-Zygarde ex + 4 Booster Blister Chaos Ascendant (ME04) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-ultra-premium-noctali-30e-ans-1-display-equilibre-parfait-me03-1-coffret-premium-mega-zygarde-ex-4-booster-blister-chaos-ascendant-me04-en-francais/",
+      "price": 649.99,
+      "availability": "precommande",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-05T16:40:44+00:00",
+      "event_id": "1e9f4f7f3d499694",
+      "published_at": "2026-11-05T14:15:45+00:00",
+      "modified_at": "2026-11-05T16:36:43+00:00",
       "release_date": null
     }
   ],
