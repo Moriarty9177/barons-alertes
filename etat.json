@@ -2016,20 +2016,6 @@
   },
   "pending": [
     {
-      "id": "219058",
-      "title": "Pokémon - Pack - 1 ETB 30e ans + 1 Display Nuit Noire (ME05) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-etb-30e-ans-1-display-nuit-noire-me05-en-francais/",
-      "price": 339.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "1ff567c24b8407c8",
-      "published_at": "2026-11-05T14:15:24+00:00",
-      "modified_at": "2026-11-05T16:36:59+00:00",
-      "release_date": null
-    },
-    {
       "id": "219057",
       "title": "Pokémon - Pack - 1 ETB 30e ans + 2 Tripack 30e ans (Noadkoko et Lucario) + 3 Bundle Équilibre Parfait (ME03) + 2 Pokébox Méga Mélodelfe ex - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-etb-30e-ans-2-tripack-30e-ans-noadkoko-et-lucario-3-bundle-equilibre-parfait-me03-2-pokebox-mega-melodelfe-ex-en-francais/",
@@ -3384,6 +3370,20 @@
       "event_id": "06ccab3476380302",
       "published_at": "2026-11-05T14:15:31+00:00",
       "modified_at": "2026-11-05T16:36:51+00:00",
+      "release_date": null
+    },
+    {
+      "id": "219058",
+      "title": "Pokémon - Pack - 1 ETB 30e ans + 1 Display Nuit Noire (ME05) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-etb-30e-ans-1-display-nuit-noire-me05-en-francais/",
+      "price": 339.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-05T16:40:44+00:00",
+      "event_id": "1ff567c24b8407c8",
+      "published_at": "2026-11-05T14:15:24+00:00",
+      "modified_at": "2026-11-05T16:36:59+00:00",
       "release_date": null
     }
   ],
