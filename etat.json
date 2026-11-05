@@ -1897,19 +1897,7 @@
       "last_seen_at": "2026-11-05T16:20:40+00:00"
     }
   },
-  "pending": [
-    {
-      "id": "169155",
-      "title": "Pokémon - Blister - Équilibre Parfait - ME03 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-blister-equilibre-parfait-me03-en-francais/",
-      "price": 5.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-05T16:15:46+00:00",
-      "event_id": "0f827b1e4ba9cad9"
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3142,6 +3130,17 @@
       "published_at": "2026-04-23T08:26:12+00:00",
       "modified_at": "2026-11-05T13:35:30+00:00",
       "release_date": null
+    },
+    {
+      "id": "169155",
+      "title": "Pokémon - Blister - Équilibre Parfait - ME03 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-blister-equilibre-parfait-me03-en-francais/",
+      "price": 5.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-05T16:15:46+00:00",
+      "event_id": "0f827b1e4ba9cad9"
     }
   ],
   "consecutive_failures": 0,
