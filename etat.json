@@ -2016,20 +2016,6 @@
   },
   "pending": [
     {
-      "id": "219062",
-      "title": "Pokémon - Pack - 1 Coffret Ultra Premium Noctali 30e ans + 2 Bundle Équilibre Parfait (ME03) + 1 Coffret Premium Méga-Amphinobi ex + 4 Booster Blister Équilibre Parfait (ME03) + 4 Booster Blister Chaos Ascendant (ME04) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-ultra-premium-noctali-30e-ans-2-bundle-equilibre-parfait-me03-1-coffret-premium-mega-amphinobi-ex-4-booster-blister-equilibre-parfait-me03-4-booster-blister-chao/",
-      "price": 549.99,
-      "availability": "precommande",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "8797a2863f13c772",
-      "published_at": "2026-11-05T14:15:50+00:00",
-      "modified_at": "2026-11-05T16:36:47+00:00",
-      "release_date": null
-    },
-    {
       "id": "219061",
       "title": "Pokémon - Pack - 1 Coffret Ultra Premium Noctali 30e ans + 1 Display Équilibre Parfait (ME03) + 1 Coffret Premium Méga-Zygarde ex + 4 Booster Blister Chaos Ascendant (ME04) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-ultra-premium-noctali-30e-ans-1-display-equilibre-parfait-me03-1-coffret-premium-mega-zygarde-ex-4-booster-blister-chaos-ascendant-me04-en-francais/",
@@ -3385,6 +3371,20 @@
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-05T16:15:46+00:00",
       "event_id": "0f827b1e4ba9cad9"
+    },
+    {
+      "id": "219062",
+      "title": "Pokémon - Pack - 1 Coffret Ultra Premium Noctali 30e ans + 2 Bundle Équilibre Parfait (ME03) + 1 Coffret Premium Méga-Amphinobi ex + 4 Booster Blister Équilibre Parfait (ME03) + 4 Booster Blister Chaos Ascendant (ME04) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-ultra-premium-noctali-30e-ans-2-bundle-equilibre-parfait-me03-1-coffret-premium-mega-amphinobi-ex-4-booster-blister-equilibre-parfait-me03-4-booster-blister-chao/",
+      "price": 549.99,
+      "availability": "precommande",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-05T16:40:44+00:00",
+      "event_id": "8797a2863f13c772",
+      "published_at": "2026-11-05T14:15:50+00:00",
+      "modified_at": "2026-11-05T16:36:47+00:00",
+      "release_date": null
     }
   ],
   "consecutive_failures": 0,
