@@ -1904,7 +1904,10 @@
       "availability": "precommande",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-11-05T16:40:44+00:00",
-      "last_seen_at": "2026-11-05T16:40:44+00:00"
+      "last_seen_at": "2026-11-05T16:40:44+00:00",
+      "published_at": "2026-11-05T14:15:50+00:00",
+      "modified_at": "2026-11-05T16:36:47+00:00",
+      "release_date": null
     },
     "219061": {
       "id": "219061",
@@ -1914,7 +1917,10 @@
       "availability": "precommande",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-11-05T16:40:44+00:00",
-      "last_seen_at": "2026-11-05T16:40:44+00:00"
+      "last_seen_at": "2026-11-05T16:40:44+00:00",
+      "published_at": "2026-11-05T14:15:45+00:00",
+      "modified_at": "2026-11-05T16:36:43+00:00",
+      "release_date": null
     },
     "219060": {
       "id": "219060",
@@ -1924,7 +1930,10 @@
       "availability": "commandable",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-11-05T16:40:44+00:00",
-      "last_seen_at": "2026-11-05T16:40:44+00:00"
+      "last_seen_at": "2026-11-05T16:40:44+00:00",
+      "published_at": "2026-11-05T14:15:38+00:00",
+      "modified_at": "2026-11-05T16:36:55+00:00",
+      "release_date": null
     },
     "219059": {
       "id": "219059",
@@ -1934,7 +1943,10 @@
       "availability": "commandable",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-11-05T16:40:44+00:00",
-      "last_seen_at": "2026-11-05T16:40:44+00:00"
+      "last_seen_at": "2026-11-05T16:40:44+00:00",
+      "published_at": "2026-11-05T14:15:31+00:00",
+      "modified_at": "2026-11-05T16:36:51+00:00",
+      "release_date": null
     },
     "219058": {
       "id": "219058",
@@ -1944,7 +1956,10 @@
       "availability": "commandable",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-11-05T16:40:44+00:00",
-      "last_seen_at": "2026-11-05T16:40:44+00:00"
+      "last_seen_at": "2026-11-05T16:40:44+00:00",
+      "published_at": "2026-11-05T14:15:24+00:00",
+      "modified_at": "2026-11-05T16:36:59+00:00",
+      "release_date": null
     },
     "219057": {
       "id": "219057",
@@ -1954,7 +1969,10 @@
       "availability": "precommande",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-11-05T16:40:44+00:00",
-      "last_seen_at": "2026-11-05T16:40:44+00:00"
+      "last_seen_at": "2026-11-05T16:40:44+00:00",
+      "published_at": "2026-11-05T14:15:15+00:00",
+      "modified_at": "2026-11-05T16:37:04+00:00",
+      "release_date": null
     },
     "219056": {
       "id": "219056",
@@ -1964,7 +1982,10 @@
       "availability": "precommande",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-11-05T16:40:44+00:00",
-      "last_seen_at": "2026-11-05T16:40:44+00:00"
+      "last_seen_at": "2026-11-05T16:40:44+00:00",
+      "published_at": "2026-11-05T14:15:07+00:00",
+      "modified_at": "2026-11-05T16:37:10+00:00",
+      "release_date": null
     },
     "219055": {
       "id": "219055",
@@ -1974,7 +1995,10 @@
       "availability": "precommande",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-11-05T16:40:44+00:00",
-      "last_seen_at": "2026-11-05T16:40:44+00:00"
+      "last_seen_at": "2026-11-05T16:40:44+00:00",
+      "published_at": "2026-11-05T14:15:00+00:00",
+      "modified_at": "2026-11-05T16:37:21+00:00",
+      "release_date": null
     },
     "219054": {
       "id": "219054",
@@ -1984,7 +2008,10 @@
       "availability": "precommande",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-11-05T16:40:44+00:00",
-      "last_seen_at": "2026-11-05T16:40:44+00:00"
+      "last_seen_at": "2026-11-05T16:40:44+00:00",
+      "published_at": "2026-11-05T14:14:53+00:00",
+      "modified_at": "2026-11-05T16:37:16+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -1997,7 +2024,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "8797a2863f13c772"
+      "event_id": "8797a2863f13c772",
+      "published_at": "2026-11-05T14:15:50+00:00",
+      "modified_at": "2026-11-05T16:36:47+00:00",
+      "release_date": null
     },
     {
       "id": "219061",
@@ -2008,7 +2038,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "1e9f4f7f3d499694"
+      "event_id": "1e9f4f7f3d499694",
+      "published_at": "2026-11-05T14:15:45+00:00",
+      "modified_at": "2026-11-05T16:36:43+00:00",
+      "release_date": null
     },
     {
       "id": "219060",
@@ -2019,7 +2052,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "88208a97982521aa"
+      "event_id": "88208a97982521aa",
+      "published_at": "2026-11-05T14:15:38+00:00",
+      "modified_at": "2026-11-05T16:36:55+00:00",
+      "release_date": null
     },
     {
       "id": "219059",
@@ -2030,7 +2066,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "06ccab3476380302"
+      "event_id": "06ccab3476380302",
+      "published_at": "2026-11-05T14:15:31+00:00",
+      "modified_at": "2026-11-05T16:36:51+00:00",
+      "release_date": null
     },
     {
       "id": "219058",
@@ -2041,7 +2080,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "1ff567c24b8407c8"
+      "event_id": "1ff567c24b8407c8",
+      "published_at": "2026-11-05T14:15:24+00:00",
+      "modified_at": "2026-11-05T16:36:59+00:00",
+      "release_date": null
     },
     {
       "id": "219057",
@@ -2052,7 +2094,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "b729b4dd9677b996"
+      "event_id": "b729b4dd9677b996",
+      "published_at": "2026-11-05T14:15:15+00:00",
+      "modified_at": "2026-11-05T16:37:04+00:00",
+      "release_date": null
     },
     {
       "id": "219056",
@@ -2063,7 +2108,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "908f80989360dc40"
+      "event_id": "908f80989360dc40",
+      "published_at": "2026-11-05T14:15:07+00:00",
+      "modified_at": "2026-11-05T16:37:10+00:00",
+      "release_date": null
     },
     {
       "id": "219055",
@@ -2074,7 +2122,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "661f4d901fdaae5e"
+      "event_id": "661f4d901fdaae5e",
+      "published_at": "2026-11-05T14:15:00+00:00",
+      "modified_at": "2026-11-05T16:37:21+00:00",
+      "release_date": null
     },
     {
       "id": "219054",
@@ -2085,7 +2136,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "c7b9c0b0576bb126"
+      "event_id": "c7b9c0b0576bb126",
+      "published_at": "2026-11-05T14:14:53+00:00",
+      "modified_at": "2026-11-05T16:37:16+00:00",
+      "release_date": null
     }
   ],
   "sent": [
