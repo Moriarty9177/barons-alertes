@@ -2016,20 +2016,6 @@
   },
   "pending": [
     {
-      "id": "219056",
-      "title": "Pokémon - Pack - 1 Bundle 30e ans + 1 Coffret Premium Métamorph 30e ans + 1 Bundle Nuit Noire (ME05) + 2 Tripack Nuit Noire (ME05) + 1 Duopack ME04/ME05 + 4 Booster Blister Chaos Ascendant (ME04) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-bundle-30e-ans-1-coffret-premium-metamorph-30e-ans-1-bundle-nuit-noire-me05-2-tripack-nuit-noire-me05-1-duopack-me04-me05-4-booster-blister-chaos-ascendant-me04-en/",
-      "price": 269.99,
-      "availability": "precommande",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "908f80989360dc40",
-      "published_at": "2026-11-05T14:15:07+00:00",
-      "modified_at": "2026-11-05T16:37:10+00:00",
-      "release_date": null
-    },
-    {
       "id": "219055",
       "title": "Pokémon - Pack - 1 Coffret Figurine Mew 30e ans + 1 Coffret Premium Méga-Amphinobi ex + 4 Booster Blister Chaos Ascendant (ME04) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-figurine-mew-30e-ans-1-coffret-premium-mega-amphinobi-ex-4-booster-blister-chaos-ascendant-me04-en-francais/",
@@ -3384,6 +3370,20 @@
       "event_id": "b729b4dd9677b996",
       "published_at": "2026-11-05T14:15:15+00:00",
       "modified_at": "2026-11-05T16:37:04+00:00",
+      "release_date": null
+    },
+    {
+      "id": "219056",
+      "title": "Pokémon - Pack - 1 Bundle 30e ans + 1 Coffret Premium Métamorph 30e ans + 1 Bundle Nuit Noire (ME05) + 2 Tripack Nuit Noire (ME05) + 1 Duopack ME04/ME05 + 4 Booster Blister Chaos Ascendant (ME04) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-bundle-30e-ans-1-coffret-premium-metamorph-30e-ans-1-bundle-nuit-noire-me05-2-tripack-nuit-noire-me05-1-duopack-me04-me05-4-booster-blister-chaos-ascendant-me04-en/",
+      "price": 269.99,
+      "availability": "precommande",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-05T16:40:44+00:00",
+      "event_id": "908f80989360dc40",
+      "published_at": "2026-11-05T14:15:07+00:00",
+      "modified_at": "2026-11-05T16:37:10+00:00",
       "release_date": null
     }
   ],
