@@ -2016,20 +2016,6 @@
   },
   "pending": [
     {
-      "id": "219057",
-      "title": "Pokémon - Pack - 1 ETB 30e ans + 2 Tripack 30e ans (Noadkoko et Lucario) + 3 Bundle Équilibre Parfait (ME03) + 2 Pokébox Méga Mélodelfe ex - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-etb-30e-ans-2-tripack-30e-ans-noadkoko-et-lucario-3-bundle-equilibre-parfait-me03-2-pokebox-mega-melodelfe-ex-en-francais/",
-      "price": 359.99,
-      "availability": "precommande",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-05T16:40:44+00:00",
-      "event_id": "b729b4dd9677b996",
-      "published_at": "2026-11-05T14:15:15+00:00",
-      "modified_at": "2026-11-05T16:37:04+00:00",
-      "release_date": null
-    },
-    {
       "id": "219056",
       "title": "Pokémon - Pack - 1 Bundle 30e ans + 1 Coffret Premium Métamorph 30e ans + 1 Bundle Nuit Noire (ME05) + 2 Tripack Nuit Noire (ME05) + 1 Duopack ME04/ME05 + 4 Booster Blister Chaos Ascendant (ME04) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-bundle-30e-ans-1-coffret-premium-metamorph-30e-ans-1-bundle-nuit-noire-me05-2-tripack-nuit-noire-me05-1-duopack-me04-me05-4-booster-blister-chaos-ascendant-me04-en/",
@@ -3384,6 +3370,20 @@
       "event_id": "1ff567c24b8407c8",
       "published_at": "2026-11-05T14:15:24+00:00",
       "modified_at": "2026-11-05T16:36:59+00:00",
+      "release_date": null
+    },
+    {
+      "id": "219057",
+      "title": "Pokémon - Pack - 1 ETB 30e ans + 2 Tripack 30e ans (Noadkoko et Lucario) + 3 Bundle Équilibre Parfait (ME03) + 2 Pokébox Méga Mélodelfe ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-etb-30e-ans-2-tripack-30e-ans-noadkoko-et-lucario-3-bundle-equilibre-parfait-me03-2-pokebox-mega-melodelfe-ex-en-francais/",
+      "price": 359.99,
+      "availability": "precommande",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-05T16:40:44+00:00",
+      "event_id": "b729b4dd9677b996",
+      "published_at": "2026-11-05T14:15:15+00:00",
+      "modified_at": "2026-11-05T16:37:04+00:00",
       "release_date": null
     }
   ],
