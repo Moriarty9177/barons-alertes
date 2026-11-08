@@ -2073,7 +2073,10 @@
       "availability": "commandable",
       "item_category": "Coffret Dresseur d'Élite Pokémon",
       "first_seen_at": "2026-11-08T10:25:30+00:00",
-      "last_seen_at": "2026-11-08T10:25:30+00:00"
+      "last_seen_at": "2026-11-08T10:25:30+00:00",
+      "published_at": "2026-08-25T13:55:59+00:00",
+      "modified_at": "2026-11-08T10:23:40+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -2086,7 +2089,10 @@
       "item_category": "Coffret Dresseur d'Élite Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-08T10:25:30+00:00",
-      "event_id": "b2df08432d632eb1"
+      "event_id": "b2df08432d632eb1",
+      "published_at": "2026-08-25T13:55:59+00:00",
+      "modified_at": "2026-11-08T10:23:40+00:00",
+      "release_date": null
     }
   ],
   "sent": [
