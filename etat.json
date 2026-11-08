@@ -2066,22 +2066,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "202621",
-      "title": "Pokémon - Coffret - 30e Anniversaire - Collection Premium avec Figurine Mew - 5 boosters - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-30e-anniversaire-collection-premium-avec-figurine-mew-5-boosters-en-francais/",
-      "price": 79.99,
-      "availability": "commandable",
-      "item_category": "Coffrets Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-08T09:55:32+00:00",
-      "event_id": "3a44d3539291c9ab",
-      "published_at": "2026-09-23T14:39:42+00:00",
-      "modified_at": "2026-11-08T09:51:11+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3492,6 +3477,20 @@
       "event_id": "c7893a86e09dedf2",
       "published_at": "2026-09-23T14:40:11+00:00",
       "modified_at": "2026-11-08T09:51:50+00:00",
+      "release_date": null
+    },
+    {
+      "id": "202621",
+      "title": "Pokémon - Coffret - 30e Anniversaire - Collection Premium avec Figurine Mew - 5 boosters - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-30e-anniversaire-collection-premium-avec-figurine-mew-5-boosters-en-francais/",
+      "price": 79.99,
+      "availability": "commandable",
+      "item_category": "Coffrets Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-08T09:55:32+00:00",
+      "event_id": "3a44d3539291c9ab",
+      "published_at": "2026-09-23T14:39:42+00:00",
+      "modified_at": "2026-11-08T09:51:11+00:00",
       "release_date": null
     }
   ],
