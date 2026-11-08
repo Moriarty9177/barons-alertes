@@ -2021,7 +2021,10 @@
       "availability": "commandable",
       "item_category": "Tripack Pokémon",
       "first_seen_at": "2026-11-08T09:50:39+00:00",
-      "last_seen_at": "2026-11-08T09:50:39+00:00"
+      "last_seen_at": "2026-11-08T09:50:39+00:00",
+      "published_at": "2026-09-23T14:41:42+00:00",
+      "modified_at": "2026-11-08T09:50:01+00:00",
+      "release_date": null
     },
     "202634": {
       "id": "202634",
@@ -2031,7 +2034,10 @@
       "availability": "commandable",
       "item_category": "Tripack Pokémon",
       "first_seen_at": "2026-11-08T09:50:39+00:00",
-      "last_seen_at": "2026-11-08T09:50:39+00:00"
+      "last_seen_at": "2026-11-08T09:50:39+00:00",
+      "published_at": "2026-09-23T14:41:14+00:00",
+      "modified_at": "2026-11-08T09:50:11+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -2044,7 +2050,10 @@
       "item_category": "Tripack Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-08T09:50:39+00:00",
-      "event_id": "b48d29c15abe6f2a"
+      "event_id": "b48d29c15abe6f2a",
+      "published_at": "2026-09-23T14:41:42+00:00",
+      "modified_at": "2026-11-08T09:50:01+00:00",
+      "release_date": null
     },
     {
       "id": "202634",
@@ -2055,7 +2064,10 @@
       "item_category": "Tripack Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-08T09:50:39+00:00",
-      "event_id": "289c76565233852e"
+      "event_id": "289c76565233852e",
+      "published_at": "2026-09-23T14:41:14+00:00",
+      "modified_at": "2026-11-08T09:50:11+00:00",
+      "release_date": null
     }
   ],
   "sent": [
