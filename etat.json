@@ -2079,22 +2079,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "193900",
-      "title": "Pokémon – ETB – 30e Anniversaire – Coffret Dresseur d'Elite en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-30e-anniversaire-coffret-dresseur-delite-en-francais/",
-      "price": 139.99,
-      "availability": "commandable",
-      "item_category": "Coffret Dresseur d'Élite Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-08T10:25:30+00:00",
-      "event_id": "b2df08432d632eb1",
-      "published_at": "2026-08-25T13:55:59+00:00",
-      "modified_at": "2026-11-08T10:23:40+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3519,6 +3504,20 @@
       "event_id": "3a44d3539291c9ab",
       "published_at": "2026-09-23T14:39:42+00:00",
       "modified_at": "2026-11-08T09:51:11+00:00",
+      "release_date": null
+    },
+    {
+      "id": "193900",
+      "title": "Pokémon – ETB – 30e Anniversaire – Coffret Dresseur d'Elite en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-30e-anniversaire-coffret-dresseur-delite-en-francais/",
+      "price": 139.99,
+      "availability": "commandable",
+      "item_category": "Coffret Dresseur d'Élite Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-08T10:25:30+00:00",
+      "event_id": "b2df08432d632eb1",
+      "published_at": "2026-08-25T13:55:59+00:00",
+      "modified_at": "2026-11-08T10:23:40+00:00",
       "release_date": null
     }
   ],
