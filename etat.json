@@ -2047,7 +2047,10 @@
       "availability": "commandable",
       "item_category": "Coffrets Pokémon",
       "first_seen_at": "2026-11-08T09:55:32+00:00",
-      "last_seen_at": "2026-11-08T09:55:32+00:00"
+      "last_seen_at": "2026-11-08T09:55:32+00:00",
+      "published_at": "2026-09-23T14:40:11+00:00",
+      "modified_at": "2026-11-08T09:51:50+00:00",
+      "release_date": null
     },
     "202621": {
       "id": "202621",
@@ -2057,7 +2060,10 @@
       "availability": "commandable",
       "item_category": "Coffrets Pokémon",
       "first_seen_at": "2026-11-08T09:55:32+00:00",
-      "last_seen_at": "2026-11-08T09:55:32+00:00"
+      "last_seen_at": "2026-11-08T09:55:32+00:00",
+      "published_at": "2026-09-23T14:39:42+00:00",
+      "modified_at": "2026-11-08T09:51:11+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -2070,7 +2076,10 @@
       "item_category": "Coffrets Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-08T09:55:32+00:00",
-      "event_id": "c7893a86e09dedf2"
+      "event_id": "c7893a86e09dedf2",
+      "published_at": "2026-09-23T14:40:11+00:00",
+      "modified_at": "2026-11-08T09:51:50+00:00",
+      "release_date": null
     },
     {
       "id": "202621",
@@ -2081,7 +2090,10 @@
       "item_category": "Coffrets Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-08T09:55:32+00:00",
-      "event_id": "3a44d3539291c9ab"
+      "event_id": "3a44d3539291c9ab",
+      "published_at": "2026-09-23T14:39:42+00:00",
+      "modified_at": "2026-11-08T09:51:11+00:00",
+      "release_date": null
     }
   ],
   "sent": [
