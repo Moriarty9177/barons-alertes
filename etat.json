@@ -2042,20 +2042,6 @@
   },
   "pending": [
     {
-      "id": "202635",
-      "title": "Pokémon - Tripack - 30e Anniversaire - Lucario - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tripack-pokemon/pokemon-tripack-30e-anniversaire-lucario-en-francais/",
-      "price": 39.99,
-      "availability": "commandable",
-      "item_category": "Tripack Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-08T09:50:39+00:00",
-      "event_id": "b48d29c15abe6f2a",
-      "published_at": "2026-09-23T14:41:42+00:00",
-      "modified_at": "2026-11-08T09:50:01+00:00",
-      "release_date": null
-    },
-    {
       "id": "202634",
       "title": "Pokémon - Tripack - 30e Anniversaire - Noadkoko - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tripack-pokemon/pokemon-tripack-30e-anniversaire-noadkoko-en-francais/",
@@ -3438,6 +3424,20 @@
       "event_id": "c7b9c0b0576bb126",
       "published_at": "2026-11-05T14:14:53+00:00",
       "modified_at": "2026-11-05T16:37:16+00:00",
+      "release_date": null
+    },
+    {
+      "id": "202635",
+      "title": "Pokémon - Tripack - 30e Anniversaire - Lucario - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tripack-pokemon/pokemon-tripack-30e-anniversaire-lucario-en-francais/",
+      "price": 39.99,
+      "availability": "commandable",
+      "item_category": "Tripack Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-08T09:50:39+00:00",
+      "event_id": "b48d29c15abe6f2a",
+      "published_at": "2026-09-23T14:41:42+00:00",
+      "modified_at": "2026-11-08T09:50:01+00:00",
       "release_date": null
     }
   ],
