@@ -2099,7 +2099,10 @@
       "availability": "commandable",
       "item_category": "Tin-Box Pokémon",
       "first_seen_at": "2026-11-09T13:55:35+00:00",
-      "last_seen_at": "2026-11-09T13:55:35+00:00"
+      "last_seen_at": "2026-11-09T13:55:35+00:00",
+      "published_at": "2026-09-23T14:37:15+00:00",
+      "modified_at": "2026-11-09T13:54:46+00:00",
+      "release_date": "16 Octobre 2026"
     }
   },
   "pending": [
@@ -2112,7 +2115,10 @@
       "item_category": "Tin-Box Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-09T13:55:35+00:00",
-      "event_id": "eaf7c3046752aada"
+      "event_id": "eaf7c3046752aada",
+      "published_at": "2026-09-23T14:37:15+00:00",
+      "modified_at": "2026-11-09T13:54:46+00:00",
+      "release_date": "16 Octobre 2026"
     }
   ],
   "sent": [
