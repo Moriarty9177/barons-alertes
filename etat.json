@@ -2092,22 +2092,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "220594",
-      "title": "Pokémon - Pack - 1 UPC 30e anniversaire Noctali + 4 Booster Blister Equilibre Parfait (ME03) + 2 mini tin ME03/ME04 (aléatoire) + 2 Duopack ME04/ME05 + 1 Bundle Nuit Noire (ME05) + 1 Tripack Equilibre Parfait ME03 (aléatoire) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-upc-30e-anniversaire-noctali-4-booster-blister-equilibre-parfait-me03-2-mini-tin-me03-me04-aleatoire-2-duopack-me04-me05-1-bundle-nuit-noire-me05-1-tripack-equilibre/",
-      "price": 629.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-09T13:30:57+00:00",
-      "event_id": "a0ac4370eb45ef07",
-      "published_at": "2026-11-09T11:49:21+00:00",
-      "modified_at": "2026-11-09T13:30:00+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3546,6 +3531,20 @@
       "event_id": "b2df08432d632eb1",
       "published_at": "2026-08-25T13:55:59+00:00",
       "modified_at": "2026-11-08T10:23:40+00:00",
+      "release_date": null
+    },
+    {
+      "id": "220594",
+      "title": "Pokémon - Pack - 1 UPC 30e anniversaire Noctali + 4 Booster Blister Equilibre Parfait (ME03) + 2 mini tin ME03/ME04 (aléatoire) + 2 Duopack ME04/ME05 + 1 Bundle Nuit Noire (ME05) + 1 Tripack Equilibre Parfait ME03 (aléatoire) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-upc-30e-anniversaire-noctali-4-booster-blister-equilibre-parfait-me03-2-mini-tin-me03-me04-aleatoire-2-duopack-me04-me05-1-bundle-nuit-noire-me05-1-tripack-equilibre/",
+      "price": 629.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-09T13:30:57+00:00",
+      "event_id": "a0ac4370eb45ef07",
+      "published_at": "2026-11-09T11:49:21+00:00",
+      "modified_at": "2026-11-09T13:30:00+00:00",
       "release_date": null
     }
   ],
