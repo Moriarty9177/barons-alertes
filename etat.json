@@ -2105,22 +2105,7 @@
       "release_date": "16 Octobre 2026"
     }
   },
-  "pending": [
-    {
-      "id": "202613",
-      "title": "Pokémon - Pokébox - 30e Anniversaire - Méga Nymphali ex - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tin-box-pokemon/pokemon-pokebox-30e-anniversaire-mega-nymphali-ex-en-francais/",
-      "price": 44.99,
-      "availability": "commandable",
-      "item_category": "Tin-Box Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-09T13:55:35+00:00",
-      "event_id": "eaf7c3046752aada",
-      "published_at": "2026-09-23T14:37:15+00:00",
-      "modified_at": "2026-11-09T13:54:46+00:00",
-      "release_date": "16 Octobre 2026"
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3574,6 +3559,20 @@
       "published_at": "2026-11-09T11:49:21+00:00",
       "modified_at": "2026-11-09T13:30:00+00:00",
       "release_date": null
+    },
+    {
+      "id": "202613",
+      "title": "Pokémon - Pokébox - 30e Anniversaire - Méga Nymphali ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tin-box-pokemon/pokemon-pokebox-30e-anniversaire-mega-nymphali-ex-en-francais/",
+      "price": 44.99,
+      "availability": "commandable",
+      "item_category": "Tin-Box Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-09T13:55:35+00:00",
+      "event_id": "eaf7c3046752aada",
+      "published_at": "2026-09-23T14:37:15+00:00",
+      "modified_at": "2026-11-09T13:54:46+00:00",
+      "release_date": "16 Octobre 2026"
     }
   ],
   "consecutive_failures": 0,
