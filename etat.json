@@ -2118,22 +2118,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "221370",
-      "title": "Pokémon - Pack - 1 Ultra Premium Collection 30e anniversaire Mentali + 1 Duopack Ectoplasma + 1 Tripack Nuit Noire (ME05) + 1 Coffret méga Amphinobi ex Premium Collection + 4 Booster Blister Equilibre Parfait (ME03) + 2 mini-tins ME03/ME04 (aléatoire) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-ultra-premium-collection-30e-anniversaire-mentali-1-duopack-ectoplasma-1-tripack-nuit-noire-me05-1-coffret-mega-amphinobi-ex-premium-collection-4-booster-blister-equilibre/",
-      "price": 619.99,
-      "availability": "precommande",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-11T12:15:40+00:00",
-      "event_id": "2ffe17deb44c3b29",
-      "published_at": "2026-11-11T11:01:53+00:00",
-      "modified_at": "2026-11-11T12:14:10+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3601,6 +3586,20 @@
       "published_at": "2026-09-23T14:37:15+00:00",
       "modified_at": "2026-11-09T13:54:46+00:00",
       "release_date": "16 Octobre 2026"
+    },
+    {
+      "id": "221370",
+      "title": "Pokémon - Pack - 1 Ultra Premium Collection 30e anniversaire Mentali + 1 Duopack Ectoplasma + 1 Tripack Nuit Noire (ME05) + 1 Coffret méga Amphinobi ex Premium Collection + 4 Booster Blister Equilibre Parfait (ME03) + 2 mini-tins ME03/ME04 (aléatoire) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-ultra-premium-collection-30e-anniversaire-mentali-1-duopack-ectoplasma-1-tripack-nuit-noire-me05-1-coffret-mega-amphinobi-ex-premium-collection-4-booster-blister-equilibre/",
+      "price": 619.99,
+      "availability": "precommande",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-11T12:15:40+00:00",
+      "event_id": "2ffe17deb44c3b29",
+      "published_at": "2026-11-11T11:01:53+00:00",
+      "modified_at": "2026-11-11T12:14:10+00:00",
+      "release_date": null
     }
   ],
   "consecutive_failures": 0,
