@@ -2112,7 +2112,10 @@
       "availability": "precommande",
       "item_category": "Pack Produits",
       "first_seen_at": "2026-11-11T12:15:40+00:00",
-      "last_seen_at": "2026-11-11T12:15:40+00:00"
+      "last_seen_at": "2026-11-11T12:15:40+00:00",
+      "published_at": "2026-11-11T11:01:53+00:00",
+      "modified_at": "2026-11-11T12:14:10+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -2125,7 +2128,10 @@
       "item_category": "Pack Produits",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-11T12:15:40+00:00",
-      "event_id": "2ffe17deb44c3b29"
+      "event_id": "2ffe17deb44c3b29",
+      "published_at": "2026-11-11T11:01:53+00:00",
+      "modified_at": "2026-11-11T12:14:10+00:00",
+      "release_date": null
     }
   ],
   "sent": [
