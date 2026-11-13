@@ -2235,22 +2235,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "222184",
-      "title": "Pokémon - Pack - 1 Ultra Premium Collection Noctali 30e anniversaire + 1 Coffret Méga Zygarde + 1 ETB Mascarade Crépusculaire (EV06) + 1 portfolio Darkrai 9 pochettes - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-ultra-premium-collection-noctali-30e-anniversaire-1-coffret-mega-zygarde-1-etb-mascarade-crepusculaire-ev06-1-portfolio-darkrai-9-pochettes-en-francais/",
-      "price": 649.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-13T15:02:01+00:00",
-      "event_id": "f2171fd8a79acf7b",
-      "published_at": "2026-11-13T15:00:54+00:00",
-      "modified_at": null,
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3843,6 +3828,20 @@
       "event_id": "87a418360a02206f",
       "published_at": "2026-03-12T16:19:37+00:00",
       "modified_at": "2026-11-13T14:46:40+00:00",
+      "release_date": null
+    },
+    {
+      "id": "222184",
+      "title": "Pokémon - Pack - 1 Ultra Premium Collection Noctali 30e anniversaire + 1 Coffret Méga Zygarde + 1 ETB Mascarade Crépusculaire (EV06) + 1 portfolio Darkrai 9 pochettes - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-ultra-premium-collection-noctali-30e-anniversaire-1-coffret-mega-zygarde-1-etb-mascarade-crepusculaire-ev06-1-portfolio-darkrai-9-pochettes-en-francais/",
+      "price": 649.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-13T15:02:01+00:00",
+      "event_id": "f2171fd8a79acf7b",
+      "published_at": "2026-11-13T15:00:54+00:00",
+      "modified_at": null,
       "release_date": null
     }
   ],
