@@ -2224,20 +2224,6 @@
   },
   "pending": [
     {
-      "id": "174585",
-      "title": "Pokémon - Pack - 1 Display + 1 ETB - Nuit Noire - ME05 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-display-1-etb-nuit-noire-me05-en-francais/",
-      "price": 289.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-13T14:50:47+00:00",
-      "event_id": "79233993cb2cc517",
-      "published_at": "2026-06-04T15:35:47+00:00",
-      "modified_at": "2026-11-13T14:50:00+00:00",
-      "release_date": null
-    },
-    {
       "id": "174586",
       "title": "Pokémon - Pack - 1 Display + 1 ETB + 1 Tripacks + 1 Bundle - Nuit Noire - ME05 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-display-1-etb-1-tripacks-1-bundle-nuit-noire-me05-en-francais/",
@@ -3816,6 +3802,20 @@
       "event_id": "ae2aee025512bcc0",
       "published_at": "2025-08-12T11:36:19+00:00",
       "modified_at": "2026-11-13T14:44:42+00:00",
+      "release_date": null
+    },
+    {
+      "id": "174585",
+      "title": "Pokémon - Pack - 1 Display + 1 ETB - Nuit Noire - ME05 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-display-1-etb-nuit-noire-me05-en-francais/",
+      "price": 289.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-13T14:50:47+00:00",
+      "event_id": "79233993cb2cc517",
+      "published_at": "2026-06-04T15:35:47+00:00",
+      "modified_at": "2026-11-13T14:50:00+00:00",
       "release_date": null
     }
   ],
