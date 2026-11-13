@@ -2222,22 +2222,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "152553",
-      "title": "Pokémon - Pack - 1 ETB Equilibre Parfait ME03 + 1 Bundle Equilibre Parfait ME03 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-pokemon/pokemon-pack-1-etb-equilibre-parfait-me03-1-bundle-equilibre-parfait-me03-en-francais/",
-      "price": 92.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-13T14:50:47+00:00",
-      "event_id": "87a418360a02206f",
-      "published_at": "2026-03-12T16:19:37+00:00",
-      "modified_at": "2026-11-13T14:46:40+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3816,6 +3801,20 @@
       "event_id": "8f67fd700c57bd30",
       "published_at": "2026-03-25T13:47:49+00:00",
       "modified_at": "2026-11-13T14:48:08+00:00",
+      "release_date": null
+    },
+    {
+      "id": "152553",
+      "title": "Pokémon - Pack - 1 ETB Equilibre Parfait ME03 + 1 Bundle Equilibre Parfait ME03 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-pokemon/pokemon-pack-1-etb-equilibre-parfait-me03-1-bundle-equilibre-parfait-me03-en-francais/",
+      "price": 92.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-13T14:50:47+00:00",
+      "event_id": "87a418360a02206f",
+      "published_at": "2026-03-12T16:19:37+00:00",
+      "modified_at": "2026-11-13T14:46:40+00:00",
       "release_date": null
     }
   ],
