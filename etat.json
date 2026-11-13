@@ -2248,22 +2248,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "222185",
-      "title": "Pokémon - Pack - 1 ETB 30e anniversaire + 1 Deck Méga Lucario ex - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-etb-30e-anniversaire-1-deck-mega-lucario-ex-en-francais/",
-      "price": 169.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-13T15:05:53+00:00",
-      "event_id": "ff955772a6b7b866",
-      "published_at": "2026-11-13T15:02:34+00:00",
-      "modified_at": null,
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3869,6 +3854,20 @@
       "observed_at": "2026-11-13T15:02:01+00:00",
       "event_id": "f2171fd8a79acf7b",
       "published_at": "2026-11-13T15:00:54+00:00",
+      "modified_at": null,
+      "release_date": null
+    },
+    {
+      "id": "222185",
+      "title": "Pokémon - Pack - 1 ETB 30e anniversaire + 1 Deck Méga Lucario ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-etb-30e-anniversaire-1-deck-mega-lucario-ex-en-francais/",
+      "price": 169.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-13T15:05:53+00:00",
+      "event_id": "ff955772a6b7b866",
+      "published_at": "2026-11-13T15:02:34+00:00",
       "modified_at": null,
       "release_date": null
     }
