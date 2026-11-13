@@ -2261,22 +2261,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "222186",
-      "title": "Pokémon - Pack - 1 ETB 30e anniversaire + 1 ETB Mascarade Crépusculaire (EV06) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-pack-1-etb-30e-anniversaire-1-etb-mascarade-crepusculaire-ev06-en-francais/",
-      "price": 219.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-13T15:10:55+00:00",
-      "event_id": "c121cfe178741c40",
-      "published_at": "2026-11-13T15:07:25+00:00",
-      "modified_at": null,
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -3896,6 +3881,20 @@
       "observed_at": "2026-11-13T15:05:53+00:00",
       "event_id": "ff955772a6b7b866",
       "published_at": "2026-11-13T15:02:34+00:00",
+      "modified_at": null,
+      "release_date": null
+    },
+    {
+      "id": "222186",
+      "title": "Pokémon - Pack - 1 ETB 30e anniversaire + 1 ETB Mascarade Crépusculaire (EV06) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-pack-1-etb-30e-anniversaire-1-etb-mascarade-crepusculaire-ev06-en-francais/",
+      "price": 219.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-13T15:10:55+00:00",
+      "event_id": "c121cfe178741c40",
+      "published_at": "2026-11-13T15:07:25+00:00",
       "modified_at": null,
       "release_date": null
     }
