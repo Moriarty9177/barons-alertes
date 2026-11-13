@@ -2224,20 +2224,6 @@
   },
   "pending": [
     {
-      "id": "155405",
-      "title": "Pokémon - Display - Ruler of Black Flame - SV3 - Boîte de 30 Boosters en coréen",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-ruler-of-black-flame-sv3-boite-de-30-boosters-en-coreen/",
-      "price": 69.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-13T14:50:47+00:00",
-      "event_id": "17ea0c0caa6ad426",
-      "published_at": "2026-03-30T13:12:37+00:00",
-      "modified_at": "2026-11-13T14:48:14+00:00",
-      "release_date": null
-    },
-    {
       "id": "155396",
       "title": "Pokémon - Display - Heat Wave Arena - SV9A - Boîte de 30 Boosters en coréen",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-heat-wave-arena-sv9a-boite-de-30-boosters-en-coreen/",
@@ -3816,6 +3802,20 @@
       "event_id": "be91b8ed79d239c8",
       "published_at": "2026-05-22T13:19:18+00:00",
       "modified_at": "2026-11-13T14:49:19+00:00",
+      "release_date": null
+    },
+    {
+      "id": "155405",
+      "title": "Pokémon - Display - Ruler of Black Flame - SV3 - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-ruler-of-black-flame-sv3-boite-de-30-boosters-en-coreen/",
+      "price": 69.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-13T14:50:47+00:00",
+      "event_id": "17ea0c0caa6ad426",
+      "published_at": "2026-03-30T13:12:37+00:00",
+      "modified_at": "2026-11-13T14:48:14+00:00",
       "release_date": null
     }
   ],
