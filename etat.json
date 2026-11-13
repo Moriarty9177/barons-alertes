@@ -2224,20 +2224,6 @@
   },
   "pending": [
     {
-      "id": "155396",
-      "title": "Pokémon - Display - Heat Wave Arena - SV9A - Boîte de 30 Boosters en coréen",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-heat-wave-arena-sv9a-boite-de-30-boosters-en-coreen/",
-      "price": 79.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-13T14:50:47+00:00",
-      "event_id": "8f67fd700c57bd30",
-      "published_at": "2026-03-25T13:47:49+00:00",
-      "modified_at": "2026-11-13T14:48:08+00:00",
-      "release_date": null
-    },
-    {
       "id": "152553",
       "title": "Pokémon - Pack - 1 ETB Equilibre Parfait ME03 + 1 Bundle Equilibre Parfait ME03 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-pokemon/pokemon-pack-1-etb-equilibre-parfait-me03-1-bundle-equilibre-parfait-me03-en-francais/",
@@ -3816,6 +3802,20 @@
       "event_id": "17ea0c0caa6ad426",
       "published_at": "2026-03-30T13:12:37+00:00",
       "modified_at": "2026-11-13T14:48:14+00:00",
+      "release_date": null
+    },
+    {
+      "id": "155396",
+      "title": "Pokémon - Display - Heat Wave Arena - SV9A - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-heat-wave-arena-sv9a-boite-de-30-boosters-en-coreen/",
+      "price": 79.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-13T14:50:47+00:00",
+      "event_id": "8f67fd700c57bd30",
+      "published_at": "2026-03-25T13:47:49+00:00",
+      "modified_at": "2026-11-13T14:48:08+00:00",
       "release_date": null
     }
   ],
