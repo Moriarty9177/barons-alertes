@@ -2224,20 +2224,6 @@
   },
   "pending": [
     {
-      "id": "170781",
-      "title": "Pokémon - Pack - 1 display ME03 + 1 ETB ME03 + 1 Bundle ME03 + 2 tripacks ME03 - Équilibre Parfait - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-pokemon/pokemon-pack-1-display-me03-1-etb-me03-1-bundle-me03-2-tripacks-me03-equilibre-parfait-en-francais/",
-      "price": 314.99,
-      "availability": "commandable",
-      "item_category": "Pack Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-13T14:50:47+00:00",
-      "event_id": "be91b8ed79d239c8",
-      "published_at": "2026-05-22T13:19:18+00:00",
-      "modified_at": "2026-11-13T14:49:19+00:00",
-      "release_date": null
-    },
-    {
       "id": "155405",
       "title": "Pokémon - Display - Ruler of Black Flame - SV3 - Boîte de 30 Boosters en coréen",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-ruler-of-black-flame-sv3-boite-de-30-boosters-en-coreen/",
@@ -3816,6 +3802,20 @@
       "event_id": "fe705ce3c8b0ae5e",
       "published_at": "2026-06-04T15:35:45+00:00",
       "modified_at": "2026-11-13T14:49:58+00:00",
+      "release_date": null
+    },
+    {
+      "id": "170781",
+      "title": "Pokémon - Pack - 1 display ME03 + 1 ETB ME03 + 1 Bundle ME03 + 2 tripacks ME03 - Équilibre Parfait - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/pack-pokemon/pokemon-pack-1-display-me03-1-etb-me03-1-bundle-me03-2-tripacks-me03-equilibre-parfait-en-francais/",
+      "price": 314.99,
+      "availability": "commandable",
+      "item_category": "Pack Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-13T14:50:47+00:00",
+      "event_id": "be91b8ed79d239c8",
+      "published_at": "2026-05-22T13:19:18+00:00",
+      "modified_at": "2026-11-13T14:49:19+00:00",
       "release_date": null
     }
   ],
