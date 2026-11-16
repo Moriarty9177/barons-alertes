@@ -2419,20 +2419,6 @@
   },
   "pending": [
     {
-      "id": "16753",
-      "title": "Deck de Combat Pokémon : V Lougaroc-V",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-decks-preconstruits-deck-combat-v-lougaroc-v/",
-      "price": 17.9,
-      "availability": "commandable",
-      "item_category": "Deck de Combat Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T16:50:36+00:00",
-      "event_id": "992a5085aaaa3246",
-      "published_at": "2022-03-06T16:22:06+00:00",
-      "modified_at": "2026-11-16T16:45:51+00:00",
-      "release_date": null
-    },
-    {
       "id": "180312",
       "title": "Pokémon - Pack - Bundle - ME2.5 / ME03 / ME04 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-pack-bundle-me2-5-me03-me04-en-francais/",
@@ -4221,6 +4207,20 @@
       "event_id": "d51116cde2319aad",
       "published_at": "2026-10-22T06:42:03+00:00",
       "modified_at": "2026-11-16T16:47:18+00:00",
+      "release_date": null
+    },
+    {
+      "id": "16753",
+      "title": "Deck de Combat Pokémon : V Lougaroc-V",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-decks-preconstruits-deck-combat-v-lougaroc-v/",
+      "price": 17.9,
+      "availability": "commandable",
+      "item_category": "Deck de Combat Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T16:50:36+00:00",
+      "event_id": "992a5085aaaa3246",
+      "published_at": "2022-03-06T16:22:06+00:00",
+      "modified_at": "2026-11-16T16:45:51+00:00",
       "release_date": null
     }
   ],
