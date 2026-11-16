@@ -2419,20 +2419,6 @@
   },
   "pending": [
     {
-      "id": "212932",
-      "title": "Pokémon - Display - Aventures Ensemble - EV09 - Boîte de 36 Boosters - en anglais",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-aventures-ensemble-ev09-boite-de-36-boosters-en-anglais/",
-      "price": 239.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T16:50:36+00:00",
-      "event_id": "d51116cde2319aad",
-      "published_at": "2026-10-22T06:42:03+00:00",
-      "modified_at": "2026-11-16T16:47:18+00:00",
-      "release_date": null
-    },
-    {
       "id": "16753",
       "title": "Deck de Combat Pokémon : V Lougaroc-V",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-decks-preconstruits-deck-combat-v-lougaroc-v/",
@@ -4221,6 +4207,20 @@
       "event_id": "cb13ab52dbd724d9",
       "published_at": "2025-08-04T16:11:14+00:00",
       "modified_at": "2026-11-16T13:14:05+00:00",
+      "release_date": null
+    },
+    {
+      "id": "212932",
+      "title": "Pokémon - Display - Aventures Ensemble - EV09 - Boîte de 36 Boosters - en anglais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-aventures-ensemble-ev09-boite-de-36-boosters-en-anglais/",
+      "price": 239.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T16:50:36+00:00",
+      "event_id": "d51116cde2319aad",
+      "published_at": "2026-10-22T06:42:03+00:00",
+      "modified_at": "2026-11-16T16:47:18+00:00",
       "release_date": null
     }
   ],
