@@ -2328,20 +2328,6 @@
   },
   "pending": [
     {
-      "id": "153050",
-      "title": "Pokémon - Bundle - Héros Transcendants - ME2.5 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-heros-transcendants-me2-5-en-francais/",
-      "price": 89.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T09:15:40+00:00",
-      "event_id": "0bb3a9000d668e7d",
-      "published_at": "2026-03-13T16:43:30+00:00",
-      "modified_at": "2026-11-16T09:15:27+00:00",
-      "release_date": null
-    },
-    {
       "id": "95764",
       "title": "Pokémon - Coffret Académie de Combat - V3 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-academie-de-combat-v3-en-francais/",
@@ -4032,6 +4018,20 @@
       "event_id": "c121cfe178741c40",
       "published_at": "2026-11-13T15:07:25+00:00",
       "modified_at": null,
+      "release_date": null
+    },
+    {
+      "id": "153050",
+      "title": "Pokémon - Bundle - Héros Transcendants - ME2.5 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-heros-transcendants-me2-5-en-francais/",
+      "price": 89.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T09:15:40+00:00",
+      "event_id": "0bb3a9000d668e7d",
+      "published_at": "2026-03-13T16:43:30+00:00",
+      "modified_at": "2026-11-16T09:15:27+00:00",
       "release_date": null
     }
   ],
