@@ -2443,22 +2443,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "79909",
-      "title": "Pokémon - Deck Combat de Ligue - Dracaufeu‑ex - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-de-ligue-dracaufeu%e2%80%91ex-en-francais/",
-      "price": 32.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T17:20:49+00:00",
-      "event_id": "37cb7292b72434e8",
-      "published_at": "2025-03-22T13:17:42+00:00",
-      "modified_at": "2026-11-16T17:16:52+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -4275,6 +4260,20 @@
       "event_id": "33c86777f42968db",
       "published_at": "2025-05-06T16:26:26+00:00",
       "modified_at": "2026-11-16T16:50:54+00:00",
+      "release_date": null
+    },
+    {
+      "id": "79909",
+      "title": "Pokémon - Deck Combat de Ligue - Dracaufeu‑ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-de-ligue-dracaufeu%e2%80%91ex-en-francais/",
+      "price": 32.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T17:20:49+00:00",
+      "event_id": "37cb7292b72434e8",
+      "published_at": "2025-03-22T13:17:42+00:00",
+      "modified_at": "2026-11-16T17:16:52+00:00",
       "release_date": null
     }
   ],
