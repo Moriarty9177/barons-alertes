@@ -2339,22 +2339,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "173882",
-      "title": "Pokémon - Pack - 1 Bundle Héros Transcendants ME2.5 + 1 Bundle Equilibre Parfait ME03 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-bundle-heros-transcendants-me2-5-1-bundle-equilibre-parfait-me03-en-francais/",
-      "price": 119.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T09:20:43+00:00",
-      "event_id": "53fbe83a483aa56c",
-      "published_at": "2026-06-02T10:04:23+00:00",
-      "modified_at": "2026-11-16T09:15:46+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -4059,6 +4044,20 @@
       "event_id": "5bee0707aee99cac",
       "published_at": "2025-03-22T13:14:34+00:00",
       "modified_at": "2026-11-16T09:15:16+00:00",
+      "release_date": null
+    },
+    {
+      "id": "173882",
+      "title": "Pokémon - Pack - 1 Bundle Héros Transcendants ME2.5 + 1 Bundle Equilibre Parfait ME03 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-bundle-heros-transcendants-me2-5-1-bundle-equilibre-parfait-me03-en-francais/",
+      "price": 119.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T09:20:43+00:00",
+      "event_id": "53fbe83a483aa56c",
+      "published_at": "2026-06-02T10:04:23+00:00",
+      "modified_at": "2026-11-16T09:15:46+00:00",
       "release_date": null
     }
   ],
