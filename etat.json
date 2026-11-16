@@ -2328,20 +2328,6 @@
   },
   "pending": [
     {
-      "id": "104793",
-      "title": "Pokémon - Booster Blister - Flammes Fantasmagoriques - ME02 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-blister-flammes-fantasmagoriques-me02-en-francais/",
-      "price": 10.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T09:15:40+00:00",
-      "event_id": "1296a7879e5cb3b3",
-      "published_at": "2025-10-17T16:50:45+00:00",
-      "modified_at": "2026-11-16T09:15:10+00:00",
-      "release_date": null
-    },
-    {
       "id": "110282",
       "title": "Pokémon - Valisette - Méga Evolution - Automne 2025 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/valisette-pokemon/pokemon-valisette-mega-evolution-automne-2025-en-francais/",
@@ -4032,6 +4018,20 @@
       "event_id": "458bb18c8731f7a7",
       "published_at": "2025-12-12T13:51:27+00:00",
       "modified_at": "2026-11-16T09:15:12+00:00",
+      "release_date": null
+    },
+    {
+      "id": "104793",
+      "title": "Pokémon - Booster Blister - Flammes Fantasmagoriques - ME02 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-blister-flammes-fantasmagoriques-me02-en-francais/",
+      "price": 10.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T09:15:40+00:00",
+      "event_id": "1296a7879e5cb3b3",
+      "published_at": "2025-10-17T16:50:45+00:00",
+      "modified_at": "2026-11-16T09:15:10+00:00",
       "release_date": null
     }
   ],
