@@ -2328,20 +2328,6 @@
   },
   "pending": [
     {
-      "id": "110282",
-      "title": "Pokémon - Valisette - Méga Evolution - Automne 2025 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/valisette-pokemon/pokemon-valisette-mega-evolution-automne-2025-en-francais/",
-      "price": 44.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T09:15:40+00:00",
-      "event_id": "159f64cc3354ccf2",
-      "published_at": "2025-10-16T16:25:56+00:00",
-      "modified_at": "2026-11-16T09:15:09+00:00",
-      "release_date": null
-    },
-    {
       "id": "79887",
       "title": "Pokémon - Booster Blister Etincelles Déferlantes - EV08 - en français (aléatoire)",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-blister-etincelles-deferlantes-ev08-en-francais-aleatoire/",
@@ -4032,6 +4018,20 @@
       "event_id": "1296a7879e5cb3b3",
       "published_at": "2025-10-17T16:50:45+00:00",
       "modified_at": "2026-11-16T09:15:10+00:00",
+      "release_date": null
+    },
+    {
+      "id": "110282",
+      "title": "Pokémon - Valisette - Méga Evolution - Automne 2025 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/valisette-pokemon/pokemon-valisette-mega-evolution-automne-2025-en-francais/",
+      "price": 44.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T09:15:40+00:00",
+      "event_id": "159f64cc3354ccf2",
+      "published_at": "2025-10-16T16:25:56+00:00",
+      "modified_at": "2026-11-16T09:15:09+00:00",
       "release_date": null
     }
   ],
