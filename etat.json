@@ -2419,20 +2419,6 @@
   },
   "pending": [
     {
-      "id": "173909",
-      "title": "Pokémon - Pack - 1 Bundle Héros Transcendants ME2.5 + 1 Bundle Chaos Ascendant ME04 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-pack-1-bundle-heros-transcendants-me2-5-1-bundle-chaos-ascendant-me04-en-francais/",
-      "price": 119.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T16:50:36+00:00",
-      "event_id": "445d2afd88d39bb7",
-      "published_at": "2026-06-04T13:35:59+00:00",
-      "modified_at": "2026-11-16T16:46:07+00:00",
-      "release_date": null
-    },
-    {
       "id": "155399",
       "title": "Pokémon - Display - Blue Sky Stream - S7R - Boîte de 30 Boosters en coréen",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-blue-sky-stream-s7r-boite-de-30-boosters-en-coreen/",
@@ -4221,6 +4207,20 @@
       "event_id": "aaddc16ea6d8ace7",
       "published_at": "2026-06-25T09:37:22+00:00",
       "modified_at": "2026-11-16T16:46:39+00:00",
+      "release_date": null
+    },
+    {
+      "id": "173909",
+      "title": "Pokémon - Pack - 1 Bundle Héros Transcendants ME2.5 + 1 Bundle Chaos Ascendant ME04 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-pack-1-bundle-heros-transcendants-me2-5-1-bundle-chaos-ascendant-me04-en-francais/",
+      "price": 119.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T16:50:36+00:00",
+      "event_id": "445d2afd88d39bb7",
+      "published_at": "2026-06-04T13:35:59+00:00",
+      "modified_at": "2026-11-16T16:46:07+00:00",
       "release_date": null
     }
   ],
