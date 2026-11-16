@@ -2352,22 +2352,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "93510",
-      "title": "Pokémon - Deck Combat Rivalité - Pierre - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-rivalite-pierre-en-francais/",
-      "price": 49.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T13:15:39+00:00",
-      "event_id": "cb13ab52dbd724d9",
-      "published_at": "2025-08-04T16:11:14+00:00",
-      "modified_at": "2026-11-16T13:14:05+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -4086,6 +4071,20 @@
       "event_id": "53fbe83a483aa56c",
       "published_at": "2026-06-02T10:04:23+00:00",
       "modified_at": "2026-11-16T09:15:46+00:00",
+      "release_date": null
+    },
+    {
+      "id": "93510",
+      "title": "Pokémon - Deck Combat Rivalité - Pierre - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-combat-rivalite-pierre-en-francais/",
+      "price": 49.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T13:15:39+00:00",
+      "event_id": "cb13ab52dbd724d9",
+      "published_at": "2025-08-04T16:11:14+00:00",
+      "modified_at": "2026-11-16T13:14:05+00:00",
       "release_date": null
     }
   ],
