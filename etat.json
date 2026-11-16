@@ -2328,20 +2328,6 @@
   },
   "pending": [
     {
-      "id": "95764",
-      "title": "Pokémon - Coffret Académie de Combat - V3 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-academie-de-combat-v3-en-francais/",
-      "price": 32.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T09:15:40+00:00",
-      "event_id": "458bb18c8731f7a7",
-      "published_at": "2025-12-12T13:51:27+00:00",
-      "modified_at": "2026-11-16T09:15:12+00:00",
-      "release_date": null
-    },
-    {
       "id": "104793",
       "title": "Pokémon - Booster Blister - Flammes Fantasmagoriques - ME02 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-blister-flammes-fantasmagoriques-me02-en-francais/",
@@ -4032,6 +4018,20 @@
       "event_id": "0bb3a9000d668e7d",
       "published_at": "2026-03-13T16:43:30+00:00",
       "modified_at": "2026-11-16T09:15:27+00:00",
+      "release_date": null
+    },
+    {
+      "id": "95764",
+      "title": "Pokémon - Coffret Académie de Combat - V3 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-academie-de-combat-v3-en-francais/",
+      "price": 32.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T09:15:40+00:00",
+      "event_id": "458bb18c8731f7a7",
+      "published_at": "2025-12-12T13:51:27+00:00",
+      "modified_at": "2026-11-16T09:15:12+00:00",
       "release_date": null
     }
   ],
