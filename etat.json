@@ -2430,22 +2430,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "83140",
-      "title": "Pokémon – Coffret Collection Spéciale Dracaufeu-Ex – En français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-collection-speciale-dracaufeu-ex-en-francais/",
-      "price": 49.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T16:55:30+00:00",
-      "event_id": "33c86777f42968db",
-      "published_at": "2025-05-06T16:26:26+00:00",
-      "modified_at": "2026-11-16T16:50:54+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -4248,6 +4233,20 @@
       "event_id": "119658783f65008f",
       "published_at": "2026-03-30T13:11:09+00:00",
       "modified_at": "2026-11-16T16:45:50+00:00",
+      "release_date": null
+    },
+    {
+      "id": "83140",
+      "title": "Pokémon – Coffret Collection Spéciale Dracaufeu-Ex – En français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-collection-speciale-dracaufeu-ex-en-francais/",
+      "price": 49.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T16:55:30+00:00",
+      "event_id": "33c86777f42968db",
+      "published_at": "2025-05-06T16:26:26+00:00",
+      "modified_at": "2026-11-16T16:50:54+00:00",
       "release_date": null
     }
   ],
