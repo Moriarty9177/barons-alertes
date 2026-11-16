@@ -2417,22 +2417,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "155399",
-      "title": "Pokémon - Display - Blue Sky Stream - S7R - Boîte de 30 Boosters en coréen",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-blue-sky-stream-s7r-boite-de-30-boosters-en-coreen/",
-      "price": 119.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-16T16:50:36+00:00",
-      "event_id": "119658783f65008f",
-      "published_at": "2026-03-30T13:11:09+00:00",
-      "modified_at": "2026-11-16T16:45:50+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -4221,6 +4206,20 @@
       "event_id": "445d2afd88d39bb7",
       "published_at": "2026-06-04T13:35:59+00:00",
       "modified_at": "2026-11-16T16:46:07+00:00",
+      "release_date": null
+    },
+    {
+      "id": "155399",
+      "title": "Pokémon - Display - Blue Sky Stream - S7R - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-blue-sky-stream-s7r-boite-de-30-boosters-en-coreen/",
+      "price": 119.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-16T16:50:36+00:00",
+      "event_id": "119658783f65008f",
+      "published_at": "2026-03-30T13:11:09+00:00",
+      "modified_at": "2026-11-16T16:45:50+00:00",
       "release_date": null
     }
   ],
