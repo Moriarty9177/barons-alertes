@@ -2770,20 +2770,6 @@
   },
   "pending": [
     {
-      "id": "34432",
-      "title": "Pokémon - Display - Écarlate & Violet - EV01 - Boîte de 36 Boosters en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/display-ev1/",
-      "price": 259.99,
-      "availability": "commandable",
-      "item_category": "Display Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-19T03:01:10+00:00",
-      "event_id": "e658592d57e4e865",
-      "published_at": "2023-04-08T11:49:26+00:00",
-      "modified_at": "2026-11-18T13:51:54+00:00",
-      "release_date": null
-    },
-    {
       "id": "162392",
       "title": "Pokémon - Pack - 1 ETB Chaos Ascendant ME04 + 2 Tripack Chaos Ascendant ME04 + 1 Display Chaos Ascendant ME04 + 1 Bundle Chaos Ascendant ME04 – en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-etb-chaos-ascendant-me04-2-tripack-chaos-ascendant-me04-1-display-chaos-ascendant-me04-1-bundle-chaos-ascendant-me04-en-francais/",
@@ -4950,6 +4936,20 @@
       "event_id": "37da28b6bc1c12c1",
       "published_at": "2023-12-28T16:17:40+00:00",
       "modified_at": "2026-11-18T12:44:44+00:00",
+      "release_date": null
+    },
+    {
+      "id": "34432",
+      "title": "Pokémon - Display - Écarlate & Violet - EV01 - Boîte de 36 Boosters en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/display-ev1/",
+      "price": 259.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-19T03:01:10+00:00",
+      "event_id": "e658592d57e4e865",
+      "published_at": "2023-04-08T11:49:26+00:00",
+      "modified_at": "2026-11-18T13:51:54+00:00",
       "release_date": null
     }
   ],
