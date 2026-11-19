@@ -2770,20 +2770,6 @@
   },
   "pending": [
     {
-      "id": "155389",
-      "title": "Pokémon - Display - Vstar Universe - S12A - Boîte de 10 Boosters en coréen",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-vstar-universe-s12a-boite-de-10-boosters-en-coreen/",
-      "price": 119.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-19T03:01:10+00:00",
-      "event_id": "6ceade3da940cd9a",
-      "published_at": "2026-03-25T13:40:22+00:00",
-      "modified_at": "2026-11-18T13:52:24+00:00",
-      "release_date": null
-    },
-    {
       "id": "153056",
       "title": "Pokémon - Coffret - Méga-Méganium ex - ME2.5 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-mega-meganium-ex-en-francais/",
@@ -4950,6 +4936,20 @@
       "event_id": "d64d0745c24b853e",
       "published_at": "2026-04-23T08:21:03+00:00",
       "modified_at": "2026-11-18T13:52:41+00:00",
+      "release_date": null
+    },
+    {
+      "id": "155389",
+      "title": "Pokémon - Display - Vstar Universe - S12A - Boîte de 10 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-vstar-universe-s12a-boite-de-10-boosters-en-coreen/",
+      "price": 119.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-19T03:01:10+00:00",
+      "event_id": "6ceade3da940cd9a",
+      "published_at": "2026-03-25T13:40:22+00:00",
+      "modified_at": "2026-11-18T13:52:24+00:00",
       "release_date": null
     }
   ],
