@@ -2770,20 +2770,6 @@
   },
   "pending": [
     {
-      "id": "180628",
-      "title": "Pokémon - Pack - ETB - ME03 + ME2.5 - Coffret Dresseur d’Elite en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-pack-etb-me03-me2-5-coffret-dresseur-delite-en-francais/",
-      "price": 204.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-19T03:01:10+00:00",
-      "event_id": "bd200dd14ae9384c",
-      "published_at": "2026-06-27T09:09:18+00:00",
-      "modified_at": "2026-11-18T22:32:19+00:00",
-      "release_date": null
-    },
-    {
       "id": "126293",
       "title": "Pokémon - Mini-Tin (aléatoire) - Héros Transcendants - ME2.5 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-mini-tin-aleatoire-heros-transcendants-me2-5-en-francais/",
@@ -4950,6 +4936,20 @@
       "event_id": "3625f79d8d0db6f2",
       "published_at": "2026-11-17T11:16:05+00:00",
       "modified_at": "2026-11-18T19:15:45+00:00",
+      "release_date": null
+    },
+    {
+      "id": "180628",
+      "title": "Pokémon - Pack - ETB - ME03 + ME2.5 - Coffret Dresseur d’Elite en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-pack-etb-me03-me2-5-coffret-dresseur-delite-en-francais/",
+      "price": 204.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-19T03:01:10+00:00",
+      "event_id": "bd200dd14ae9384c",
+      "published_at": "2026-06-27T09:09:18+00:00",
+      "modified_at": "2026-11-18T22:32:19+00:00",
       "release_date": null
     }
   ],
