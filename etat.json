@@ -2770,20 +2770,6 @@
   },
   "pending": [
     {
-      "id": "84748",
-      "title": "Pokémon - Mini tin - 2019 - Ami Kanto - EB10 EB11 - FR (aléatoire)",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/mini-tin-pokemon/pokemon-mini-tin-2019-ami-kanto-eb10-eb11-fr/",
-      "price": 24.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-19T03:01:10+00:00",
-      "event_id": "29595f6917e182eb",
-      "published_at": "2025-05-28T14:05:26+00:00",
-      "modified_at": "2026-11-18T11:01:09+00:00",
-      "release_date": null
-    },
-    {
       "id": "83141",
       "title": "Pokémon - Bundle EV8.5 - Évolutions Prismatiques - En français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/bundle-pokemon/pokemon-bundle-ev8-5-evolutions-prismatiques-en-francais/",
@@ -4950,6 +4936,20 @@
       "event_id": "92958b46ef228e50",
       "published_at": "2025-06-14T13:07:28+00:00",
       "modified_at": "2026-11-18T11:01:12+00:00",
+      "release_date": null
+    },
+    {
+      "id": "84748",
+      "title": "Pokémon - Mini tin - 2019 - Ami Kanto - EB10 EB11 - FR (aléatoire)",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/mini-tin-pokemon/pokemon-mini-tin-2019-ami-kanto-eb10-eb11-fr/",
+      "price": 24.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-19T03:01:10+00:00",
+      "event_id": "29595f6917e182eb",
+      "published_at": "2025-05-28T14:05:26+00:00",
+      "modified_at": "2026-11-18T11:01:09+00:00",
       "release_date": null
     }
   ],
