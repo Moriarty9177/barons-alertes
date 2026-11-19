@@ -2770,20 +2770,6 @@
   },
   "pending": [
     {
-      "id": "132011",
-      "title": "Pokémon - Coffret 30 Ans Journée 2026 Pikachu - Pokémon Day - en Français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-30-ans-journee-2026-pikachu-pokemon-day-en-francais/",
-      "price": 34.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-19T03:01:10+00:00",
-      "event_id": "f1d471677d905690",
-      "published_at": "2025-12-26T16:48:37+00:00",
-      "modified_at": "2026-11-18T19:54:44+00:00",
-      "release_date": null
-    },
-    {
       "id": "126292",
       "title": "Pokémon - ETB - Héros Transcendants - ME2.5 - Coffret Dresseur d’Elite en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-heros-transcendants-me2-5-coffret-dresseur-delite-en-francais/",
@@ -4950,6 +4936,20 @@
       "event_id": "bf9e3845737284e4",
       "published_at": "2026-02-23T11:16:01+00:00",
       "modified_at": "2026-11-18T13:52:13+00:00",
+      "release_date": null
+    },
+    {
+      "id": "132011",
+      "title": "Pokémon - Coffret 30 Ans Journée 2026 Pikachu - Pokémon Day - en Français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-30-ans-journee-2026-pikachu-pokemon-day-en-francais/",
+      "price": 34.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-19T03:01:10+00:00",
+      "event_id": "f1d471677d905690",
+      "published_at": "2025-12-26T16:48:37+00:00",
+      "modified_at": "2026-11-18T19:54:44+00:00",
       "release_date": null
     }
   ],
