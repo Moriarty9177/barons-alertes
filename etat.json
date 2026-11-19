@@ -2770,20 +2770,6 @@
   },
   "pending": [
     {
-      "id": "81853",
-      "title": "Pokémon - Display - Rivalités Destinées - EV10 - Boîte de 36 Boosters en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-rivalites-destinees-ev10-boite-de-36-boosters-en-francais/",
-      "price": 349.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-19T03:01:10+00:00",
-      "event_id": "b6db7e3102905b5b",
-      "published_at": "2025-04-29T10:41:59+00:00",
-      "modified_at": "2026-11-18T13:52:20+00:00",
-      "release_date": null
-    },
-    {
       "id": "46178",
       "title": "Pokemon - Display - Forces Temporelles - EV05 - Boîte de 36 Boosters en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-ev05-forces-temporelles-boite-de-36-boosters-fr/",
@@ -4950,6 +4936,20 @@
       "event_id": "df6f19c584232579",
       "published_at": "2025-05-06T22:15:56+00:00",
       "modified_at": "2026-11-18T15:45:33+00:00",
+      "release_date": null
+    },
+    {
+      "id": "81853",
+      "title": "Pokémon - Display - Rivalités Destinées - EV10 - Boîte de 36 Boosters en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-display-rivalites-destinees-ev10-boite-de-36-boosters-en-francais/",
+      "price": 349.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-19T03:01:10+00:00",
+      "event_id": "b6db7e3102905b5b",
+      "published_at": "2025-04-29T10:41:59+00:00",
+      "modified_at": "2026-11-18T13:52:20+00:00",
       "release_date": null
     }
   ],
