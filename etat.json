@@ -2770,20 +2770,6 @@
   },
   "pending": [
     {
-      "id": "126293",
-      "title": "Pokémon - Mini-Tin (aléatoire) - Héros Transcendants - ME2.5 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-mini-tin-aleatoire-heros-transcendants-me2-5-en-francais/",
-      "price": 21.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-19T03:01:10+00:00",
-      "event_id": "77b61d0cf9c03711",
-      "published_at": "2025-12-12T15:23:28+00:00",
-      "modified_at": "2026-11-18T17:58:20+00:00",
-      "release_date": null
-    },
-    {
       "id": "106254",
       "title": "Pokémon - Coffret - Méga-Kangourex ex - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-mega-kangourex-ex-en-francais/",
@@ -4950,6 +4936,20 @@
       "event_id": "bd200dd14ae9384c",
       "published_at": "2026-06-27T09:09:18+00:00",
       "modified_at": "2026-11-18T22:32:19+00:00",
+      "release_date": null
+    },
+    {
+      "id": "126293",
+      "title": "Pokémon - Mini-Tin (aléatoire) - Héros Transcendants - ME2.5 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-mini-tin-aleatoire-heros-transcendants-me2-5-en-francais/",
+      "price": 21.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-19T03:01:10+00:00",
+      "event_id": "77b61d0cf9c03711",
+      "published_at": "2025-12-12T15:23:28+00:00",
+      "modified_at": "2026-11-18T17:58:20+00:00",
       "release_date": null
     }
   ],
