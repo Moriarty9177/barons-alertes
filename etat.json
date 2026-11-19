@@ -2768,22 +2768,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "126292",
-      "title": "Pokémon - ETB - Héros Transcendants - ME2.5 - Coffret Dresseur d’Elite en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-heros-transcendants-me2-5-coffret-dresseur-delite-en-francais/",
-      "price": 149.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-19T03:01:10+00:00",
-      "event_id": "c3839f22bd58a551",
-      "published_at": "2025-12-12T15:25:52+00:00",
-      "modified_at": "2026-11-18T22:32:05+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -4950,6 +4935,20 @@
       "event_id": "f1d471677d905690",
       "published_at": "2025-12-26T16:48:37+00:00",
       "modified_at": "2026-11-18T19:54:44+00:00",
+      "release_date": null
+    },
+    {
+      "id": "126292",
+      "title": "Pokémon - ETB - Héros Transcendants - ME2.5 - Coffret Dresseur d’Elite en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-heros-transcendants-me2-5-coffret-dresseur-delite-en-francais/",
+      "price": 149.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-19T03:01:10+00:00",
+      "event_id": "c3839f22bd58a551",
+      "published_at": "2025-12-12T15:25:52+00:00",
+      "modified_at": "2026-11-18T22:32:05+00:00",
       "release_date": null
     }
   ],
