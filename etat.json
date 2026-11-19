@@ -2770,20 +2770,6 @@
   },
   "pending": [
     {
-      "id": "224016",
-      "title": "Pokémon - Pack - 1 ETB 30e anniversaire + 3 Booster Blister Règne Delta (ME06) + 3 Booster Blister Nuit Noire (ME05) + 3 Booster Blister Equilibre Parfait (ME03) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-etb-30e-anniversaire-3-booster-blister-regne-delta-me06-3-booster-blister-nuit-noire-me05-3-booster-blister-equilibre-parfait-me03-en-francais/",
-      "price": 194.99,
-      "availability": "precommande",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-19T03:01:10+00:00",
-      "event_id": "e4c641cceb18bed3",
-      "published_at": "2026-11-17T17:28:18+00:00",
-      "modified_at": "2026-11-18T19:15:48+00:00",
-      "release_date": null
-    },
-    {
       "id": "224015",
       "title": "Pokémon - Pack - 1 ETB 30e anniversaire + 1 Tripack Equilibre parfait (ME03) + 1 mini tin ME03/ME04 + 1 Duopack ME04/ME05 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/duo-pack-pokemon/pokemon-pack-1-etb-30e-anniversaire-1-tripack-equilibre-parfait-me03-1-mini-tin-me03-me04-1-duopack-me04-me05-en-francais/",
@@ -4950,6 +4936,20 @@
       "event_id": "50c6e03a7f30ac3e",
       "published_at": "2026-11-17T17:28:31+00:00",
       "modified_at": "2026-11-18T22:46:00+00:00",
+      "release_date": null
+    },
+    {
+      "id": "224016",
+      "title": "Pokémon - Pack - 1 ETB 30e anniversaire + 3 Booster Blister Règne Delta (ME06) + 3 Booster Blister Nuit Noire (ME05) + 3 Booster Blister Equilibre Parfait (ME03) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-etb-30e-anniversaire-3-booster-blister-regne-delta-me06-3-booster-blister-nuit-noire-me05-3-booster-blister-equilibre-parfait-me03-en-francais/",
+      "price": 194.99,
+      "availability": "precommande",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-19T03:01:10+00:00",
+      "event_id": "e4c641cceb18bed3",
+      "published_at": "2026-11-17T17:28:18+00:00",
+      "modified_at": "2026-11-18T19:15:48+00:00",
       "release_date": null
     }
   ],
