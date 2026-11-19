@@ -2770,20 +2770,6 @@
   },
   "pending": [
     {
-      "id": "106255",
-      "title": "Pokémon - Coffret Collection Premium - Méga-Florizarre ex - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-collection-premium-mega-florizarre-ex-en-francais/",
-      "price": 59.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-19T03:01:10+00:00",
-      "event_id": "e863b4362541a88d",
-      "published_at": "2025-10-16T16:47:24+00:00",
-      "modified_at": "2026-11-18T18:31:35+00:00",
-      "release_date": null
-    },
-    {
       "id": "99055",
       "title": "Pokémon - Duopack - Team Rocket - Artikodin/Electhor/Tyranocif - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-duopack-team-rocket-artikodin-electhor-tyranocif-en-francais/",
@@ -4950,6 +4936,20 @@
       "event_id": "7d45c6f3085a7df9",
       "published_at": "2025-10-16T16:50:54+00:00",
       "modified_at": "2026-11-18T13:51:06+00:00",
+      "release_date": null
+    },
+    {
+      "id": "106255",
+      "title": "Pokémon - Coffret Collection Premium - Méga-Florizarre ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-collection-premium-mega-florizarre-ex-en-francais/",
+      "price": 59.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-19T03:01:10+00:00",
+      "event_id": "e863b4362541a88d",
+      "published_at": "2025-10-16T16:47:24+00:00",
+      "modified_at": "2026-11-18T18:31:35+00:00",
       "release_date": null
     }
   ],
