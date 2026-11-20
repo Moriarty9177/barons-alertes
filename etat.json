@@ -2978,20 +2978,6 @@
   },
   "pending": [
     {
-      "id": "225398",
-      "title": "Pokémon - Pack - 1 Coffret Nymphali ex 30e anniversaire + 1 Duopack Mystherbe/Ortide/Rafflésia + 2 Booster Blister Nuit Noire (ME05) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-nymphali-ex-30e-anniversaire-1-duopack-mystherbe-ortide-rafflesia-2-booster-blister-nuit-noire-me05-en-francais/",
-      "price": 69.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-20T19:25:35+00:00",
-      "event_id": "61afbe08debbe519",
-      "published_at": "2026-11-20T17:25:24+00:00",
-      "modified_at": "2026-11-20T19:22:47+00:00",
-      "release_date": null
-    },
-    {
       "id": "225397",
       "title": "Pokémon - Pack - 1 Pokébox Méga Nymphali ex 30e anniversaire + 1 Pokébox Méga Evolution Ex (aléatoire) + 2 Booster Blister Équilibre Parfait (ME03) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-pokebox-mega-nymphali-ex-30e-anniversaire-1-pokebox-mega-evolution-ex-aleatoire-2-booster-blister-equilibre-parfait-me03-en-francais/",
@@ -5382,6 +5368,20 @@
       "event_id": "c2c9547c6178fec5",
       "published_at": "2026-11-20T17:25:51+00:00",
       "modified_at": "2026-11-20T19:22:56+00:00",
+      "release_date": null
+    },
+    {
+      "id": "225398",
+      "title": "Pokémon - Pack - 1 Coffret Nymphali ex 30e anniversaire + 1 Duopack Mystherbe/Ortide/Rafflésia + 2 Booster Blister Nuit Noire (ME05) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-nymphali-ex-30e-anniversaire-1-duopack-mystherbe-ortide-rafflesia-2-booster-blister-nuit-noire-me05-en-francais/",
+      "price": 69.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-20T19:25:35+00:00",
+      "event_id": "61afbe08debbe519",
+      "published_at": "2026-11-20T17:25:24+00:00",
+      "modified_at": "2026-11-20T19:22:47+00:00",
       "release_date": null
     }
   ],
