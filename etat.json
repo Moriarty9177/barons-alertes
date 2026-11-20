@@ -2978,20 +2978,6 @@
   },
   "pending": [
     {
-      "id": "225400",
-      "title": "Pokémon - Pack - 1 Coffret Poster 30e anniversaire + 1 Portfolio Héros Transcendants + 4 Booster Blister Règne Delta (ME06) + 2 Booster Blister Chaos Ascendant (ME04) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-poster-30e-anniversaire-1-portfolio-heros-transcendants-4-booster-blister-regne-delta-me06-2-booster-blister-chaos-ascendant-me04-en-francais/",
-      "price": 89.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-20T19:25:35+00:00",
-      "event_id": "b1bab41c32f1ce3b",
-      "published_at": "2026-11-20T17:26:18+00:00",
-      "modified_at": "2026-11-20T19:23:05+00:00",
-      "release_date": null
-    },
-    {
       "id": "225399",
       "title": "Pokémon - Pack - 1 Tripack Lucario 30e anniversaire + 1 Deck de Combat de Ligue Méga Lucario ex + 1 Portfolio Lucario - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-pack-1-tripack-lucario-30e-anniversaire-1-deck-de-combat-de-ligue-mega-lucario-ex-1-portfolio-lucario-en-francais/",
@@ -5382,6 +5368,20 @@
       "event_id": "1ce53cc6887e2bfb",
       "published_at": "2026-11-20T17:26:44+00:00",
       "modified_at": "2026-11-20T19:23:24+00:00",
+      "release_date": null
+    },
+    {
+      "id": "225400",
+      "title": "Pokémon - Pack - 1 Coffret Poster 30e anniversaire + 1 Portfolio Héros Transcendants + 4 Booster Blister Règne Delta (ME06) + 2 Booster Blister Chaos Ascendant (ME04) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-poster-30e-anniversaire-1-portfolio-heros-transcendants-4-booster-blister-regne-delta-me06-2-booster-blister-chaos-ascendant-me04-en-francais/",
+      "price": 89.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-20T19:25:35+00:00",
+      "event_id": "b1bab41c32f1ce3b",
+      "published_at": "2026-11-20T17:26:18+00:00",
+      "modified_at": "2026-11-20T19:23:05+00:00",
       "release_date": null
     }
   ],
