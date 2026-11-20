@@ -2978,20 +2978,6 @@
   },
   "pending": [
     {
-      "id": "225391",
-      "title": "Pokémon - Pack - 1 Coffret Premium Métamorph 30e anniversaire + 1 Display Évolutions à Paldea (EV02) + 1 Portfolio Zeraora - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-premium-metamorph-30e-anniversaire-1-display-evolutions-a-paldea-ev02-1-portfolio-zeraora-en-francais/",
-      "price": 329.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-20T19:25:35+00:00",
-      "event_id": "a0f85d02b137d551",
-      "published_at": "2026-11-20T17:22:07+00:00",
-      "modified_at": "2026-11-20T19:21:42+00:00",
-      "release_date": null
-    },
-    {
       "id": "225390",
       "title": "Pokémon - Pack - 1 ETB 30e anniversaire + 1 Display Chaos Ascendant (ME04) + 1 Portfolio Chaos Ascendant - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-etb-30e-anniversaire-1-display-chaos-ascendant-me04-1-portfolio-chaos-ascendant-en-francais/",
@@ -5382,6 +5368,20 @@
       "event_id": "9e5556a6ed7c8c78",
       "published_at": "2026-11-20T17:22:33+00:00",
       "modified_at": "2026-11-20T19:21:49+00:00",
+      "release_date": null
+    },
+    {
+      "id": "225391",
+      "title": "Pokémon - Pack - 1 Coffret Premium Métamorph 30e anniversaire + 1 Display Évolutions à Paldea (EV02) + 1 Portfolio Zeraora - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-premium-metamorph-30e-anniversaire-1-display-evolutions-a-paldea-ev02-1-portfolio-zeraora-en-francais/",
+      "price": 329.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-20T19:25:35+00:00",
+      "event_id": "a0f85d02b137d551",
+      "published_at": "2026-11-20T17:22:07+00:00",
+      "modified_at": "2026-11-20T19:21:42+00:00",
       "release_date": null
     }
   ],
