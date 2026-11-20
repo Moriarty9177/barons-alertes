@@ -2978,20 +2978,6 @@
   },
   "pending": [
     {
-      "id": "225397",
-      "title": "Pokémon - Pack - 1 Pokébox Méga Nymphali ex 30e anniversaire + 1 Pokébox Méga Evolution Ex (aléatoire) + 2 Booster Blister Équilibre Parfait (ME03) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-pokebox-mega-nymphali-ex-30e-anniversaire-1-pokebox-mega-evolution-ex-aleatoire-2-booster-blister-equilibre-parfait-me03-en-francais/",
-      "price": 79.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-20T19:25:35+00:00",
-      "event_id": "6bb13e3b0cfb9925",
-      "published_at": "2026-11-20T17:24:52+00:00",
-      "modified_at": "2026-11-20T19:22:41+00:00",
-      "release_date": null
-    },
-    {
       "id": "225396",
       "title": "Pokémon - Pack - 1 Coffret Amphinobi ex 30e anniversaire + 2 Booster Blister Équilibre Parfait (ME03) + 3 Booster Blister Chaos Ascendant (ME04) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-amphinobi-ex-30e-anniversaire-2-booster-blister-equilibre-parfait-me03-3-booster-blister-chaos-ascendant-me04-en-francais/",
@@ -5382,6 +5368,20 @@
       "event_id": "61afbe08debbe519",
       "published_at": "2026-11-20T17:25:24+00:00",
       "modified_at": "2026-11-20T19:22:47+00:00",
+      "release_date": null
+    },
+    {
+      "id": "225397",
+      "title": "Pokémon - Pack - 1 Pokébox Méga Nymphali ex 30e anniversaire + 1 Pokébox Méga Evolution Ex (aléatoire) + 2 Booster Blister Équilibre Parfait (ME03) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-pokebox-mega-nymphali-ex-30e-anniversaire-1-pokebox-mega-evolution-ex-aleatoire-2-booster-blister-equilibre-parfait-me03-en-francais/",
+      "price": 79.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-20T19:25:35+00:00",
+      "event_id": "6bb13e3b0cfb9925",
+      "published_at": "2026-11-20T17:24:52+00:00",
+      "modified_at": "2026-11-20T19:22:41+00:00",
       "release_date": null
     }
   ],
