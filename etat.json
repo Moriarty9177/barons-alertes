@@ -2978,20 +2978,6 @@
   },
   "pending": [
     {
-      "id": "225402",
-      "title": "Pokémon - Pack - 1 Duopack Évoli 30e anniversaire + 1 Duopack Chaos Ascendant & Nuit Noire (ME04/ME05) + 1 Portfolio Miaouss + 2 Booster Blister Règne Delta (ME06) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-duopack-evoli-30e-anniversaire-1-duopack-chaos-ascendant-nuit-noire-me04-me05-1-portfolio-miaouss-2-booster-blister-regne-delta-me06-en-francais/",
-      "price": 59.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-20T19:25:35+00:00",
-      "event_id": "2df835aa48499f16",
-      "published_at": "2026-11-20T17:27:15+00:00",
-      "modified_at": "2026-11-20T19:23:30+00:00",
-      "release_date": null
-    },
-    {
       "id": "225401",
       "title": "Pokémon - Pack - 1 Tripack Noadkoko 30e anniversaire + 1 Tripack Nuit Noire (ME05) + 3 Booster Blister Équilibre Parfait (ME03) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-tripack-noadkoko-30e-anniversaire-1-tripack-nuit-noire-me05-3-booster-blister-equilibre-parfait-me03-en-francais/",
@@ -5382,6 +5368,20 @@
       "event_id": "9b8c957730cfdf86",
       "published_at": "2026-11-20T17:27:42+00:00",
       "modified_at": "2026-11-20T19:23:39+00:00",
+      "release_date": null
+    },
+    {
+      "id": "225402",
+      "title": "Pokémon - Pack - 1 Duopack Évoli 30e anniversaire + 1 Duopack Chaos Ascendant & Nuit Noire (ME04/ME05) + 1 Portfolio Miaouss + 2 Booster Blister Règne Delta (ME06) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-duopack-evoli-30e-anniversaire-1-duopack-chaos-ascendant-nuit-noire-me04-me05-1-portfolio-miaouss-2-booster-blister-regne-delta-me06-en-francais/",
+      "price": 59.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-20T19:25:35+00:00",
+      "event_id": "2df835aa48499f16",
+      "published_at": "2026-11-20T17:27:15+00:00",
+      "modified_at": "2026-11-20T19:23:30+00:00",
       "release_date": null
     }
   ],
