@@ -2978,20 +2978,6 @@
   },
   "pending": [
     {
-      "id": "225392",
-      "title": "Pokémon - Pack - 1 Bundle 30e anniversaire + 1 ETB Mascarade Crépusculaire (EV06) + 4 Booster Blister Règne Delta (ME06) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-bundle-30e-anniversaire-1-etb-mascarade-crepusculaire-ev06-4-booster-blister-regne-delta-me06-en-francais/",
-      "price": 169.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-20T19:25:35+00:00",
-      "event_id": "9e5556a6ed7c8c78",
-      "published_at": "2026-11-20T17:22:33+00:00",
-      "modified_at": "2026-11-20T19:21:49+00:00",
-      "release_date": null
-    },
-    {
       "id": "225391",
       "title": "Pokémon - Pack - 1 Coffret Premium Métamorph 30e anniversaire + 1 Display Évolutions à Paldea (EV02) + 1 Portfolio Zeraora - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-pack-1-coffret-premium-metamorph-30e-anniversaire-1-display-evolutions-a-paldea-ev02-1-portfolio-zeraora-en-francais/",
@@ -5382,6 +5368,20 @@
       "event_id": "e606fd117fb51ab4",
       "published_at": "2026-11-20T17:23:00+00:00",
       "modified_at": "2026-11-20T19:21:56+00:00",
+      "release_date": null
+    },
+    {
+      "id": "225392",
+      "title": "Pokémon - Pack - 1 Bundle 30e anniversaire + 1 ETB Mascarade Crépusculaire (EV06) + 4 Booster Blister Règne Delta (ME06) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-bundle-30e-anniversaire-1-etb-mascarade-crepusculaire-ev06-4-booster-blister-regne-delta-me06-en-francais/",
+      "price": 169.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-20T19:25:35+00:00",
+      "event_id": "9e5556a6ed7c8c78",
+      "published_at": "2026-11-20T17:22:33+00:00",
+      "modified_at": "2026-11-20T19:21:49+00:00",
       "release_date": null
     }
   ],
