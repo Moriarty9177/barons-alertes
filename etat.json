@@ -2978,20 +2978,6 @@
   },
   "pending": [
     {
-      "id": "225390",
-      "title": "Pokémon - Pack - 1 ETB 30e anniversaire + 1 Display Chaos Ascendant (ME04) + 1 Portfolio Chaos Ascendant - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-etb-30e-anniversaire-1-display-chaos-ascendant-me04-1-portfolio-chaos-ascendant-en-francais/",
-      "price": 349.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-20T19:25:35+00:00",
-      "event_id": "993743310348c3b9",
-      "published_at": "2026-11-20T17:21:41+00:00",
-      "modified_at": "2026-11-20T19:21:36+00:00",
-      "release_date": null
-    },
-    {
       "id": "225389",
       "title": "Pokémon - Pack - 1 UPC Mentali 30e anniversaire + 1 Display Équilibre Parfait (ME03) + 1 Portfolio Équilibre Parfait + 4 Booster Blister Règne Delta (ME06) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-upc-mentali-30e-anniversaire-1-display-equilibre-parfait-me03-1-portfolio-equilibre-parfait-4-booster-blister-regne-delta-me06-en-francais/",
@@ -5382,6 +5368,20 @@
       "event_id": "a0f85d02b137d551",
       "published_at": "2026-11-20T17:22:07+00:00",
       "modified_at": "2026-11-20T19:21:42+00:00",
+      "release_date": null
+    },
+    {
+      "id": "225390",
+      "title": "Pokémon - Pack - 1 ETB 30e anniversaire + 1 Display Chaos Ascendant (ME04) + 1 Portfolio Chaos Ascendant - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-pack-1-etb-30e-anniversaire-1-display-chaos-ascendant-me04-1-portfolio-chaos-ascendant-en-francais/",
+      "price": 349.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-20T19:25:35+00:00",
+      "event_id": "993743310348c3b9",
+      "published_at": "2026-11-20T17:21:41+00:00",
+      "modified_at": "2026-11-20T19:21:36+00:00",
       "release_date": null
     }
   ],
