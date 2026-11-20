@@ -2978,20 +2978,6 @@
   },
   "pending": [
     {
-      "id": "225401",
-      "title": "Pokémon - Pack - 1 Tripack Noadkoko 30e anniversaire + 1 Tripack Nuit Noire (ME05) + 3 Booster Blister Équilibre Parfait (ME03) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-tripack-noadkoko-30e-anniversaire-1-tripack-nuit-noire-me05-3-booster-blister-equilibre-parfait-me03-en-francais/",
-      "price": 69.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-20T19:25:35+00:00",
-      "event_id": "1ce53cc6887e2bfb",
-      "published_at": "2026-11-20T17:26:44+00:00",
-      "modified_at": "2026-11-20T19:23:24+00:00",
-      "release_date": null
-    },
-    {
       "id": "225400",
       "title": "Pokémon - Pack - 1 Coffret Poster 30e anniversaire + 1 Portfolio Héros Transcendants + 4 Booster Blister Règne Delta (ME06) + 2 Booster Blister Chaos Ascendant (ME04) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-poster-30e-anniversaire-1-portfolio-heros-transcendants-4-booster-blister-regne-delta-me06-2-booster-blister-chaos-ascendant-me04-en-francais/",
@@ -5382,6 +5368,20 @@
       "event_id": "2df835aa48499f16",
       "published_at": "2026-11-20T17:27:15+00:00",
       "modified_at": "2026-11-20T19:23:30+00:00",
+      "release_date": null
+    },
+    {
+      "id": "225401",
+      "title": "Pokémon - Pack - 1 Tripack Noadkoko 30e anniversaire + 1 Tripack Nuit Noire (ME05) + 3 Booster Blister Équilibre Parfait (ME03) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-tripack-noadkoko-30e-anniversaire-1-tripack-nuit-noire-me05-3-booster-blister-equilibre-parfait-me03-en-francais/",
+      "price": 69.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-20T19:25:35+00:00",
+      "event_id": "1ce53cc6887e2bfb",
+      "published_at": "2026-11-20T17:26:44+00:00",
+      "modified_at": "2026-11-20T19:23:24+00:00",
       "release_date": null
     }
   ],
