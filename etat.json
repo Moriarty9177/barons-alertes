@@ -3002,22 +3002,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "226862",
-      "title": "Pokémon - Pack - 1 Coffret Poster 30e anniversaire + 1 Tripack Équilibre Parfait (ME03) + 3 Booster Blister Règne Delta (ME06) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-poster-30e-anniversaire-1-tripack-equilibre-parfait-me03-3-booster-blister-regne-delta-me06-en-francais/",
-      "price": 79.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-25T16:55:36+00:00",
-      "event_id": "f1f03f0ae29461e0",
-      "published_at": "2026-11-25T14:27:40+00:00",
-      "modified_at": "2026-11-25T16:51:40+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -5436,6 +5421,20 @@
       "event_id": "913d682a1f8beebd",
       "published_at": "2026-11-25T14:28:39+00:00",
       "modified_at": "2026-11-25T16:51:47+00:00",
+      "release_date": null
+    },
+    {
+      "id": "226862",
+      "title": "Pokémon - Pack - 1 Coffret Poster 30e anniversaire + 1 Tripack Équilibre Parfait (ME03) + 3 Booster Blister Règne Delta (ME06) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-poster-30e-anniversaire-1-tripack-equilibre-parfait-me03-3-booster-blister-regne-delta-me06-en-francais/",
+      "price": 79.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-25T16:55:36+00:00",
+      "event_id": "f1f03f0ae29461e0",
+      "published_at": "2026-11-25T14:27:40+00:00",
+      "modified_at": "2026-11-25T16:51:40+00:00",
       "release_date": null
     }
   ],
