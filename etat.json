@@ -3004,20 +3004,6 @@
   },
   "pending": [
     {
-      "id": "226863",
-      "title": "Pokémon - Pack - 1 Tripack Lucario 30e anniversaire + 1 Tripack Équilibre Parfait (ME03) + 3 Booster Blister Règne Delta (ME06) - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-tripack-lucario-30e-anniversaire-1-tripack-equilibre-parfait-me03-3-booster-blister-regne-delta-me06-en-francais/",
-      "price": 69.99,
-      "availability": "commandable",
-      "item_category": "Pack Produits",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-25T16:55:36+00:00",
-      "event_id": "913d682a1f8beebd",
-      "published_at": "2026-11-25T14:28:39+00:00",
-      "modified_at": "2026-11-25T16:51:47+00:00",
-      "release_date": null
-    },
-    {
       "id": "226862",
       "title": "Pokémon - Pack - 1 Coffret Poster 30e anniversaire + 1 Tripack Équilibre Parfait (ME03) + 3 Booster Blister Règne Delta (ME06) - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-coffret-poster-30e-anniversaire-1-tripack-equilibre-parfait-me03-3-booster-blister-regne-delta-me06-en-francais/",
@@ -5436,6 +5422,20 @@
       "event_id": "33e9f18f2be918ee",
       "published_at": "2026-11-20T17:20:39+00:00",
       "modified_at": "2026-11-20T19:21:16+00:00",
+      "release_date": null
+    },
+    {
+      "id": "226863",
+      "title": "Pokémon - Pack - 1 Tripack Lucario 30e anniversaire + 1 Tripack Équilibre Parfait (ME03) + 3 Booster Blister Règne Delta (ME06) - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-pack-1-tripack-lucario-30e-anniversaire-1-tripack-equilibre-parfait-me03-3-booster-blister-regne-delta-me06-en-francais/",
+      "price": 69.99,
+      "availability": "commandable",
+      "item_category": "Pack Produits",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-25T16:55:36+00:00",
+      "event_id": "913d682a1f8beebd",
+      "published_at": "2026-11-25T14:28:39+00:00",
+      "modified_at": "2026-11-25T16:51:47+00:00",
       "release_date": null
     }
   ],
