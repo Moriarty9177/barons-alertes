@@ -3173,20 +3173,6 @@
   },
   "pending": [
     {
-      "id": "218271",
-      "title": "Pokémon - Display - Raging Surf - SV3A - Boîte de 30 Boosters en coréen",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-raging-surf-sv3a-boite-de-30-boosters-en-coreen/",
-      "price": 63.99,
-      "availability": "commandable",
-      "item_category": "Display Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T19:01:13+00:00",
-      "event_id": "246665548e12dead",
-      "published_at": "2026-11-03T14:07:07+00:00",
-      "modified_at": "2026-11-26T18:55:38+00:00",
-      "release_date": null
-    },
-    {
       "id": "218270",
       "title": "Pokémon - Display - Crimson Haze - SV5A - Boîte de 30 Boosters en coréen",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-crimson-haze-sv5a-boite-de-30-boosters-en-coreen/",
@@ -5787,6 +5773,20 @@
       "event_id": "2445d5fa38dad56f",
       "published_at": "2026-11-03T13:32:58+00:00",
       "modified_at": "2026-11-26T18:52:35+00:00",
+      "release_date": null
+    },
+    {
+      "id": "218271",
+      "title": "Pokémon - Display - Raging Surf - SV3A - Boîte de 30 Boosters en coréen",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-raging-surf-sv3a-boite-de-30-boosters-en-coreen/",
+      "price": 63.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T19:01:13+00:00",
+      "event_id": "246665548e12dead",
+      "published_at": "2026-11-03T14:07:07+00:00",
+      "modified_at": "2026-11-26T18:55:38+00:00",
       "release_date": null
     }
   ],
