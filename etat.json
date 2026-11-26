@@ -3067,22 +3067,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "176367",
-      "title": "Pokémon - Booster - Chaos Ascendant - ME04 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-chaos-ascendant-me04-en-francais/",
-      "price": 6.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T18:30:55+00:00",
-      "event_id": "6e330c372fcfc39e",
-      "published_at": "2026-06-10T08:41:56+00:00",
-      "modified_at": "2026-11-26T18:28:56+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -5571,6 +5556,20 @@
       "event_id": "479e3228bb35ccd0",
       "published_at": "2023-12-13T17:19:03+00:00",
       "modified_at": "2026-11-26T18:28:45+00:00",
+      "release_date": null
+    },
+    {
+      "id": "176367",
+      "title": "Pokémon - Booster - Chaos Ascendant - ME04 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-chaos-ascendant-me04-en-francais/",
+      "price": 6.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T18:30:55+00:00",
+      "event_id": "6e330c372fcfc39e",
+      "published_at": "2026-06-10T08:41:56+00:00",
+      "modified_at": "2026-11-26T18:28:56+00:00",
       "release_date": null
     }
   ],
