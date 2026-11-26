@@ -3134,20 +3134,6 @@
   },
   "pending": [
     {
-      "id": "218230",
-      "title": "Pokémon - Coffret - Special Box Pokémon Center Fukuoka - en japonais",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-special-box-pokemon-center-fukuoka-en-japonais/",
-      "price": 159.99,
-      "availability": "commandable",
-      "item_category": "Coffrets Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T18:55:35+00:00",
-      "event_id": "ac33cec05cb2e3b2",
-      "published_at": "2026-11-03T13:52:18+00:00",
-      "modified_at": "2026-11-26T18:55:03+00:00",
-      "release_date": null
-    },
-    {
       "id": "218227",
       "title": "Pokémon - Deck de Combat de Ligue - Méga-Lucario-ex - en anglais",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-de-combat-de-ligue-mega-lucario-ex-en-anglais/",
@@ -5706,6 +5692,20 @@
       "event_id": "aafa6677a414dedb",
       "published_at": "2026-11-03T14:34:24+00:00",
       "modified_at": "2026-11-26T18:52:50+00:00",
+      "release_date": null
+    },
+    {
+      "id": "218230",
+      "title": "Pokémon - Coffret - Special Box Pokémon Center Fukuoka - en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-special-box-pokemon-center-fukuoka-en-japonais/",
+      "price": 159.99,
+      "availability": "commandable",
+      "item_category": "Coffrets Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T18:55:35+00:00",
+      "event_id": "ac33cec05cb2e3b2",
+      "published_at": "2026-11-03T13:52:18+00:00",
+      "modified_at": "2026-11-26T18:55:03+00:00",
       "release_date": null
     }
   ],
