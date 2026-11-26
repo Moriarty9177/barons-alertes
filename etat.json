@@ -3069,20 +3069,6 @@
   },
   "pending": [
     {
-      "id": "45308",
-      "title": "Booster Pokemon - Ecarlate et Violet - Flammes Obsidiennes (EV03)",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/booster-pokemon-ecarlate-et-violet-flammes-obsidiennes-ev03/",
-      "price": 11.99,
-      "availability": "commandable",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T18:30:55+00:00",
-      "event_id": "479e3228bb35ccd0",
-      "published_at": "2023-12-13T17:19:03+00:00",
-      "modified_at": "2026-11-26T18:28:45+00:00",
-      "release_date": null
-    },
-    {
       "id": "176367",
       "title": "Pokémon - Booster - Chaos Ascendant - ME04 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-booster-chaos-ascendant-me04-en-francais/",
@@ -5571,6 +5557,20 @@
       "event_id": "1291b65abdbf9ccf",
       "published_at": "2026-08-25T13:55:34+00:00",
       "modified_at": "2026-11-26T11:00:29+00:00",
+      "release_date": null
+    },
+    {
+      "id": "45308",
+      "title": "Booster Pokemon - Ecarlate et Violet - Flammes Obsidiennes (EV03)",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/booster-pokemon-ecarlate-et-violet-flammes-obsidiennes-ev03/",
+      "price": 11.99,
+      "availability": "commandable",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T18:30:55+00:00",
+      "event_id": "479e3228bb35ccd0",
+      "published_at": "2023-12-13T17:19:03+00:00",
+      "modified_at": "2026-11-26T18:28:45+00:00",
       "release_date": null
     }
   ],
