@@ -3132,22 +3132,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "218192",
-      "title": "Pokémon - Tin Box - Poké Ball 2024 - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tin-box-pokemon/pokemon-tin-box-poke-ball-2024-en-francais/",
-      "price": 19.9,
-      "availability": "commandable",
-      "item_category": "Tin-Box Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T18:55:35+00:00",
-      "event_id": "2445d5fa38dad56f",
-      "published_at": "2026-11-03T13:32:58+00:00",
-      "modified_at": "2026-11-26T18:52:35+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -5706,6 +5691,20 @@
       "event_id": "db828e43a3404ff7",
       "published_at": "2026-11-03T13:39:42+00:00",
       "modified_at": "2026-11-26T18:53:13+00:00",
+      "release_date": null
+    },
+    {
+      "id": "218192",
+      "title": "Pokémon - Tin Box - Poké Ball 2024 - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tin-box-pokemon/pokemon-tin-box-poke-ball-2024-en-francais/",
+      "price": 19.9,
+      "availability": "commandable",
+      "item_category": "Tin-Box Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T18:55:35+00:00",
+      "event_id": "2445d5fa38dad56f",
+      "published_at": "2026-11-03T13:32:58+00:00",
+      "modified_at": "2026-11-26T18:52:35+00:00",
       "release_date": null
     }
   ],
