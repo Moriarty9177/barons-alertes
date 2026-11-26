@@ -3043,20 +3043,6 @@
   },
   "pending": [
     {
-      "id": "202622",
-      "title": "Pokémon - Coffret - 30e Anniversaire - Collection Premium avec Figurine Mewtwo - 5 boosters - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-30e-anniversaire-collection-premium-avec-figurine-mewtwo-5-boosters-en-francais/",
-      "price": 71.24,
-      "availability": "commandable",
-      "item_category": "Coffrets Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T17:01:15+00:00",
-      "event_id": "298bedf3ccc41aa0",
-      "published_at": "2026-09-23T14:39:56+00:00",
-      "modified_at": "2026-11-26T16:59:53+00:00",
-      "release_date": null
-    },
-    {
       "id": "193910",
       "title": "Pokémon – Coffret – Nymphali ex – 30e Anniversaire – en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-nymphali-ex-30e-anniversaire-en-francais/",
@@ -5517,6 +5503,20 @@
       "event_id": "f90943eaaca85da5",
       "published_at": "2026-11-26T09:22:40+00:00",
       "modified_at": "2026-11-26T13:22:46+00:00",
+      "release_date": null
+    },
+    {
+      "id": "202622",
+      "title": "Pokémon - Coffret - 30e Anniversaire - Collection Premium avec Figurine Mewtwo - 5 boosters - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-30e-anniversaire-collection-premium-avec-figurine-mewtwo-5-boosters-en-francais/",
+      "price": 71.24,
+      "availability": "commandable",
+      "item_category": "Coffrets Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T17:01:15+00:00",
+      "event_id": "298bedf3ccc41aa0",
+      "published_at": "2026-09-23T14:39:56+00:00",
+      "modified_at": "2026-11-26T16:59:53+00:00",
       "release_date": null
     }
   ],
