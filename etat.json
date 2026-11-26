@@ -3134,20 +3134,6 @@
   },
   "pending": [
     {
-      "id": "218204",
-      "title": "Pokémon - Coffret - Méga-Méganium ex - ME2.5 - en anglais",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-mega-meganium-ex-me2-5-en-anglais/",
-      "price": 59.99,
-      "availability": "commandable",
-      "item_category": "Coffrets Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T18:55:35+00:00",
-      "event_id": "db828e43a3404ff7",
-      "published_at": "2026-11-03T13:39:42+00:00",
-      "modified_at": "2026-11-26T18:53:13+00:00",
-      "release_date": null
-    },
-    {
       "id": "218192",
       "title": "Pokémon - Tin Box - Poké Ball 2024 - en français",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/tin-box-pokemon/pokemon-tin-box-poke-ball-2024-en-francais/",
@@ -5706,6 +5692,20 @@
       "event_id": "a43cfa7a446739ac",
       "published_at": "2026-11-03T13:51:53+00:00",
       "modified_at": "2026-11-26T18:53:54+00:00",
+      "release_date": null
+    },
+    {
+      "id": "218204",
+      "title": "Pokémon - Coffret - Méga-Méganium ex - ME2.5 - en anglais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-mega-meganium-ex-me2-5-en-anglais/",
+      "price": 59.99,
+      "availability": "commandable",
+      "item_category": "Coffrets Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T18:55:35+00:00",
+      "event_id": "db828e43a3404ff7",
+      "published_at": "2026-11-03T13:39:42+00:00",
+      "modified_at": "2026-11-26T18:53:13+00:00",
       "release_date": null
     }
   ],
