@@ -3139,7 +3139,10 @@
       "availability": "commandable",
       "item_category": "Display Pokémon",
       "first_seen_at": "2026-11-26T19:01:13+00:00",
-      "last_seen_at": "2026-11-26T19:01:13+00:00"
+      "last_seen_at": "2026-11-26T19:01:13+00:00",
+      "published_at": "2026-11-03T14:07:07+00:00",
+      "modified_at": "2026-11-26T18:55:38+00:00",
+      "release_date": null
     },
     "218270": {
       "id": "218270",
@@ -3149,7 +3152,10 @@
       "availability": "commandable",
       "item_category": "Display Pokémon",
       "first_seen_at": "2026-11-26T19:01:13+00:00",
-      "last_seen_at": "2026-11-26T19:01:13+00:00"
+      "last_seen_at": "2026-11-26T19:01:13+00:00",
+      "published_at": "2026-11-03T14:06:58+00:00",
+      "modified_at": "2026-11-26T18:55:41+00:00",
+      "release_date": null
     },
     "218257": {
       "id": "218257",
@@ -3159,7 +3165,10 @@
       "availability": "commandable",
       "item_category": "Display Pokémon",
       "first_seen_at": "2026-11-26T19:01:13+00:00",
-      "last_seen_at": "2026-11-26T19:01:13+00:00"
+      "last_seen_at": "2026-11-26T19:01:13+00:00",
+      "published_at": "2026-11-03T14:02:50+00:00",
+      "modified_at": "2026-11-26T18:55:56+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -3172,7 +3181,10 @@
       "item_category": "Display Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-26T19:01:13+00:00",
-      "event_id": "246665548e12dead"
+      "event_id": "246665548e12dead",
+      "published_at": "2026-11-03T14:07:07+00:00",
+      "modified_at": "2026-11-26T18:55:38+00:00",
+      "release_date": null
     },
     {
       "id": "218270",
@@ -3183,7 +3195,10 @@
       "item_category": "Display Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-26T19:01:13+00:00",
-      "event_id": "fdcad72cbe4bf816"
+      "event_id": "fdcad72cbe4bf816",
+      "published_at": "2026-11-03T14:06:58+00:00",
+      "modified_at": "2026-11-26T18:55:41+00:00",
+      "release_date": null
     },
     {
       "id": "218257",
@@ -3194,7 +3209,10 @@
       "item_category": "Display Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-26T19:01:13+00:00",
-      "event_id": "de17e40e6e5e1f74"
+      "event_id": "de17e40e6e5e1f74",
+      "published_at": "2026-11-03T14:02:50+00:00",
+      "modified_at": "2026-11-26T18:55:56+00:00",
+      "release_date": null
     }
   ],
   "sent": [
