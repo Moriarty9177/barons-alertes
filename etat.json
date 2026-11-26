@@ -3171,22 +3171,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "218257",
-      "title": "Pokémon - Demi-Display - Aventures Ensemble - EV09 - Boîte de 18 Boosters en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-demi-display-aventures-ensemble-ev09-boite-de-18-boosters-en-francais/",
-      "price": 129.99,
-      "availability": "commandable",
-      "item_category": "Display Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T19:01:13+00:00",
-      "event_id": "de17e40e6e5e1f74",
-      "published_at": "2026-11-03T14:02:50+00:00",
-      "modified_at": "2026-11-26T18:55:56+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -5787,6 +5772,20 @@
       "event_id": "fdcad72cbe4bf816",
       "published_at": "2026-11-03T14:06:58+00:00",
       "modified_at": "2026-11-26T18:55:41+00:00",
+      "release_date": null
+    },
+    {
+      "id": "218257",
+      "title": "Pokémon - Demi-Display - Aventures Ensemble - EV09 - Boîte de 18 Boosters en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-demi-display-aventures-ensemble-ev09-boite-de-18-boosters-en-francais/",
+      "price": 129.99,
+      "availability": "commandable",
+      "item_category": "Display Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T19:01:13+00:00",
+      "event_id": "de17e40e6e5e1f74",
+      "published_at": "2026-11-03T14:02:50+00:00",
+      "modified_at": "2026-11-26T18:55:56+00:00",
       "release_date": null
     }
   ],
