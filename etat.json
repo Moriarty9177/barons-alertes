@@ -3015,22 +3015,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "227146",
-      "title": "Pokémon - ETB - Règne Delta - ME06 - Coffret Dresseur d'Élite - en français (scellage abîmé)",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-regne-delta-me06-coffret-dresseur-delite-en-francais-scellage-abime/",
-      "price": 89.99,
-      "availability": "commandable",
-      "item_category": "Abîmée",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T13:25:41+00:00",
-      "event_id": "f90943eaaca85da5",
-      "published_at": "2026-11-26T09:22:40+00:00",
-      "modified_at": "2026-11-26T13:22:46+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -5463,6 +5448,20 @@
       "event_id": "f1f03f0ae29461e0",
       "published_at": "2026-11-25T14:27:40+00:00",
       "modified_at": "2026-11-25T16:51:40+00:00",
+      "release_date": null
+    },
+    {
+      "id": "227146",
+      "title": "Pokémon - ETB - Règne Delta - ME06 - Coffret Dresseur d'Élite - en français (scellage abîmé)",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffret-dresseur-delite/pokemon-etb-regne-delta-me06-coffret-dresseur-delite-en-francais-scellage-abime/",
+      "price": 89.99,
+      "availability": "commandable",
+      "item_category": "Abîmée",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T13:25:41+00:00",
+      "event_id": "f90943eaaca85da5",
+      "published_at": "2026-11-26T09:22:40+00:00",
+      "modified_at": "2026-11-26T13:22:46+00:00",
       "release_date": null
     }
   ],
