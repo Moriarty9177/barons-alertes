@@ -3184,22 +3184,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "195060",
-      "title": "Pokémon - Display - Storm Emeralda - M6 - Boite de 30 boosters en japonais",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-storm-emeralda-m6-boite-de-30-boosters-en-japonais/",
-      "price": 199.99,
-      "availability": "precommande",
-      "item_category": "Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T20:05:33+00:00",
-      "event_id": "24acae7e1ad91330",
-      "published_at": "2026-08-25T11:58:11+00:00",
-      "modified_at": "2026-11-26T20:03:41+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -5814,6 +5799,20 @@
       "event_id": "de17e40e6e5e1f74",
       "published_at": "2026-11-03T14:02:50+00:00",
       "modified_at": "2026-11-26T18:55:56+00:00",
+      "release_date": null
+    },
+    {
+      "id": "195060",
+      "title": "Pokémon - Display - Storm Emeralda - M6 - Boite de 30 boosters en japonais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/display-pokemon/pokemon-display-storm-emeralda-m6-boite-de-30-boosters-en-japonais/",
+      "price": 199.99,
+      "availability": "precommande",
+      "item_category": "Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T20:05:33+00:00",
+      "event_id": "24acae7e1ad91330",
+      "published_at": "2026-08-25T11:58:11+00:00",
+      "modified_at": "2026-11-26T20:03:41+00:00",
       "release_date": null
     }
   ],
