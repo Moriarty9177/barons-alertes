@@ -3041,22 +3041,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "193910",
-      "title": "Pokémon – Coffret – Nymphali ex – 30e Anniversaire – en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-nymphali-ex-30e-anniversaire-en-francais/",
-      "price": 44.99,
-      "availability": "commandable",
-      "item_category": "Coffrets Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T17:01:15+00:00",
-      "event_id": "1291b65abdbf9ccf",
-      "published_at": "2026-08-25T13:55:34+00:00",
-      "modified_at": "2026-11-26T11:00:29+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -5517,6 +5502,20 @@
       "event_id": "298bedf3ccc41aa0",
       "published_at": "2026-09-23T14:39:56+00:00",
       "modified_at": "2026-11-26T16:59:53+00:00",
+      "release_date": null
+    },
+    {
+      "id": "193910",
+      "title": "Pokémon – Coffret – Nymphali ex – 30e Anniversaire – en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-nymphali-ex-30e-anniversaire-en-francais/",
+      "price": 44.99,
+      "availability": "commandable",
+      "item_category": "Coffrets Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T17:01:15+00:00",
+      "event_id": "1291b65abdbf9ccf",
+      "published_at": "2026-08-25T13:55:34+00:00",
+      "modified_at": "2026-11-26T11:00:29+00:00",
       "release_date": null
     }
   ],
