@@ -3134,20 +3134,6 @@
   },
   "pending": [
     {
-      "id": "218291",
-      "title": "Pokémon - Blister - Équilibre Parfait - ME03 - en anglais",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-blister-equilibre-parfait-me03-en-anglais/",
-      "price": 5.99,
-      "availability": "commandable",
-      "item_category": "Booster Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-26T18:55:35+00:00",
-      "event_id": "aafa6677a414dedb",
-      "published_at": "2026-11-03T14:34:24+00:00",
-      "modified_at": "2026-11-26T18:52:50+00:00",
-      "release_date": null
-    },
-    {
       "id": "218230",
       "title": "Pokémon - Coffret - Special Box Pokémon Center Fukuoka - en japonais",
       "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-special-box-pokemon-center-fukuoka-en-japonais/",
@@ -5706,6 +5692,20 @@
       "event_id": "6e330c372fcfc39e",
       "published_at": "2026-06-10T08:41:56+00:00",
       "modified_at": "2026-11-26T18:28:56+00:00",
+      "release_date": null
+    },
+    {
+      "id": "218291",
+      "title": "Pokémon - Blister - Équilibre Parfait - ME03 - en anglais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/booster-pokemon/pokemon-blister-equilibre-parfait-me03-en-anglais/",
+      "price": 5.99,
+      "availability": "commandable",
+      "item_category": "Booster Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-26T18:55:35+00:00",
+      "event_id": "aafa6677a414dedb",
+      "published_at": "2026-11-03T14:34:24+00:00",
+      "modified_at": "2026-11-26T18:52:50+00:00",
       "release_date": null
     }
   ],
