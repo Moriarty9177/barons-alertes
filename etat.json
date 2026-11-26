@@ -3074,7 +3074,10 @@
       "availability": "commandable",
       "item_category": "Booster Pokémon",
       "first_seen_at": "2026-11-26T18:55:35+00:00",
-      "last_seen_at": "2026-11-26T18:55:35+00:00"
+      "last_seen_at": "2026-11-26T18:55:35+00:00",
+      "published_at": "2026-11-03T14:34:24+00:00",
+      "modified_at": "2026-11-26T18:52:50+00:00",
+      "release_date": null
     },
     "218230": {
       "id": "218230",
@@ -3084,7 +3087,10 @@
       "availability": "commandable",
       "item_category": "Coffrets Pokémon",
       "first_seen_at": "2026-11-26T18:55:35+00:00",
-      "last_seen_at": "2026-11-26T18:55:35+00:00"
+      "last_seen_at": "2026-11-26T18:55:35+00:00",
+      "published_at": "2026-11-03T13:52:18+00:00",
+      "modified_at": "2026-11-26T18:55:03+00:00",
+      "release_date": null
     },
     "218227": {
       "id": "218227",
@@ -3094,7 +3100,10 @@
       "availability": "commandable",
       "item_category": "Deck de Combat Pokémon",
       "first_seen_at": "2026-11-26T18:55:35+00:00",
-      "last_seen_at": "2026-11-26T18:55:35+00:00"
+      "last_seen_at": "2026-11-26T18:55:35+00:00",
+      "published_at": "2026-11-03T13:51:53+00:00",
+      "modified_at": "2026-11-26T18:53:54+00:00",
+      "release_date": null
     },
     "218204": {
       "id": "218204",
@@ -3104,7 +3113,10 @@
       "availability": "commandable",
       "item_category": "Coffrets Pokémon",
       "first_seen_at": "2026-11-26T18:55:35+00:00",
-      "last_seen_at": "2026-11-26T18:55:35+00:00"
+      "last_seen_at": "2026-11-26T18:55:35+00:00",
+      "published_at": "2026-11-03T13:39:42+00:00",
+      "modified_at": "2026-11-26T18:53:13+00:00",
+      "release_date": null
     },
     "218192": {
       "id": "218192",
@@ -3114,7 +3126,10 @@
       "availability": "commandable",
       "item_category": "Tin-Box Pokémon",
       "first_seen_at": "2026-11-26T18:55:35+00:00",
-      "last_seen_at": "2026-11-26T18:55:35+00:00"
+      "last_seen_at": "2026-11-26T18:55:35+00:00",
+      "published_at": "2026-11-03T13:32:58+00:00",
+      "modified_at": "2026-11-26T18:52:35+00:00",
+      "release_date": null
     }
   },
   "pending": [
@@ -3127,7 +3142,10 @@
       "item_category": "Booster Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-26T18:55:35+00:00",
-      "event_id": "aafa6677a414dedb"
+      "event_id": "aafa6677a414dedb",
+      "published_at": "2026-11-03T14:34:24+00:00",
+      "modified_at": "2026-11-26T18:52:50+00:00",
+      "release_date": null
     },
     {
       "id": "218230",
@@ -3138,7 +3156,10 @@
       "item_category": "Coffrets Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-26T18:55:35+00:00",
-      "event_id": "ac33cec05cb2e3b2"
+      "event_id": "ac33cec05cb2e3b2",
+      "published_at": "2026-11-03T13:52:18+00:00",
+      "modified_at": "2026-11-26T18:55:03+00:00",
+      "release_date": null
     },
     {
       "id": "218227",
@@ -3149,7 +3170,10 @@
       "item_category": "Deck de Combat Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-26T18:55:35+00:00",
-      "event_id": "a43cfa7a446739ac"
+      "event_id": "a43cfa7a446739ac",
+      "published_at": "2026-11-03T13:51:53+00:00",
+      "modified_at": "2026-11-26T18:53:54+00:00",
+      "release_date": null
     },
     {
       "id": "218204",
@@ -3160,7 +3184,10 @@
       "item_category": "Coffrets Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-26T18:55:35+00:00",
-      "event_id": "db828e43a3404ff7"
+      "event_id": "db828e43a3404ff7",
+      "published_at": "2026-11-03T13:39:42+00:00",
+      "modified_at": "2026-11-26T18:53:13+00:00",
+      "release_date": null
     },
     {
       "id": "218192",
@@ -3171,7 +3198,10 @@
       "item_category": "Tin-Box Pokémon",
       "cause": "nouvelle_fiche",
       "observed_at": "2026-11-26T18:55:35+00:00",
-      "event_id": "2445d5fa38dad56f"
+      "event_id": "2445d5fa38dad56f",
+      "published_at": "2026-11-03T13:32:58+00:00",
+      "modified_at": "2026-11-26T18:52:35+00:00",
+      "release_date": null
     }
   ],
   "sent": [
