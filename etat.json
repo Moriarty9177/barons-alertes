@@ -3210,22 +3210,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "223443",
-      "title": "Pokémon - Coffret - Collection Création de Deck - Miaouss-ex - en français",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-collection-creation-de-deck-miaouss-ex-en-francais/",
-      "price": 12.99,
-      "availability": "commandable",
-      "item_category": "Coffrets Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-27T11:25:32+00:00",
-      "event_id": "69267e53ab9c9b5d",
-      "published_at": "2026-11-16T11:23:54+00:00",
-      "modified_at": "2026-11-27T11:21:38+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -5868,6 +5853,20 @@
       "event_id": "d7c6c5d4a3074510",
       "published_at": "2026-11-03T13:34:27+00:00",
       "modified_at": "2026-11-27T11:01:13+00:00",
+      "release_date": null
+    },
+    {
+      "id": "223443",
+      "title": "Pokémon - Coffret - Collection Création de Deck - Miaouss-ex - en français",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/coffrets-pokemon/pokemon-coffret-collection-creation-de-deck-miaouss-ex-en-francais/",
+      "price": 12.99,
+      "availability": "commandable",
+      "item_category": "Coffrets Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-27T11:25:32+00:00",
+      "event_id": "69267e53ab9c9b5d",
+      "published_at": "2026-11-16T11:23:54+00:00",
+      "modified_at": "2026-11-27T11:21:38+00:00",
       "release_date": null
     }
   ],
