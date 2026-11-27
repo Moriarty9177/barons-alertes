@@ -3197,22 +3197,7 @@
       "release_date": null
     }
   },
-  "pending": [
-    {
-      "id": "218193",
-      "title": "Pokémon - Deck de Combat - Ampharos-ex / Lucario-ex - en anglais",
-      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-de-combat-ampharos-ex-lucario-ex-en-anglais/",
-      "price": 19.99,
-      "availability": "commandable",
-      "item_category": "Deck de Combat Pokémon",
-      "cause": "nouvelle_fiche",
-      "observed_at": "2026-11-27T11:05:34+00:00",
-      "event_id": "d7c6c5d4a3074510",
-      "published_at": "2026-11-03T13:34:27+00:00",
-      "modified_at": "2026-11-27T11:01:13+00:00",
-      "release_date": null
-    }
-  ],
+  "pending": [],
   "sent": [
     {
       "id": "204656",
@@ -5841,6 +5826,20 @@
       "event_id": "24acae7e1ad91330",
       "published_at": "2026-08-25T11:58:11+00:00",
       "modified_at": "2026-11-26T20:03:41+00:00",
+      "release_date": null
+    },
+    {
+      "id": "218193",
+      "title": "Pokémon - Deck de Combat - Ampharos-ex / Lucario-ex - en anglais",
+      "url": "https://lecoindesbarons.com/tradingcard-game/cartes-pokemon/deck-de-combat-pokemon/pokemon-deck-de-combat-ampharos-ex-lucario-ex-en-anglais/",
+      "price": 19.99,
+      "availability": "commandable",
+      "item_category": "Deck de Combat Pokémon",
+      "cause": "nouvelle_fiche",
+      "observed_at": "2026-11-27T11:05:34+00:00",
+      "event_id": "d7c6c5d4a3074510",
+      "published_at": "2026-11-03T13:34:27+00:00",
+      "modified_at": "2026-11-27T11:01:13+00:00",
       "release_date": null
     }
   ],
